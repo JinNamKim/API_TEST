@@ -72,3 +72,6 @@ D:\진남_일지\LMS_TEST\test_api\obj\Release\test_api.csprojResolveAssemblyRef
 D:\진남_일지\LMS_TEST\test_api\obj\Release\test_api.Form1.resources
 D:\진남_일지\LMS_TEST\test_api\obj\Release\test_api.Properties.Resources.resources
 D:\진남_일지\LMS_TEST\test_api\obj\Release\test_api.csproj.GenerateResource.Cache
+D:\git\200630\LMS_TEST\API_TEST\test_api\bin\Release\test_api.exe.config
+D:\git\200630\LMS_TEST\API_TEST\test_api\obj\Release\test_api.exe
+D:\git\200630\LMS_TEST\API_TEST\test_api\obj\Release\test_api.pdb

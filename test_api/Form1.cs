@@ -30,6 +30,7 @@ namespace test_api
             //AJ_RESPONSE_initializedInfo aaa = new AJ_RESPONSE_initializedInfo();
             AJ_RESPONSE_initializedInfo bbb = new AJ_RESPONSE_initializedInfo();
             //TEST
+            //TEST 2 FROM MSI
             bbb = AJWebDatabase.AJ_Get_Initial_Info(3);
         }
 
