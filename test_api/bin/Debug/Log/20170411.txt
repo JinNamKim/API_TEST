@@ -1,0 +1,222 @@
+13:46:49:751:
+13:46:49:752: === 09. Polling Data 시작 === 
+13:46:49:753:접속 주소 : http://://api/equipment/get/log
+13:46:49:823:동작 실패
+13:46:49:824:-e : System.UriFormatException: 잘못된 URI: 호스트 이름을 구문 분석할 수 없습니다.
+   위치: System.Uri.CreateThis(String uri, Boolean dontEscape, UriKind uriKind)
+   위치: System.Uri..ctor(String uriString)
+   위치: RestSharp.RestClient..ctor(String baseUrl)
+   위치: AJParkLib.AJDataBase.AJWebDatabase.temp_name_9(String localEquipmentId) 파일 c:\Users\AJ_JIN\Desktop\AJ_PL\AJDataBase\AJWebDatabase.cs:줄 1976
+13:46:49:968:-e.StackTrace :    위치: System.Uri.CreateThis(String uri, Boolean dontEscape, UriKind uriKind)
+   위치: System.Uri..ctor(String uriString)
+   위치: RestSharp.RestClient..ctor(String baseUrl)
+   위치: AJParkLib.AJDataBase.AJWebDatabase.temp_name_9(String localEquipmentId) 파일 c:\Users\AJ_JIN\Desktop\AJ_PL\AJDataBase\AJWebDatabase.cs:줄 1976
+13:46:49:968:모든 파싱 종료
+13:46:49:968:
+13:46:49:969: === 09. Polling Data 끝 === 
+13:47:07:843:
+13:47:07:844: === 09. Polling Data 시작 === 
+13:47:07:844:접속 주소 : http://192.168.1.100:2080//api/equipment/get/log
+13:47:07:853:
+13:47:07:854: ------ 파라미터 목록 ------ 
+13:47:07:855:localEquipmentId(장비 UID) : 1
+13:47:07:855: ------ 파라미터 목록 끝 ------ 
+13:47:08:046:
+13:47:08:047: ------ 응답 목록 ------ 
+13:47:08:048:code : 0
+13:47:08:048:errmsgvariable : 
+13:47:08:049:errmsg : 
+13:47:08:049:key : ERR_NOERR
+13:47:08:051:
+13:47:08:052: ------ 폴링정보 리스트 ------ 
+13:47:08:052:폴링 정보 리스트의 개수 : 0
+13:47:08:053: ------ 폴링정보 리스트 끝 ------ 
+13:47:08:054: ------ 응답 목록 끝 ------ 
+13:47:08:054:전체 동작 성공
+13:47:08:055:모든 파싱 종료
+13:47:08:055:
+13:47:08:056: === 09. Polling Data 끝 === 
+13:47:31:127:
+13:47:31:127: === 01. 초기 장비 세팅 정보 시작 === 
+13:47:31:128:접속 주소 : http://192.168.1.100:2080//api/equipment/get/initializedInfo
+13:47:31:138:
+13:47:31:139: ------ 파라미터 목록 ------ 
+13:47:31:140:localEquipmentId(장비 UID) : 3
+13:47:31:141: ------ 파라미터 목록 끝 ------ 
+13:47:31:342:
+13:47:31:343: ------ 응답 목록 ------ 
+13:47:31:343:code : 0
+13:47:31:344:errmsgvariable : 
+13:47:31:344:errmsg : 
+13:47:31:345:key : ERR_NOERR
+13:47:31:346:
+13:47:31:347: ------ lprInfo 리스트 관련 응답 ------ 
+13:47:31:347:lprInfo의 개수 : 0
+13:47:31:348: ------ lprInfo 리스트 관련 응답 끝 ------ 
+13:47:31:348:
+13:47:31:349: ------ kioskInfo 리스트 관련 응답 ------ 
+13:47:31:349:kioskInfo 개수 : 1
+13:47:31:351:
+13:47:31:351:0번 kioskInfo -> localEquipmentId : 3
+13:47:31:352:0번 kioskInfo -> type : kiosk
+13:47:31:353:0번 kioskInfo -> name : 출구무인
+13:47:31:353:0번 kioskInfo -> equipmentStatus : offline
+13:47:31:354:0번 kioskInfo -> equipmentNo : 3
+13:47:31:354:0번 kioskInfo -> powerIp : 
+13:47:31:355:0번 kioskInfo -> powerPort : 
+13:47:31:355:0번 kioskInfo -> equipmentIp : 192.10.60.121
+13:47:31:356:0번 kioskInfo -> equipmentPort : 30200
+13:47:31:356:0번 kioskInfo -> displayIp : 192.10.60.125
+13:47:31:356:0번 kioskInfo -> displayPort : 5000
+13:47:31:357:0번 kioskInfo -> barrierPort : 
+13:47:31:357:0번 kioskInfo -> location : kioskexit
+13:47:31:358:0번 kioskInfo -> dvrIp : 192.10.60.1
+13:47:31:358:0번 kioskInfo -> dvrPort : 3999
+13:47:31:359:0번 kioskInfo -> won500Price : 500
+13:47:31:360:0번 kioskInfo -> won100Price : 100
+13:47:31:360:
+13:47:31:361: ------ kiosk child 리스트 관련 응답 ------ 
+13:47:31:361:kiosk child 개수 : 14
+13:47:31:362:
+13:47:31:362:0번 kiosk child ->  localEquipmentKioskId : 1
+13:47:31:363:0번 kiosk child ->  name : 0
+13:47:31:363:0번 kiosk child ->  port : 0
+13:47:31:364:0번 kiosk child ->  localEquipmentId : 0
+13:47:31:364:0번 kiosk child ->  equipmentKioskStatus : 0
+13:47:31:365:0번 kiosk child ->  isUse : 0
+13:47:31:365:
+13:47:31:366:1번 kiosk child ->  localEquipmentKioskId : 2
+13:47:31:366:1번 kiosk child ->  name : 1
+13:47:31:367:1번 kiosk child ->  port : 1
+13:47:31:557:1번 kiosk child ->  localEquipmentId : 1
+13:47:31:557:1번 kiosk child ->  equipmentKioskStatus : 1
+13:47:31:558:1번 kiosk child ->  isUse : 1
+13:47:31:559:
+13:47:31:559:2번 kiosk child ->  localEquipmentKioskId : 3
+13:47:31:560:2번 kiosk child ->  name : 2
+13:47:31:560:2번 kiosk child ->  port : 2
+13:47:31:560:2번 kiosk child ->  localEquipmentId : 2
+13:47:31:561:2번 kiosk child ->  equipmentKioskStatus : 2
+13:47:31:562:2번 kiosk child ->  isUse : 2
+13:47:31:562:
+13:47:31:563:3번 kiosk child ->  localEquipmentKioskId : 4
+13:47:31:563:3번 kiosk child ->  name : 3
+13:47:31:564:3번 kiosk child ->  port : 3
+13:47:31:564:3번 kiosk child ->  localEquipmentId : 3
+13:47:31:565:3번 kiosk child ->  equipmentKioskStatus : 3
+13:47:31:566:3번 kiosk child ->  isUse : 3
+13:47:31:566:
+13:47:31:566:4번 kiosk child ->  localEquipmentKioskId : 5
+13:47:31:567:4번 kiosk child ->  name : 4
+13:47:31:567:4번 kiosk child ->  port : 4
+13:47:31:568:4번 kiosk child ->  localEquipmentId : 4
+13:47:31:756:4번 kiosk child ->  equipmentKioskStatus : 4
+13:47:31:757:4번 kiosk child ->  isUse : 4
+13:47:31:757:
+13:47:31:757:5번 kiosk child ->  localEquipmentKioskId : 6
+13:47:31:758:5번 kiosk child ->  name : 5
+13:47:31:758:5번 kiosk child ->  port : 5
+13:47:31:758:5번 kiosk child ->  localEquipmentId : 5
+13:47:31:759:5번 kiosk child ->  equipmentKioskStatus : 5
+13:47:31:759:5번 kiosk child ->  isUse : 5
+13:47:31:759:
+13:47:31:759:6번 kiosk child ->  localEquipmentKioskId : 7
+13:47:31:759:6번 kiosk child ->  name : 6
+13:47:31:760:6번 kiosk child ->  port : 6
+13:47:31:760:6번 kiosk child ->  localEquipmentId : 6
+13:47:31:760:6번 kiosk child ->  equipmentKioskStatus : 6
+13:47:31:760:6번 kiosk child ->  isUse : 6
+13:47:31:760:
+13:47:31:761:7번 kiosk child ->  localEquipmentKioskId : 8
+13:47:31:761:7번 kiosk child ->  name : 7
+13:47:31:761:7번 kiosk child ->  port : 7
+13:47:31:761:7번 kiosk child ->  localEquipmentId : 7
+13:47:31:761:7번 kiosk child ->  equipmentKioskStatus : 7
+13:47:31:956:7번 kiosk child ->  isUse : 7
+13:47:31:957:
+13:47:31:957:8번 kiosk child ->  localEquipmentKioskId : 9
+13:47:31:958:8번 kiosk child ->  name : 8
+13:47:31:959:8번 kiosk child ->  port : 8
+13:47:31:959:8번 kiosk child ->  localEquipmentId : 8
+13:47:31:960:8번 kiosk child ->  equipmentKioskStatus : 8
+13:47:31:960:8번 kiosk child ->  isUse : 8
+13:47:31:961:
+13:47:31:961:9번 kiosk child ->  localEquipmentKioskId : 10
+13:47:31:961:9번 kiosk child ->  name : 9
+13:47:31:962:9번 kiosk child ->  port : 9
+13:47:31:962:9번 kiosk child ->  localEquipmentId : 9
+13:47:31:963:9번 kiosk child ->  equipmentKioskStatus : 9
+13:47:31:963:9번 kiosk child ->  isUse : 9
+13:47:31:963:
+13:47:31:963:10번 kiosk child ->  localEquipmentKioskId : 11
+13:47:31:964:10번 kiosk child ->  name : 10
+13:47:31:964:10번 kiosk child ->  port : 10
+13:47:31:964:10번 kiosk child ->  localEquipmentId : 10
+13:47:31:965:10번 kiosk child ->  equipmentKioskStatus : 10
+13:47:31:965:10번 kiosk child ->  isUse : 10
+13:47:31:966:
+13:47:32:156:11번 kiosk child ->  localEquipmentKioskId : 12
+13:47:32:157:11번 kiosk child ->  name : 11
+13:47:32:157:11번 kiosk child ->  port : 11
+13:47:32:157:11번 kiosk child ->  localEquipmentId : 11
+13:47:32:157:11번 kiosk child ->  equipmentKioskStatus : 11
+13:47:32:158:11번 kiosk child ->  isUse : 11
+13:47:32:158:
+13:47:32:158:12번 kiosk child ->  localEquipmentKioskId : 13
+13:47:32:158:12번 kiosk child ->  name : 12
+13:47:32:159:12번 kiosk child ->  port : 12
+13:47:32:159:12번 kiosk child ->  localEquipmentId : 12
+13:47:32:159:12번 kiosk child ->  equipmentKioskStatus : 12
+13:47:32:159:12번 kiosk child ->  isUse : 12
+13:47:32:160:
+13:47:32:160:13번 kiosk child ->  localEquipmentKioskId : 14
+13:47:32:160:13번 kiosk child ->  name : 13
+13:47:32:160:13번 kiosk child ->  port : 13
+13:47:32:161:13번 kiosk child ->  localEquipmentId : 13
+13:47:32:161:13번 kiosk child ->  equipmentKioskStatus : 13
+13:47:32:161:13번 kiosk child ->  isUse : 13
+13:47:32:161: ------ kiosk child 리스트 관련 응답 끝 ------ 
+13:47:32:356: ------ kioskInfo 리스트 관련 응답 끝 ------ 
+13:47:32:357: ------ 응답 목록 끝------ 
+13:47:32:357:전체 동작 성공
+13:47:32:358:모든 파싱 종료
+13:48:00:340:
+13:48:00:341: === 09. Polling Data 시작 === 
+13:48:00:341:접속 주소 : http://192.168.1.100:2080//api/equipment/get/log
+13:48:00:349:
+13:48:00:350: ------ 파라미터 목록 ------ 
+13:48:00:351:localEquipmentId(장비 UID) : 3
+13:48:00:351: ------ 파라미터 목록 끝 ------ 
+13:48:00:536:
+13:48:00:537: ------ 응답 목록 ------ 
+13:48:00:537:code : 0
+13:48:00:538:errmsgvariable : 
+13:48:00:539:errmsg : 
+13:48:00:539:key : ERR_NOERR
+13:48:00:540:
+13:48:00:541: ------ 폴링정보 리스트 ------ 
+13:48:00:542:폴링 정보 리스트의 개수 : 0
+13:48:00:542: ------ 폴링정보 리스트 끝 ------ 
+13:48:00:542: ------ 응답 목록 끝 ------ 
+13:48:00:543:전체 동작 성공
+13:48:00:543:모든 파싱 종료
+13:48:00:544:
+13:48:00:545: === 09. Polling Data 끝 === 
+15:44:22:628:
+15:44:22:629: === 05. 정기권 정보 전달 시작 === 
+15:44:22:630:접속 주소 : http://192.168.1.100:2080//api/equipment/get/monthlyTicketInfo
+15:44:22:876:
+15:44:22:876: ------ 응답 목록 ------ 
+15:44:22:877:code : 0
+15:44:22:877:errmsgvariable : 
+15:44:22:877:errmsg : 
+15:44:22:877:key : ERR_NOERR
+15:44:22:878:
+15:44:22:878: ------ 먼쓸리 티켓 인포 리스트 ------ 
+15:44:22:878:먼쓸리 티켓 인포 리스트 개수 : 263
+15:44:22:880: ------ 먼쓸리 티켓 인포 리스트 끝 ------ 
+15:44:22:881: ------ 응답 목록 끝 ------ 
+15:44:22:881:전체 동작 성공
+15:44:22:881:모든 파싱 종료
+15:44:22:881:
+15:44:22:882: === 05. 정기권 정보 전달 끝 === 

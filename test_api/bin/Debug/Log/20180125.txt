@@ -1,0 +1,16 @@
+22:11:59:161:
+22:11:59:162: === 20. 법인 차량 사전 정산 결제 API 시작 === 
+22:11:59:162:접속 주소 : http://://api/parking/prepay/corporateCar
+22:11:59:217:동작 실패
+22:11:59:381:-e : System.UriFormatException: 잘못된 URI: 호스트 이름을 구문 분석할 수 없습니다.
+   위치: System.Uri.CreateThis(String uri, Boolean dontEscape, UriKind uriKind)
+   위치: System.Uri..ctor(String uriString)
+   위치: RestSharp.RestClient..ctor(String baseUrl)
+   위치: AJParkLib.AJDataBase.AJWebDatabase.temp_name_21(Int32 localEquipmentId, Int32 localCorporateCarId, String localParkingId, Int32 price, Int32 discountPrice, DateTime leaveDate) 파일 c:\Users\AJ_JIN\Desktop\AJ_PL_TEMP_2\170502_유인정산기\AJ_PL_TEMP\AJDataBase\AJWebDatabase.cs:줄 5265
+22:11:59:382:-e.StackTrace :    위치: System.Uri.CreateThis(String uri, Boolean dontEscape, UriKind uriKind)
+   위치: System.Uri..ctor(String uriString)
+   위치: RestSharp.RestClient..ctor(String baseUrl)
+   위치: AJParkLib.AJDataBase.AJWebDatabase.temp_name_21(Int32 localEquipmentId, Int32 localCorporateCarId, String localParkingId, Int32 price, Int32 discountPrice, DateTime leaveDate) 파일 c:\Users\AJ_JIN\Desktop\AJ_PL_TEMP_2\170502_유인정산기\AJ_PL_TEMP\AJDataBase\AJWebDatabase.cs:줄 5265
+22:11:59:581:모든 파싱 종료
+22:11:59:582:
+22:11:59:582: === 20. 법인 차량 사전 정산 결제 API 끝 === 

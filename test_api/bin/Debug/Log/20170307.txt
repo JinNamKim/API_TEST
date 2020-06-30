@@ -1,0 +1,91 @@
+18:00:00:925:
+18:00:00:926: === 13. 요금 정산 API 시작 === 
+18:00:00:926:접속 주소 : http://192.10.60.101:2080//api/parking/leave/price
+18:00:00:968:동작 실패
+18:00:01:138:-e : System.IO.FileNotFoundException: 'c:\123123.jpg' 파일을 찾을 수 없습니다.
+파일 이름: 'c:\123123.jpg'
+   위치: System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   위치: System.IO.FileInfo.get_Length()
+   위치: RestSharp.RestRequest.AddFile(String name, String path, String contentType)
+   위치: AJParkLib.AJDataBase.AJWebDatabase.temp_name_14(String carNo, DateTime leaveDate, Int32 localEquipmentId, String image, String isSmallCar, String localParkingId) 파일 c:\Users\AJ_JIN\Desktop\AJ_PL\AJDataBase\AJWebDatabase.cs:줄 3030
+18:00:01:139:-e.StackTrace :    위치: System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   위치: System.IO.FileInfo.get_Length()
+   위치: RestSharp.RestRequest.AddFile(String name, String path, String contentType)
+   위치: AJParkLib.AJDataBase.AJWebDatabase.temp_name_14(String carNo, DateTime leaveDate, Int32 localEquipmentId, String image, String isSmallCar, String localParkingId) 파일 c:\Users\AJ_JIN\Desktop\AJ_PL\AJDataBase\AJWebDatabase.cs:줄 3030
+18:00:01:337:모든 파싱 종료
+18:00:01:337:
+18:00:01:338: === 13. 요금 정산 API 끝 === 
+18:00:31:304:
+18:00:31:305: === 13. 요금 정산 API 시작 === 
+18:00:31:307:접속 주소 : http://192.10.60.101:2080//api/parking/leave/price
+18:00:31:319:
+18:00:31:320: ------ 파라미터 목록 ------ 
+18:00:31:321:carNo : 12헤1234
+18:00:31:322:leaveDate(DateTime) : 2017-03-07 오후 6:00:31
+18:00:31:322:leaveDate(TimeStamp) : 1488877231218
+18:00:31:323:localEquipmentId : 1
+18:00:31:323:image : c:\123123.jpg
+18:00:31:324:isSmallCar : n
+18:00:31:325:localParkingId : 
+18:00:31:325: ------ 파라미터 목록 끝 ------ 
+18:00:31:527:
+18:00:31:528: ------ 응답 목록 ------ 
+18:00:31:529:code : 0
+18:00:31:529:errmsgvariable : 
+18:00:31:530:errmsg : 
+18:00:31:531:key : ERR_NOERR
+18:00:31:531:parkingType : 
+18:00:31:532:realPrice : 
+18:00:31:532:price : 
+18:00:31:532:discountPrice : 
+18:00:31:533:enterDate(TimeStamp) : 
+18:00:31:534:enterDate(DateTime) : 1970-01-01 오전 9:00:00
+18:00:31:534:durationSecond : 
+18:00:31:535:prePayDiscountInfoId : 
+18:00:31:535:insertPrice : 
+18:00:31:536:recurrence : 
+18:00:31:536:localParkingId : 
+18:00:31:537:lackPrice : 
+18:00:31:537:prepayPrice : 
+18:00:31:538: ------ 응답 목록 끝 ------ 
+18:00:31:538:전체 동작 성공
+18:00:31:539:모든 파싱 종료
+18:00:31:539:
+18:00:31:540: === 13. 요금 정산 API 끝 === 
+18:01:00:575:
+18:01:00:576: === 13. 요금 정산 API 시작 === 
+18:01:00:695:접속 주소 : http://192.10.60.101:2080//api/parking/leave/price
+18:01:00:706:
+18:01:00:707: ------ 파라미터 목록 ------ 
+18:01:00:707:carNo : 12김7865
+18:01:00:708:leaveDate(DateTime) : 2017-03-07 오후 6:01:00
+18:01:00:708:leaveDate(TimeStamp) : 1488877260501
+18:01:00:709:localEquipmentId : 1
+18:01:00:709:image : c:\123123.jpg
+18:01:00:710:isSmallCar : n
+18:01:00:711:localParkingId : 
+18:01:00:711: ------ 파라미터 목록 끝 ------ 
+18:01:01:439:
+18:01:01:439: ------ 응답 목록 ------ 
+18:01:01:440:code : 0
+18:01:01:440:errmsgvariable : 
+18:01:01:441:errmsg : 
+18:01:01:441:key : ERR_NOERR
+18:01:01:442:parkingType : normal
+18:01:01:443:realPrice : 39000
+18:01:01:444:price : 39000
+18:01:01:444:discountPrice : 0
+18:01:01:445:enterDate(TimeStamp) : 1488852000000
+18:01:01:446:enterDate(DateTime) : 2017-03-07 오전 11:00:00
+18:01:01:447:durationSecond : 25260
+18:01:01:447:prePayDiscountInfoId : 
+18:01:01:447:insertPrice : 0
+18:01:01:448:recurrence : 
+18:01:01:449:localParkingId : 
+18:01:01:449:lackPrice : 
+18:01:01:450:prepayPrice : 0
+18:01:01:450: ------ 응답 목록 끝 ------ 
+18:01:01:451:전체 동작 성공
+18:01:01:452:모든 파싱 종료
+18:01:01:452:
+18:01:01:453: === 13. 요금 정산 API 끝 === 

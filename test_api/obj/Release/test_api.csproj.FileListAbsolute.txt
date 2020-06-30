@@ -1,0 +1,74 @@
+C:\Users\AJ_JIN\Desktop\AJ_PL\test_api\test_api\obj\Release\test_api.csprojResolveAssemblyReference.cache
+C:\Users\AJ_JIN\Desktop\AJ_PL\test_api\test_api\obj\Release\test_api.Form1.resources
+C:\Users\AJ_JIN\Desktop\AJ_PL\test_api\test_api\obj\Release\test_api.Properties.Resources.resources
+C:\Users\AJ_JIN\Desktop\AJ_PL\test_api\test_api\obj\Release\test_api.csproj.GenerateResource.Cache
+C:\Users\AJ_JIN\Desktop\AJ_PL\test_api\test_api\bin\Release\test_api.exe.config
+C:\Users\AJ_JIN\Desktop\AJ_PL\test_api\test_api\bin\Release\test_api.exe
+C:\Users\AJ_JIN\Desktop\AJ_PL\test_api\test_api\bin\Release\test_api.pdb
+C:\Users\AJ_JIN\Desktop\AJ_PL\test_api\test_api\bin\Release\AJCommon.dll
+C:\Users\AJ_JIN\Desktop\AJ_PL\test_api\test_api\bin\Release\AJDataBase.dll
+C:\Users\AJ_JIN\Desktop\AJ_PL\test_api\test_api\bin\Release\AJDataClass.dll
+C:\Users\AJ_JIN\Desktop\AJ_PL\test_api\test_api\bin\Release\AJLog.dll
+C:\Users\AJ_JIN\Desktop\AJ_PL\test_api\test_api\bin\Release\AJEnums.dll
+C:\Users\AJ_JIN\Desktop\AJ_PL\test_api\test_api\bin\Release\AJCommon.pdb
+C:\Users\AJ_JIN\Desktop\AJ_PL\test_api\test_api\bin\Release\AJDataBase.pdb
+C:\Users\AJ_JIN\Desktop\AJ_PL\test_api\test_api\bin\Release\AJDataClass.pdb
+C:\Users\AJ_JIN\Desktop\AJ_PL\test_api\test_api\bin\Release\AJLog.pdb
+C:\Users\AJ_JIN\Desktop\AJ_PL\test_api\test_api\bin\Release\AJEnums.pdb
+C:\Users\AJ_JIN\Desktop\AJ_PL\test_api\test_api\obj\Release\test_api.exe
+C:\Users\AJ_JIN\Desktop\AJ_PL\test_api\test_api\obj\Release\test_api.pdb
+C:\Users\AJ_JIN\Desktop\AJ_PL_TEMP_2\170502_유인정산기\AJ_PL_TEMP\test_api_0518\test_api\bin\Release\test_api.exe.config
+C:\Users\AJ_JIN\Desktop\AJ_PL_TEMP_2\170502_유인정산기\AJ_PL_TEMP\test_api_0518\test_api\obj\Release\test_api.exe
+C:\Users\AJ_JIN\Desktop\AJ_PL_TEMP_2\170502_유인정산기\AJ_PL_TEMP\test_api_0518\test_api\obj\Release\test_api.pdb
+C:\Users\AJ_JIN\Desktop\AJ_PL_TEMP_2\170502_유인정산기\AJ_PL_TEMP\test_api_0518\test_api\bin\Release\test_api.exe
+C:\Users\AJ_JIN\Desktop\AJ_PL_TEMP_2\170502_유인정산기\AJ_PL_TEMP\test_api_0518\test_api\bin\Release\test_api.pdb
+C:\Users\AJ_JIN\Desktop\AJ_PL_TEMP_2\170502_유인정산기\AJ_PL_TEMP\test_api_0518\test_api\bin\Release\AJCommon.dll
+C:\Users\AJ_JIN\Desktop\AJ_PL_TEMP_2\170502_유인정산기\AJ_PL_TEMP\test_api_0518\test_api\bin\Release\AJDataBase.dll
+C:\Users\AJ_JIN\Desktop\AJ_PL_TEMP_2\170502_유인정산기\AJ_PL_TEMP\test_api_0518\test_api\bin\Release\AJDataClass.dll
+C:\Users\AJ_JIN\Desktop\AJ_PL_TEMP_2\170502_유인정산기\AJ_PL_TEMP\test_api_0518\test_api\bin\Release\AJLog.dll
+C:\Users\AJ_JIN\Desktop\AJ_PL_TEMP_2\170502_유인정산기\AJ_PL_TEMP\test_api_0518\test_api\bin\Release\AJEnums.dll
+C:\Users\AJ_JIN\Desktop\AJ_PL_TEMP_2\170502_유인정산기\AJ_PL_TEMP\test_api_0518\test_api\bin\Release\AJCommon.pdb
+C:\Users\AJ_JIN\Desktop\AJ_PL_TEMP_2\170502_유인정산기\AJ_PL_TEMP\test_api_0518\test_api\bin\Release\AJDataBase.pdb
+C:\Users\AJ_JIN\Desktop\AJ_PL_TEMP_2\170502_유인정산기\AJ_PL_TEMP\test_api_0518\test_api\bin\Release\AJDataClass.pdb
+C:\Users\AJ_JIN\Desktop\AJ_PL_TEMP_2\170502_유인정산기\AJ_PL_TEMP\test_api_0518\test_api\bin\Release\AJLog.pdb
+C:\Users\AJ_JIN\Desktop\AJ_PL_TEMP_2\170502_유인정산기\AJ_PL_TEMP\test_api_0518\test_api\bin\Release\AJEnums.pdb
+C:\Users\AJ_JIN\Desktop\AJ_PL_TEMP_2\170502_유인정산기\AJ_PL_TEMP\test_api_0518\test_api\obj\Release\test_api.csprojResolveAssemblyReference.cache
+C:\Users\AJ_JIN\Desktop\AJ_PL_TEMP_2\170502_유인정산기\AJ_PL_TEMP\test_api_0518\test_api\obj\Release\test_api.Form1.resources
+C:\Users\AJ_JIN\Desktop\AJ_PL_TEMP_2\170502_유인정산기\AJ_PL_TEMP\test_api_0518\test_api\obj\Release\test_api.Properties.Resources.resources
+C:\Users\AJ_JIN\Desktop\AJ_PL_TEMP_2\170502_유인정산기\AJ_PL_TEMP\test_api_0518\test_api\obj\Release\test_api.csproj.GenerateResource.Cache
+D:\진남_일지\날짜별\18년 2월\LMS_TEST\test_api\bin\Release\test_api.exe.config
+D:\진남_일지\날짜별\18년 2월\LMS_TEST\test_api\obj\Release\test_api.exe
+D:\진남_일지\날짜별\18년 2월\LMS_TEST\test_api\obj\Release\test_api.pdb
+D:\진남_일지\날짜별\18년 2월\LMS_TEST\test_api\bin\Release\test_api.exe
+D:\진남_일지\날짜별\18년 2월\LMS_TEST\test_api\bin\Release\test_api.pdb
+D:\진남_일지\날짜별\18년 2월\LMS_TEST\test_api\bin\Release\AJCommon.dll
+D:\진남_일지\날짜별\18년 2월\LMS_TEST\test_api\bin\Release\AJDataBase.dll
+D:\진남_일지\날짜별\18년 2월\LMS_TEST\test_api\bin\Release\AJDataClass.dll
+D:\진남_일지\날짜별\18년 2월\LMS_TEST\test_api\bin\Release\AJLog.dll
+D:\진남_일지\날짜별\18년 2월\LMS_TEST\test_api\bin\Release\AJEnums.dll
+D:\진남_일지\날짜별\18년 2월\LMS_TEST\test_api\bin\Release\AJCommon.pdb
+D:\진남_일지\날짜별\18년 2월\LMS_TEST\test_api\bin\Release\AJDataBase.pdb
+D:\진남_일지\날짜별\18년 2월\LMS_TEST\test_api\bin\Release\AJDataClass.pdb
+D:\진남_일지\날짜별\18년 2월\LMS_TEST\test_api\bin\Release\AJLog.pdb
+D:\진남_일지\날짜별\18년 2월\LMS_TEST\test_api\bin\Release\AJEnums.pdb
+D:\진남_일지\날짜별\18년 2월\LMS_TEST\test_api\obj\Release\test_api.csprojResolveAssemblyReference.cache
+D:\진남_일지\날짜별\18년 2월\LMS_TEST\test_api\obj\Release\test_api.Form1.resources
+D:\진남_일지\날짜별\18년 2월\LMS_TEST\test_api\obj\Release\test_api.Properties.Resources.resources
+D:\진남_일지\날짜별\18년 2월\LMS_TEST\test_api\obj\Release\test_api.csproj.GenerateResource.Cache
+D:\진남_일지\LMS_TEST\test_api\bin\Release\test_api.exe.config
+D:\진남_일지\LMS_TEST\test_api\obj\Release\test_api.exe
+D:\진남_일지\LMS_TEST\test_api\obj\Release\test_api.pdb
+D:\진남_일지\LMS_TEST\test_api\bin\Release\test_api.exe
+D:\진남_일지\LMS_TEST\test_api\bin\Release\test_api.pdb
+D:\진남_일지\LMS_TEST\test_api\bin\Release\AJCommon.dll
+D:\진남_일지\LMS_TEST\test_api\bin\Release\AJDataBase.dll
+D:\진남_일지\LMS_TEST\test_api\bin\Release\AJDataClass.dll
+D:\진남_일지\LMS_TEST\test_api\bin\Release\AJEnums.dll
+D:\진남_일지\LMS_TEST\test_api\bin\Release\AJCommon.pdb
+D:\진남_일지\LMS_TEST\test_api\bin\Release\AJDataBase.pdb
+D:\진남_일지\LMS_TEST\test_api\bin\Release\AJDataClass.pdb
+D:\진남_일지\LMS_TEST\test_api\bin\Release\AJEnums.pdb
+D:\진남_일지\LMS_TEST\test_api\obj\Release\test_api.csprojResolveAssemblyReference.cache
+D:\진남_일지\LMS_TEST\test_api\obj\Release\test_api.Form1.resources
+D:\진남_일지\LMS_TEST\test_api\obj\Release\test_api.Properties.Resources.resources
+D:\진남_일지\LMS_TEST\test_api\obj\Release\test_api.csproj.GenerateResource.Cache

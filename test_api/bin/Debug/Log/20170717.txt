@@ -1,0 +1,759 @@
+17:06:00:075:
+17:06:00:076: === 09. Polling Data 시작 === 
+17:06:00:077:접속 주소 : http://://api/equipment/get/log
+17:06:00:123:동작 실패
+17:06:00:123:-e : System.UriFormatException: 잘못된 URI: 호스트 이름을 구문 분석할 수 없습니다.
+   위치: System.Uri.CreateThis(String uri, Boolean dontEscape, UriKind uriKind)
+   위치: System.Uri..ctor(String uriString)
+   위치: RestSharp.RestClient..ctor(String baseUrl)
+   위치: AJParkLib.AJDataBase.AJWebDatabase.temp_name_9(String localEquipmentId) 파일 c:\Users\AJ_JIN\Desktop\AJ_PL_TEMP_2\170502_유인정산기\AJ_PL_TEMP\AJDataBase\AJWebDatabase.cs:줄 2543
+17:06:00:287:-e.StackTrace :    위치: System.Uri.CreateThis(String uri, Boolean dontEscape, UriKind uriKind)
+   위치: System.Uri..ctor(String uriString)
+   위치: RestSharp.RestClient..ctor(String baseUrl)
+   위치: AJParkLib.AJDataBase.AJWebDatabase.temp_name_9(String localEquipmentId) 파일 c:\Users\AJ_JIN\Desktop\AJ_PL_TEMP_2\170502_유인정산기\AJ_PL_TEMP\AJDataBase\AJWebDatabase.cs:줄 2543
+17:06:00:287:모든 파싱 종료
+17:06:00:288:
+17:06:00:288: === 09. Polling Data 끝 === 
+17:06:41:021:
+17:06:41:022: === 09. Polling Data 시작 === 
+17:06:41:022:접속 주소 : http://://api/equipment/get/log
+17:06:41:066:동작 실패
+17:06:41:066:-e : System.UriFormatException: 잘못된 URI: 호스트 이름을 구문 분석할 수 없습니다.
+   위치: System.Uri.CreateThis(String uri, Boolean dontEscape, UriKind uriKind)
+   위치: System.Uri..ctor(String uriString)
+   위치: RestSharp.RestClient..ctor(String baseUrl)
+   위치: AJParkLib.AJDataBase.AJWebDatabase.temp_name_9(String localEquipmentId) 파일 c:\Users\AJ_JIN\Desktop\AJ_PL_TEMP_2\170502_유인정산기\AJ_PL_TEMP\AJDataBase\AJWebDatabase.cs:줄 2543
+17:06:41:240:-e.StackTrace :    위치: System.Uri.CreateThis(String uri, Boolean dontEscape, UriKind uriKind)
+   위치: System.Uri..ctor(String uriString)
+   위치: RestSharp.RestClient..ctor(String baseUrl)
+   위치: AJParkLib.AJDataBase.AJWebDatabase.temp_name_9(String localEquipmentId) 파일 c:\Users\AJ_JIN\Desktop\AJ_PL_TEMP_2\170502_유인정산기\AJ_PL_TEMP\AJDataBase\AJWebDatabase.cs:줄 2543
+17:06:41:241:모든 파싱 종료
+17:06:41:241:
+17:06:41:242: === 09. Polling Data 끝 === 
+17:07:03:529:
+17:07:03:530: === 09. Polling Data 시작 === 
+17:07:03:531:접속 주소 : http://ajgo.iptime.org:2080//api/equipment/get/log
+17:07:03:539:
+17:07:03:539: ------ 파라미터 목록 ------ 
+17:07:03:540:localEquipmentId(장비 UID) : 29
+17:07:04:683: ------ 파라미터 목록 끝 ------ 
+17:07:12:225:
+17:07:12:424: ------ 응답 목록 ------ 
+17:07:12:825:code : 0
+17:07:13:123:errmsgvariable : 
+17:07:13:408:errmsg : 
+17:07:13:729:key : ERR_NOERR
+17:07:18:243:
+17:07:18:593: ------ 폴링정보 리스트 ------ 
+17:07:18:898:폴링 정보 리스트의 개수 : 0
+17:07:22:177: ------ 폴링정보 리스트 끝 ------ 
+17:07:23:313: ------ 응답 목록 끝 ------ 
+17:07:23:856:전체 동작 성공
+17:07:27:450:모든 파싱 종료
+17:07:29:746:
+17:07:30:066: === 09. Polling Data 끝 === 
+17:15:10:082:
+17:15:10:083: === 09. Polling Data 시작 === 
+17:15:10:084:접속 주소 : http://ajgo.iptime.org:2080//api/equipment/get/log
+17:15:10:091:
+17:15:10:091: ------ 파라미터 목록 ------ 
+17:15:10:092:localEquipmentId(장비 UID) : 29
+17:15:13:233: ------ 파라미터 목록 끝 ------ 
+17:15:16:315:
+17:15:16:571: ------ 응답 목록 ------ 
+17:15:16:771:code : 0
+17:15:16:964:errmsgvariable : 
+17:15:17:138:errmsg : 
+17:15:17:315:key : ERR_NOERR
+17:15:19:834:
+17:15:19:835: ------ 폴링정보 리스트 ------ 
+17:15:19:835:폴링 정보 리스트의 개수 : 0
+17:15:19:835: ------ 폴링정보 리스트 끝 ------ 
+17:15:19:835: ------ 응답 목록 끝 ------ 
+17:15:19:836:전체 동작 성공
+17:15:19:836:모든 파싱 종료
+17:15:19:836:
+17:15:19:837: === 09. Polling Data 끝 === 
+17:15:25:288:
+17:15:25:289: === 09. Polling Data 시작 === 
+17:15:25:289:접속 주소 : http://ajgo.iptime.org:2080//api/equipment/get/log
+17:15:25:290:
+17:15:25:291: ------ 파라미터 목록 ------ 
+17:15:25:291:localEquipmentId(장비 UID) : 29
+17:15:25:291: ------ 파라미터 목록 끝 ------ 
+17:15:25:343:
+17:15:25:344: ------ 응답 목록 ------ 
+17:15:25:344:code : 0
+17:15:25:344:errmsgvariable : 
+17:15:25:345:errmsg : 
+17:15:25:345:key : ERR_NOERR
+17:15:25:345:
+17:15:25:346: ------ 폴링정보 리스트 ------ 
+17:15:25:346:폴링 정보 리스트의 개수 : 0
+17:15:25:347: ------ 폴링정보 리스트 끝 ------ 
+17:15:25:347: ------ 응답 목록 끝 ------ 
+17:15:25:347:전체 동작 성공
+17:15:25:348:모든 파싱 종료
+17:15:25:348:
+17:15:25:349: === 09. Polling Data 끝 === 
+17:15:36:297:
+17:15:36:297: === 09. Polling Data 시작 === 
+17:15:36:298:접속 주소 : http://ajgo.iptime.org:2080//api/equipment/get/log
+17:15:36:299:
+17:15:36:299: ------ 파라미터 목록 ------ 
+17:15:36:300:localEquipmentId(장비 UID) : 29
+17:15:36:300: ------ 파라미터 목록 끝 ------ 
+17:15:36:351:
+17:15:36:352: ------ 응답 목록 ------ 
+17:15:36:352:code : 0
+17:15:36:352:errmsgvariable : 
+17:15:36:353:errmsg : 
+17:15:36:353:key : ERR_NOERR
+17:15:36:353:
+17:15:36:354: ------ 폴링정보 리스트 ------ 
+17:15:36:354:폴링 정보 리스트의 개수 : 0
+17:15:36:354: ------ 폴링정보 리스트 끝 ------ 
+17:15:36:355: ------ 응답 목록 끝 ------ 
+17:15:36:355:전체 동작 성공
+17:15:36:355:모든 파싱 종료
+17:15:36:356:
+17:15:36:356: === 09. Polling Data 끝 === 
+17:16:27:712:
+17:16:27:713: === 09. Polling Data 시작 === 
+17:16:27:714:접속 주소 : http://ajgo.iptime.org:2080//api/equipment/get/log
+17:16:27:721:
+17:16:27:721: ------ 파라미터 목록 ------ 
+17:16:27:722:localEquipmentId(장비 UID) : 3
+17:16:27:722: ------ 파라미터 목록 끝 ------ 
+17:16:27:839:
+17:16:27:839: ------ 응답 목록 ------ 
+17:16:27:840:code : 0
+17:16:27:840:errmsgvariable : 
+17:16:27:840:errmsg : 
+17:16:27:841:key : ERR_NOERR
+17:16:27:841:
+17:16:27:842: ------ 폴링정보 리스트 ------ 
+17:16:27:842:폴링 정보 리스트의 개수 : 0
+17:16:27:842: ------ 폴링정보 리스트 끝 ------ 
+17:16:27:843: ------ 응답 목록 끝 ------ 
+17:16:27:843:전체 동작 성공
+17:16:27:843:모든 파싱 종료
+17:16:27:844:
+17:16:27:844: === 09. Polling Data 끝 === 
+17:17:09:878:
+17:17:09:879: === 08. Polling Data 성공 여부 시작 === 
+17:17:09:880:접속 주소 : http://ajgo.iptime.org:2080//api/equipment/post/log/result
+17:17:09:890:
+17:17:09:890: ------ 파라미터 목록 ------ 
+17:17:09:891:localLogId : 3
+17:17:09:891:isSuccess : n
+17:17:09:891: ------ 파라미터 목록 끝 ------ 
+17:17:10:084:
+17:17:10:085: ------ 응답 목록 ------ 
+17:17:10:085:code : 0
+17:17:10:086:errmsgvariable : 
+17:17:10:086:errmsg : 
+17:17:10:087:key : ERR_NOERR
+17:17:10:087: ------ 응답 목록 끝 ------ 
+17:17:10:087:전체 동작 성공
+17:17:10:088:모든 파싱 종료
+17:17:10:088:
+17:17:10:089: === 08. Polling Data 성공 여부 끝 === 
+17:17:10:585:
+17:17:10:585: === 08. Polling Data 성공 여부 시작 === 
+17:17:10:585:접속 주소 : http://ajgo.iptime.org:2080//api/equipment/post/log/result
+17:17:10:588:
+17:17:10:588: ------ 파라미터 목록 ------ 
+17:17:10:588:localLogId : 5
+17:17:10:589:isSuccess : n
+17:17:10:590: ------ 파라미터 목록 끝 ------ 
+17:17:10:654:
+17:17:10:654: ------ 응답 목록 ------ 
+17:17:10:655:code : 0
+17:17:10:655:errmsgvariable : 
+17:17:10:656:errmsg : 
+17:17:10:656:key : ERR_NOERR
+17:17:10:656: ------ 응답 목록 끝 ------ 
+17:17:10:657:전체 동작 성공
+17:17:10:657:모든 파싱 종료
+17:17:10:658:
+17:17:10:659: === 08. Polling Data 성공 여부 끝 === 
+17:17:11:057:
+17:17:11:057: === 08. Polling Data 성공 여부 시작 === 
+17:17:11:057:접속 주소 : http://ajgo.iptime.org:2080//api/equipment/post/log/result
+17:17:11:059:
+17:17:11:059: ------ 파라미터 목록 ------ 
+17:17:11:060:localLogId : 29
+17:17:11:060:isSuccess : n
+17:17:11:061: ------ 파라미터 목록 끝 ------ 
+17:17:11:248:
+17:17:11:249: ------ 응답 목록 ------ 
+17:17:11:249:code : 0
+17:17:11:249:errmsgvariable : 
+17:17:11:250:errmsg : 
+17:17:11:250:key : ERR_NOERR
+17:17:11:251: ------ 응답 목록 끝 ------ 
+17:17:11:251:전체 동작 성공
+17:17:11:251:모든 파싱 종료
+17:17:11:252:
+17:17:11:252: === 08. Polling Data 성공 여부 끝 === 
+17:17:17:473:
+17:17:17:473: === 09. Polling Data 시작 === 
+17:17:17:474:접속 주소 : http://ajgo.iptime.org:2080//api/equipment/get/log
+17:17:17:475:
+17:17:17:476: ------ 파라미터 목록 ------ 
+17:17:17:476:localEquipmentId(장비 UID) : 29
+17:17:17:477: ------ 파라미터 목록 끝 ------ 
+17:17:17:491:
+17:17:17:492: ------ 응답 목록 ------ 
+17:17:17:492:code : 0
+17:17:17:493:errmsgvariable : 
+17:17:17:493:errmsg : 
+17:17:17:493:key : ERR_NOERR
+17:17:17:494:
+17:17:17:494: ------ 폴링정보 리스트 ------ 
+17:17:17:494:폴링 정보 리스트의 개수 : 0
+17:17:17:495: ------ 폴링정보 리스트 끝 ------ 
+17:17:17:495: ------ 응답 목록 끝 ------ 
+17:17:17:495:전체 동작 성공
+17:17:17:495:모든 파싱 종료
+17:17:17:496:
+17:17:17:496: === 09. Polling Data 끝 === 
+17:17:21:993:
+17:17:21:994: === 09. Polling Data 시작 === 
+17:17:21:994:접속 주소 : http://ajgo.iptime.org:2080//api/equipment/get/log
+17:17:21:996:
+17:17:21:996: ------ 파라미터 목록 ------ 
+17:17:21:997:localEquipmentId(장비 UID) : 29
+17:17:21:997: ------ 파라미터 목록 끝 ------ 
+17:17:22:051:
+17:17:22:052: ------ 응답 목록 ------ 
+17:17:22:052:code : 0
+17:17:22:053:errmsgvariable : 
+17:17:22:053:errmsg : 
+17:17:22:054:key : ERR_NOERR
+17:17:22:054:
+17:17:22:055: ------ 폴링정보 리스트 ------ 
+17:17:22:055:폴링 정보 리스트의 개수 : 0
+17:17:22:056: ------ 폴링정보 리스트 끝 ------ 
+17:17:22:056: ------ 응답 목록 끝 ------ 
+17:17:22:057:전체 동작 성공
+17:17:22:057:모든 파싱 종료
+17:17:22:057:
+17:17:22:058: === 09. Polling Data 끝 === 
+17:17:42:225:
+17:17:42:226: === 09. Polling Data 시작 === 
+17:17:42:226:접속 주소 : http://ajgo.iptime.org:2080//api/equipment/get/log
+17:17:42:230:
+17:17:42:231: ------ 파라미터 목록 ------ 
+17:17:42:231:localEquipmentId(장비 UID) : 29
+17:17:42:231: ------ 파라미터 목록 끝 ------ 
+17:17:42:286:
+17:17:42:287: ------ 응답 목록 ------ 
+17:17:42:287:code : 0
+17:17:42:287:errmsgvariable : 
+17:17:42:287:errmsg : 
+17:17:42:288:key : ERR_NOERR
+17:17:42:288:
+17:17:42:288: ------ 폴링정보 리스트 ------ 
+17:17:42:288:폴링 정보 리스트의 개수 : 0
+17:17:42:289: ------ 폴링정보 리스트 끝 ------ 
+17:17:42:289: ------ 응답 목록 끝 ------ 
+17:17:42:289:전체 동작 성공
+17:17:42:289:모든 파싱 종료
+17:17:42:289:
+17:17:42:290: === 09. Polling Data 끝 === 
+17:18:07:554:
+17:18:07:554: === 09. Polling Data 시작 === 
+17:18:07:554:접속 주소 : http://ajgo.iptime.org:2080//api/equipment/get/log
+17:18:07:556:
+17:18:07:556: ------ 파라미터 목록 ------ 
+17:18:07:556:localEquipmentId(장비 UID) : 29
+17:18:07:556: ------ 파라미터 목록 끝 ------ 
+17:18:18:569:
+17:18:18:572: ------ 응답 목록 ------ 
+17:18:18:572:code : 0
+17:18:18:572:errmsgvariable : 
+17:18:18:573:errmsg : 
+17:18:18:573:key : ERR_NOERR
+17:18:18:573:
+17:18:18:574: ------ 폴링정보 리스트 ------ 
+17:18:18:574:폴링 정보 리스트의 개수 : 0
+17:18:18:574: ------ 폴링정보 리스트 끝 ------ 
+17:18:18:574: ------ 응답 목록 끝 ------ 
+17:18:18:575:전체 동작 성공
+17:18:18:575:모든 파싱 종료
+17:18:18:575:
+17:18:18:576: === 09. Polling Data 끝 === 
+17:20:04:842:
+17:20:04:843: === 09. Polling Data 시작 === 
+17:20:04:844:접속 주소 : http://ajgo.iptime.org:2080//api/equipment/get/log
+17:20:04:851:
+17:20:04:852: ------ 파라미터 목록 ------ 
+17:20:04:852:localEquipmentId(장비 UID) : 29
+17:20:04:852: ------ 파라미터 목록 끝 ------ 
+17:20:06:293:
+17:20:06:293: ------ 응답 목록 ------ 
+17:20:06:294:code : 0
+17:20:06:294:errmsgvariable : 
+17:20:06:295:errmsg : 
+17:20:06:295:key : ERR_NOERR
+17:20:06:296:
+17:20:06:296: ------ 폴링정보 리스트 ------ 
+17:20:06:296:폴링 정보 리스트의 개수 : 0
+17:20:06:297: ------ 폴링정보 리스트 끝 ------ 
+17:20:06:298: ------ 응답 목록 끝 ------ 
+17:20:06:298:전체 동작 성공
+17:20:06:298:모든 파싱 종료
+17:20:06:299:
+17:20:06:299: === 09. Polling Data 끝 === 
+17:20:26:489:
+17:20:26:489: === 09. Polling Data 시작 === 
+17:20:26:489:접속 주소 : http://ajgo.iptime.org:2080//api/equipment/get/log
+17:20:26:491:
+17:20:26:492: ------ 파라미터 목록 ------ 
+17:20:26:492:localEquipmentId(장비 UID) : 29
+17:20:26:492: ------ 파라미터 목록 끝 ------ 
+17:20:36:305:
+17:20:36:305: ------ 응답 목록 ------ 
+17:20:36:306:code : 0
+17:20:36:306:errmsgvariable : 
+17:20:36:306:errmsg : 
+17:20:36:306:key : ERR_NOERR
+17:20:36:307:
+17:20:36:307: ------ 폴링정보 리스트 ------ 
+17:20:36:308:폴링 정보 리스트의 개수 : 0
+17:20:36:308: ------ 폴링정보 리스트 끝 ------ 
+17:20:36:308: ------ 응답 목록 끝 ------ 
+17:20:36:309:전체 동작 성공
+17:20:36:309:모든 파싱 종료
+17:20:36:309:
+17:20:36:309: === 09. Polling Data 끝 === 
+17:20:39:761:
+17:20:39:761: === 09. Polling Data 시작 === 
+17:20:39:761:접속 주소 : http://ajgo.iptime.org:2080//api/equipment/get/log
+17:20:39:763:
+17:20:39:763: ------ 파라미터 목록 ------ 
+17:20:39:764:localEquipmentId(장비 UID) : 29
+17:20:39:764: ------ 파라미터 목록 끝 ------ 
+17:20:42:769:
+17:20:42:770: ------ 응답 목록 ------ 
+17:20:42:770:code : 0
+17:20:42:770:errmsgvariable : 
+17:20:42:771:errmsg : 
+17:20:42:772:key : ERR_NOERR
+17:20:42:773:
+17:20:42:773: ------ 폴링정보 리스트 ------ 
+17:20:42:773:폴링 정보 리스트의 개수 : 0
+17:20:42:774: ------ 폴링정보 리스트 끝 ------ 
+17:20:42:774: ------ 응답 목록 끝 ------ 
+17:20:42:774:전체 동작 성공
+17:20:42:774:모든 파싱 종료
+17:20:42:775:
+17:20:42:775: === 09. Polling Data 끝 === 
+17:20:49:538:
+17:20:49:539: === 09. Polling Data 시작 === 
+17:20:49:539:접속 주소 : http://ajgo.iptime.org:2080//api/equipment/get/log
+17:20:49:540:
+17:20:49:541: ------ 파라미터 목록 ------ 
+17:20:49:541:localEquipmentId(장비 UID) : 29
+17:20:49:541: ------ 파라미터 목록 끝 ------ 
+17:20:53:899:
+17:20:54:059: ------ 응답 목록 ------ 
+17:20:54:243:code : 0
+17:20:54:635:errmsgvariable : 
+17:20:55:137:errmsg : 
+17:20:55:770:key : ERR_NOERR
+17:21:01:403:
+17:21:01:771: ------ 폴링정보 리스트 ------ 
+17:21:01:988:폴링 정보 리스트의 개수 : 0
+17:24:33:137:
+17:24:33:138: === 09. Polling Data 시작 === 
+17:24:33:138:접속 주소 : http://ajgo.iptime.org:2080//api/equipment/get/log
+17:24:33:146:
+17:24:33:148: ------ 파라미터 목록 ------ 
+17:24:33:149:localEquipmentId(장비 UID) : 
+17:24:33:149: ------ 파라미터 목록 끝 ------ 
+17:24:35:138:
+17:24:35:138: ------ 응답 목록 ------ 
+17:24:35:139:code : 0
+17:24:35:139:errmsgvariable : 
+17:24:35:139:errmsg : 
+17:24:35:140:key : ERR_NOERR
+17:24:35:140:
+17:24:35:140: ------ 폴링정보 리스트 ------ 
+17:24:35:141:폴링 정보 리스트의 개수 : 0
+17:24:35:141: ------ 폴링정보 리스트 끝 ------ 
+17:24:35:141: ------ 응답 목록 끝 ------ 
+17:24:35:142:전체 동작 성공
+17:24:35:142:모든 파싱 종료
+17:24:35:142:
+17:24:35:143: === 09. Polling Data 끝 === 
+17:24:37:796:
+17:24:37:796: === 09. Polling Data 시작 === 
+17:24:37:797:접속 주소 : http://ajgo.iptime.org:2080//api/equipment/get/log
+17:24:37:798:
+17:24:37:799: ------ 파라미터 목록 ------ 
+17:24:37:799:localEquipmentId(장비 UID) : 
+17:24:37:799: ------ 파라미터 목록 끝 ------ 
+17:24:37:852:
+17:24:37:852: ------ 응답 목록 ------ 
+17:24:37:853:code : 0
+17:24:37:853:errmsgvariable : 
+17:24:37:853:errmsg : 
+17:24:37:853:key : ERR_NOERR
+17:24:37:854:
+17:24:37:854: ------ 폴링정보 리스트 ------ 
+17:24:37:854:폴링 정보 리스트의 개수 : 0
+17:24:37:855: ------ 폴링정보 리스트 끝 ------ 
+17:24:37:855: ------ 응답 목록 끝 ------ 
+17:24:37:855:전체 동작 성공
+17:24:37:856:모든 파싱 종료
+17:24:37:856:
+17:24:37:856: === 09. Polling Data 끝 === 
+17:24:47:688:
+17:24:47:689: === 09. Polling Data 시작 === 
+17:24:47:689:접속 주소 : http://ajgo.iptime.org:2080//api/equipment/get/log
+17:24:47:691:
+17:24:47:692: ------ 파라미터 목록 ------ 
+17:24:47:692:localEquipmentId(장비 UID) : 
+17:24:47:692: ------ 파라미터 목록 끝 ------ 
+17:24:47:747:
+17:24:47:747: ------ 응답 목록 ------ 
+17:24:47:747:code : 0
+17:24:47:748:errmsgvariable : 
+17:24:47:748:errmsg : 
+17:24:47:748:key : ERR_NOERR
+17:24:47:748:
+17:24:47:749: ------ 폴링정보 리스트 ------ 
+17:24:47:749:폴링 정보 리스트의 개수 : 0
+17:24:47:749: ------ 폴링정보 리스트 끝 ------ 
+17:24:47:750: ------ 응답 목록 끝 ------ 
+17:24:47:750:전체 동작 성공
+17:24:47:750:모든 파싱 종료
+17:24:47:750:
+17:24:47:751: === 09. Polling Data 끝 === 
+17:25:11:876:
+17:25:11:877: === 09. Polling Data 시작 === 
+17:25:11:878:접속 주소 : http://112.216.153.186:2080//api/equipment/get/log
+17:25:11:885:
+17:25:11:885: ------ 파라미터 목록 ------ 
+17:25:11:886:localEquipmentId(장비 UID) : 
+17:25:11:886: ------ 파라미터 목록 끝 ------ 
+17:25:12:018:
+17:25:12:019: ------ 응답 목록 ------ 
+17:25:12:019:code : 0
+17:25:12:020:errmsgvariable : 
+17:25:12:020:errmsg : 
+17:25:12:021:key : ERR_NOERR
+17:25:12:021:
+17:25:12:022: ------ 폴링정보 리스트 ------ 
+17:25:12:022:폴링 정보 리스트의 개수 : 1
+17:25:13:323:0번 List -> localLogId : 64
+17:25:13:324:0번 List -> localEquipmentId : 29
+17:25:13:325:0번 List -> type : KIOSK
+17:25:13:325:0번 List -> content : SEND_PRICE
+17:25:13:326:0번 List -> regDate : 1500279885000
+17:25:13:326:0번 List -> isSuccess : n
+17:25:13:326:0번 List -> time : 
+17:25:13:327:0번 List -> carNo : 
+17:25:13:327:0번 List -> localReceiptInfoId : 
+17:25:13:327:0번 List -> localEquipmentKioskId : 
+17:25:13:327:0번 List -> localDiscountInfoId : 
+17:25:13:328:
+17:25:13:328: ------ 폴링정보 리스트의 이큅먼트 리스트 ------ 
+17:25:13:328:0번 List -> equipment ->  localEquipmentId : 29
+17:25:13:329:0번 List -> equipment ->  equipmentId : 111
+17:25:13:329:0번 List -> equipment ->  parkingLotId : 194
+17:25:13:329:0번 List -> equipment ->  type : kiosk
+17:25:13:329:0번 List -> equipment ->  name : 무인정산기
+17:25:13:330:0번 List -> equipment ->  equipmentStatus : offline
+17:25:13:330:0번 List -> equipment ->  equipmentStatusUpdDate : 1500275080000
+17:25:13:330:0번 List -> equipment ->  status : valid
+17:25:13:351:0번 List -> equipment ->  regDate : 1489050850000
+17:25:13:352:0번 List -> equipment ->  equipmentNo : 1
+17:25:13:352:0번 List -> equipment ->  equipmentIp : 1.1.1.1
+17:25:13:353:0번 List -> equipment ->  equipmentPort : 1
+17:25:13:353:0번 List -> equipment ->  displayIp : 1.1.1.3
+17:25:13:353:0번 List -> equipment ->  displayPort : 1
+17:25:13:354:0번 List -> equipment ->  barrierPort : 
+17:25:13:354:0번 List -> equipment ->  location : kioskexit
+17:25:13:355:0번 List -> equipment ->  barrierControlOption : 
+17:25:13:355:0번 List -> equipment ->  carInfoSave : 
+17:25:13:356:0번 List -> equipment ->  dvrIp : 1.1.1.4
+17:25:13:356:0번 List -> equipment ->  dvrPort : 1
+17:25:13:357:0번 List -> equipment ->  won500Price : 2
+17:25:13:357:0번 List -> equipment ->  won100Price : 1
+17:25:13:358:0번 List -> equipment ->  won5000 : 10
+17:25:13:358:0번 List -> equipment ->  won1000 : 10
+17:25:13:360:0번 List -> equipment ->  won500 : 10
+17:25:13:360:0번 List -> equipment ->  won100 : 10
+17:25:13:551:0번 List -> equipment ->  updateDate : 1500278948000
+17:25:13:553:0번 List -> equipment ->  set5000 : 10
+17:25:13:553:0번 List -> equipment ->  set1000 : 10
+17:25:13:554:0번 List -> equipment ->  set500 : 10
+17:25:13:554:0번 List -> equipment ->  set100 : 10
+17:25:13:555:0번 List -> equipment ->  ckId : 
+17:25:13:555:0번 List -> equipment ->  localCkId : 
+17:25:13:556: ------ 폴링정보 리스트의 이큅먼트 리스트 끝 ------ 
+17:25:13:556:
+17:25:13:556: ------ 폴링정보 리스트 끝 ------ 
+17:25:13:557: ------ 응답 목록 끝 ------ 
+17:25:13:557:전체 동작 성공
+17:25:13:557:모든 파싱 종료
+17:25:13:558:
+17:25:13:558: === 09. Polling Data 끝 === 
+17:25:16:801:
+17:25:16:802: === 09. Polling Data 시작 === 
+17:25:16:802:접속 주소 : http://112.216.153.186:2080//api/equipment/get/log
+17:25:16:807:
+17:25:16:807: ------ 파라미터 목록 ------ 
+17:25:16:808:localEquipmentId(장비 UID) : 
+17:25:16:808: ------ 파라미터 목록 끝 ------ 
+17:25:16:876:
+17:25:16:876: ------ 응답 목록 ------ 
+17:25:16:877:code : 0
+17:25:16:877:errmsgvariable : 
+17:25:16:877:errmsg : 
+17:25:16:878:key : ERR_NOERR
+17:25:16:878:
+17:25:16:878: ------ 폴링정보 리스트 ------ 
+17:25:16:878:폴링 정보 리스트의 개수 : 0
+17:25:16:879: ------ 폴링정보 리스트 끝 ------ 
+17:25:16:879: ------ 응답 목록 끝 ------ 
+17:25:16:879:전체 동작 성공
+17:25:16:879:모든 파싱 종료
+17:25:16:880:
+17:25:16:880: === 09. Polling Data 끝 === 
+17:25:26:242:
+17:25:26:242: === 09. Polling Data 시작 === 
+17:25:26:243:접속 주소 : http://112.216.153.186:2080//api/equipment/get/log
+17:25:26:246:
+17:25:26:246: ------ 파라미터 목록 ------ 
+17:25:26:247:localEquipmentId(장비 UID) : 
+17:25:26:247: ------ 파라미터 목록 끝 ------ 
+17:25:26:279:
+17:25:26:280: ------ 응답 목록 ------ 
+17:25:26:280:code : 0
+17:25:26:281:errmsgvariable : 
+17:25:26:282:errmsg : 
+17:25:26:283:key : ERR_NOERR
+17:25:26:283:
+17:25:26:284: ------ 폴링정보 리스트 ------ 
+17:25:26:284:폴링 정보 리스트의 개수 : 1
+17:25:26:284:0번 List -> localLogId : 65
+17:25:26:284:0번 List -> localEquipmentId : 29
+17:25:26:285:0번 List -> type : KIOSK
+17:25:26:285:0번 List -> content : SEND_PRICE
+17:25:26:285:0번 List -> regDate : 1500279922000
+17:25:26:286:0번 List -> isSuccess : n
+17:25:26:286:0번 List -> time : 
+17:25:26:286:0번 List -> carNo : 
+17:25:26:287:0번 List -> localReceiptInfoId : 
+17:25:26:287:0번 List -> localEquipmentKioskId : 
+17:25:26:287:0번 List -> localDiscountInfoId : 
+17:25:26:288:
+17:25:26:288: ------ 폴링정보 리스트의 이큅먼트 리스트 ------ 
+17:25:26:288:0번 List -> equipment ->  localEquipmentId : 29
+17:25:26:288:0번 List -> equipment ->  equipmentId : 111
+17:25:26:289:0번 List -> equipment ->  parkingLotId : 194
+17:25:26:289:0번 List -> equipment ->  type : kiosk
+17:25:26:461:0번 List -> equipment ->  name : 무인정산기
+17:25:26:462:0번 List -> equipment ->  equipmentStatus : offline
+17:25:26:462:0번 List -> equipment ->  equipmentStatusUpdDate : 1500275080000
+17:25:26:462:0번 List -> equipment ->  status : valid
+17:25:26:463:0번 List -> equipment ->  regDate : 1489050850000
+17:25:26:463:0번 List -> equipment ->  equipmentNo : 1
+17:25:26:463:0번 List -> equipment ->  equipmentIp : 1.1.1.1
+17:25:26:464:0번 List -> equipment ->  equipmentPort : 1
+17:25:26:464:0번 List -> equipment ->  displayIp : 1.1.1.3
+17:25:26:464:0번 List -> equipment ->  displayPort : 1
+17:25:26:465:0번 List -> equipment ->  barrierPort : 
+17:25:26:465:0번 List -> equipment ->  location : kioskexit
+17:25:26:465:0번 List -> equipment ->  barrierControlOption : 
+17:25:26:466:0번 List -> equipment ->  carInfoSave : 
+17:25:26:466:0번 List -> equipment ->  dvrIp : 1.1.1.4
+17:25:26:466:0번 List -> equipment ->  dvrPort : 1
+17:25:26:467:0번 List -> equipment ->  won500Price : 2
+17:25:26:661:0번 List -> equipment ->  won100Price : 1
+17:25:26:662:0번 List -> equipment ->  won5000 : 10
+17:25:26:662:0번 List -> equipment ->  won1000 : 10
+17:25:26:663:0번 List -> equipment ->  won500 : 10
+17:25:26:663:0번 List -> equipment ->  won100 : 10
+17:25:26:663:0번 List -> equipment ->  updateDate : 1500278948000
+17:25:26:664:0번 List -> equipment ->  set5000 : 10
+17:25:26:664:0번 List -> equipment ->  set1000 : 10
+17:25:26:664:0번 List -> equipment ->  set500 : 10
+17:25:26:665:0번 List -> equipment ->  set100 : 10
+17:25:26:665:0번 List -> equipment ->  ckId : 
+17:25:26:665:0번 List -> equipment ->  localCkId : 
+17:25:26:666: ------ 폴링정보 리스트의 이큅먼트 리스트 끝 ------ 
+17:25:26:666:
+17:25:26:666: ------ 폴링정보 리스트 끝 ------ 
+17:25:26:670: ------ 응답 목록 끝 ------ 
+17:25:26:670:전체 동작 성공
+17:25:26:670:모든 파싱 종료
+17:25:26:670:
+17:25:26:671: === 09. Polling Data 끝 === 
+17:33:25:519:
+17:33:25:520: === 09. Polling Data 시작 === 
+17:33:25:521:접속 주소 : http://112.216.153.186:2080//api/equipment/get/log
+17:33:25:529:
+17:33:25:529: ------ 파라미터 목록 ------ 
+17:33:25:529:localEquipmentId(장비 UID) : 
+17:33:25:530: ------ 파라미터 목록 끝 ------ 
+17:33:25:658:
+17:33:25:658: ------ 응답 목록 ------ 
+17:33:25:659:code : 0
+17:33:25:659:errmsgvariable : 
+17:33:25:660:errmsg : 
+17:33:25:660:key : ERR_NOERR
+17:33:25:660:
+17:33:25:661: ------ 폴링정보 리스트 ------ 
+17:33:25:661:폴링 정보 리스트의 개수 : 0
+17:33:25:662: ------ 폴링정보 리스트 끝 ------ 
+17:33:25:662: ------ 응답 목록 끝 ------ 
+17:33:25:662:전체 동작 성공
+17:33:25:663:모든 파싱 종료
+17:33:25:663:
+17:33:25:663: === 09. Polling Data 끝 === 
+17:33:34:305:
+17:33:34:306: === 09. Polling Data 시작 === 
+17:33:34:306:접속 주소 : http://112.216.153.186:2080//api/equipment/get/log
+17:33:34:307:
+17:33:34:308: ------ 파라미터 목록 ------ 
+17:33:34:308:localEquipmentId(장비 UID) : 
+17:33:34:308: ------ 파라미터 목록 끝 ------ 
+17:33:34:348:
+17:33:34:348: ------ 응답 목록 ------ 
+17:33:34:348:code : 0
+17:33:34:349:errmsgvariable : 
+17:33:34:349:errmsg : 
+17:33:34:350:key : ERR_NOERR
+17:33:34:350:
+17:33:34:350: ------ 폴링정보 리스트 ------ 
+17:33:34:351:폴링 정보 리스트의 개수 : 1
+17:33:34:352:0번 List -> localLogId : 66
+17:33:34:352:0번 List -> localEquipmentId : 29
+17:33:34:353:0번 List -> type : KIOSK
+17:33:34:353:0번 List -> content : SEND_PRICE
+17:33:34:354:0번 List -> regDate : 1500280411000
+17:33:34:354:0번 List -> isSuccess : n
+17:33:34:354:0번 List -> time : 
+17:33:34:355:0번 List -> carNo : 
+17:33:34:355:0번 List -> localReceiptInfoId : 
+17:33:34:356:0번 List -> localEquipmentKioskId : 
+17:33:34:356:0번 List -> localDiscountInfoId : 
+17:33:34:357:
+17:33:34:357: ------ 폴링정보 리스트의 이큅먼트 리스트 ------ 
+17:33:34:358:0번 List -> equipment ->  localEquipmentId : 29
+17:33:34:358:0번 List -> equipment ->  equipmentId : 111
+17:33:34:358:0번 List -> equipment ->  parkingLotId : 194
+17:33:34:359:0번 List -> equipment ->  type : kiosk
+17:33:34:515:0번 List -> equipment ->  name : 무인정산기
+17:33:34:516:0번 List -> equipment ->  equipmentStatus : offline
+17:33:34:517:0번 List -> equipment ->  equipmentStatusUpdDate : 1500275080000
+17:33:34:517:0번 List -> equipment ->  status : valid
+17:33:34:517:0번 List -> equipment ->  regDate : 1489050850000
+17:33:34:518:0번 List -> equipment ->  equipmentNo : 1
+17:33:34:518:0번 List -> equipment ->  equipmentIp : 1.1.1.1
+17:33:34:519:0번 List -> equipment ->  equipmentPort : 1
+17:33:34:519:0번 List -> equipment ->  displayIp : 1.1.1.3
+17:33:34:520:0번 List -> equipment ->  displayPort : 1
+17:33:34:520:0번 List -> equipment ->  barrierPort : 
+17:33:34:521:0번 List -> equipment ->  location : kioskexit
+17:33:34:521:0번 List -> equipment ->  barrierControlOption : 
+17:33:34:521:0번 List -> equipment ->  carInfoSave : 
+17:33:34:522:0번 List -> equipment ->  dvrIp : 1.1.1.4
+17:33:34:522:0번 List -> equipment ->  dvrPort : 1
+17:33:34:523:0번 List -> equipment ->  won500Price : 2
+17:33:34:715:0번 List -> equipment ->  won100Price : 1
+17:33:34:715:0번 List -> equipment ->  won5000 : 10
+17:33:34:716:0번 List -> equipment ->  won1000 : 10
+17:33:34:716:0번 List -> equipment ->  won500 : 10
+17:33:34:716:0번 List -> equipment ->  won100 : 10
+17:33:34:716:0번 List -> equipment ->  updateDate : 1500278948000
+17:33:34:717:0번 List -> equipment ->  set5000 : 10
+17:33:34:717:0번 List -> equipment ->  set1000 : 10
+17:33:34:717:0번 List -> equipment ->  set500 : 10
+17:33:34:717:0번 List -> equipment ->  set100 : 10
+17:33:34:718:0번 List -> equipment ->  ckId : 
+17:33:34:718:0번 List -> equipment ->  localCkId : 
+17:33:34:718: ------ 폴링정보 리스트의 이큅먼트 리스트 끝 ------ 
+17:33:34:718:
+17:33:34:719: ------ 폴링정보 리스트 끝 ------ 
+17:33:34:719: ------ 응답 목록 끝 ------ 
+17:33:34:719:전체 동작 성공
+17:33:34:720:모든 파싱 종료
+17:33:34:720:
+17:33:34:720: === 09. Polling Data 끝 === 
+17:55:22:578:
+17:55:22:578: === 09. Polling Data 시작 === 
+17:55:22:579:접속 주소 : http://112.216.153.186:2080//api/equipment/get/log
+17:55:22:580:
+17:55:22:580: ------ 파라미터 목록 ------ 
+17:55:22:581:localEquipmentId(장비 UID) : 
+17:55:22:581: ------ 파라미터 목록 끝 ------ 
+17:55:22:625:
+17:55:22:626: ------ 응답 목록 ------ 
+17:55:22:626:code : 0
+17:55:22:626:errmsgvariable : 
+17:55:22:627:errmsg : 
+17:55:22:627:key : ERR_NOERR
+17:55:22:627:
+17:55:22:628: ------ 폴링정보 리스트 ------ 
+17:55:22:628:폴링 정보 리스트의 개수 : 1
+17:55:22:629:0번 List -> localLogId : 67
+17:55:22:629:0번 List -> localEquipmentId : 29
+17:55:22:629:0번 List -> type : KIOSK
+17:55:22:630:0번 List -> content : SEND_PRICE
+17:55:22:630:0번 List -> regDate : 1500281716000
+17:55:22:630:0번 List -> isSuccess : n
+17:55:22:631:0번 List -> time : 
+17:55:22:631:0번 List -> carNo : 
+17:55:22:631:0번 List -> localReceiptInfoId : 
+17:55:22:632:0번 List -> localEquipmentKioskId : 
+17:55:22:632:0번 List -> localDiscountInfoId : 
+17:55:22:632:
+17:55:22:633: ------ 폴링정보 리스트의 이큅먼트 리스트 ------ 
+17:55:22:633:0번 List -> equipment ->  localEquipmentId : 29
+17:55:22:633:0번 List -> equipment ->  equipmentId : 111
+17:55:22:633:0번 List -> equipment ->  parkingLotId : 194
+17:55:22:634:0번 List -> equipment ->  type : kiosk
+17:55:22:792:0번 List -> equipment ->  name : 무인정산기
+17:55:22:793:0번 List -> equipment ->  equipmentStatus : offline
+17:55:22:793:0번 List -> equipment ->  equipmentStatusUpdDate : 1500275080000
+17:55:22:794:0번 List -> equipment ->  status : valid
+17:55:22:794:0번 List -> equipment ->  regDate : 1489050850000
+17:55:22:794:0번 List -> equipment ->  equipmentNo : 1
+17:55:22:794:0번 List -> equipment ->  equipmentIp : 1.1.1.1
+17:55:22:795:0번 List -> equipment ->  equipmentPort : 1
+17:55:22:795:0번 List -> equipment ->  displayIp : 1.1.1.3
+17:55:22:795:0번 List -> equipment ->  displayPort : 1
+17:55:22:796:0번 List -> equipment ->  barrierPort : 
+17:55:22:796:0번 List -> equipment ->  location : kioskexit
+17:55:22:797:0번 List -> equipment ->  barrierControlOption : 
+17:55:22:797:0번 List -> equipment ->  carInfoSave : 
+17:55:22:798:0번 List -> equipment ->  dvrIp : 1.1.1.4
+17:55:22:798:0번 List -> equipment ->  dvrPort : 1
+17:55:22:800:0번 List -> equipment ->  won500Price : 2
+17:55:22:992:0번 List -> equipment ->  won100Price : 1
+17:55:22:993:0번 List -> equipment ->  won5000 : 10
+17:55:22:993:0번 List -> equipment ->  won1000 : 10
+17:55:22:993:0번 List -> equipment ->  won500 : 10
+17:55:22:994:0번 List -> equipment ->  won100 : 10
+17:55:22:994:0번 List -> equipment ->  updateDate : 1500278948000
+17:55:22:994:0번 List -> equipment ->  set5000 : 10
+17:55:22:995:0번 List -> equipment ->  set1000 : 10
+17:55:22:995:0번 List -> equipment ->  set500 : 10
+17:55:22:995:0번 List -> equipment ->  set100 : 10
+17:55:22:996:0번 List -> equipment ->  ckId : 
+17:55:22:996:0번 List -> equipment ->  localCkId : 
+17:55:22:997: ------ 폴링정보 리스트의 이큅먼트 리스트 끝 ------ 
+17:55:22:997:
+17:55:22:997: ------ 폴링정보 리스트 끝 ------ 
+17:55:22:998: ------ 응답 목록 끝 ------ 
+17:55:22:998:전체 동작 성공
+17:55:22:998:모든 파싱 종료
+17:55:22:999:
+17:55:22:999: === 09. Polling Data 끝 === 

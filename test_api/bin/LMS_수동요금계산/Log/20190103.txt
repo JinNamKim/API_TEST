@@ -1,0 +1,715 @@
+20:55:41:336:
+20:55:41:337: === 13. 요금 정산 API 시작 === 
+20:55:41:338:접속 주소 : http://ajautohub.asuscomm.com:2080//api/parking/leave/price
+20:55:41:358:
+20:55:41:358: ------ 파라미터 목록 ------ 
+20:55:41:359:carNo : 99테9999
+20:55:41:359:leaveDate(DateTime) : 2019-01-03 오후 8:55:41
+20:55:41:359:leaveDate(TimeStamp) : 1546516541188
+20:55:41:360:localEquipmentId : 58
+20:55:41:360:image : c:\123123.jpg
+20:55:41:360:isSmallCar : n
+20:55:41:360:localParkingId : 
+20:55:41:361: ------ 파라미터 목록 끝 ------ 
+20:55:41:361:요청 시작!!
+20:55:44:030:요청 완료!!
+20:55:44:031:파싱 시작!!
+20:55:44:095:파싱 완료!!
+20:55:44:095:
+20:55:44:096: ------ 응답 목록 ------ 
+20:55:44:096:code : 1287
+20:55:44:096:errmsgvariable : 
+20:55:44:096:errmsg : 입차정보가 없는 차량입니다.
+20:55:44:097:key : ERR_LMS_NOT_ENTER_CAR
+20:55:44:097:parkingType : 
+20:55:44:097:realPrice : 
+20:55:44:097:price : 
+20:55:44:098:discountPrice : 
+20:55:44:098:enterDate(TimeStamp) : 
+20:55:44:098:enterDate(DateTime) : 1970-01-01 오전 9:00:00
+20:55:44:098:durationSecond : 
+20:55:44:098:prePayDiscountInfoId : 
+20:55:44:099:insertPrice : 
+20:55:44:099:recurrence : 
+20:55:44:099:localParkingId : 
+20:55:44:099:lackPrice : 
+20:55:44:099:prepayPrice : 
+20:55:44:100: ------ 응답 목록 끝 ------ 
+20:55:44:100:전체 동작 성공
+20:55:44:100:모든 파싱 종료
+20:55:44:101:
+20:55:44:101: === 13. 요금 정산 API 끝 === 
+20:55:46:422:
+20:55:46:422: === 13. 요금 정산 API 시작 === 
+20:55:46:423:접속 주소 : http://ajautohub.asuscomm.com:2080//api/parking/leave/price
+20:55:46:425:
+20:55:46:426: ------ 파라미터 목록 ------ 
+20:55:46:426:carNo : 99테9999
+20:55:46:426:leaveDate(DateTime) : 2019-01-03 오후 8:55:46
+20:55:46:427:leaveDate(TimeStamp) : 1546516546421
+20:55:46:427:localEquipmentId : 58
+20:55:46:427:image : c:\123123.jpg
+20:55:46:427:isSmallCar : n
+20:55:46:427:localParkingId : 
+20:55:46:428: ------ 파라미터 목록 끝 ------ 
+20:55:46:428:요청 시작!!
+20:55:46:445:요청 완료!!
+20:55:46:445:파싱 시작!!
+20:55:46:445:파싱 완료!!
+20:55:46:446:
+20:55:46:446: ------ 응답 목록 ------ 
+20:55:46:446:code : 1287
+20:55:46:446:errmsgvariable : 
+20:55:46:447:errmsg : 입차정보가 없는 차량입니다.
+20:55:46:447:key : ERR_LMS_NOT_ENTER_CAR
+20:55:46:448:parkingType : 
+20:55:46:448:realPrice : 
+20:55:46:448:price : 
+20:55:46:449:discountPrice : 
+20:55:46:449:enterDate(TimeStamp) : 
+20:55:46:449:enterDate(DateTime) : 1970-01-01 오전 9:00:00
+20:55:46:450:durationSecond : 
+20:55:46:450:prePayDiscountInfoId : 
+20:55:46:450:insertPrice : 
+20:55:46:451:recurrence : 
+20:55:46:451:localParkingId : 
+20:55:46:451:lackPrice : 
+20:55:46:451:prepayPrice : 
+20:55:46:452: ------ 응답 목록 끝 ------ 
+20:55:46:452:전체 동작 성공
+20:55:46:452:모든 파싱 종료
+20:55:46:453:
+20:55:46:453: === 13. 요금 정산 API 끝 === 
+20:57:42:047:
+20:57:42:048: === 13. 요금 정산 API 시작 === 
+20:57:42:048:접속 주소 : http://:2080//api/parking/leave/price
+20:57:42:074:동작 실패
+20:57:42:075:-e : System.UriFormatException: 잘못된 URI: 호스트 이름을 구문 분석할 수 없습니다.
+   위치: System.Uri.CreateThis(String uri, Boolean dontEscape, UriKind uriKind)
+   위치: System.Uri..ctor(String uriString)
+   위치: RestSharp.RestClient..ctor(String baseUrl)
+   위치: AJParkLib.AJDataBase.AJWebDatabase.temp_name_14(String carNo, DateTime leaveDate, Int32 localEquipmentId, String image, String isSmallCar, String localParkingId) 파일 d:\진남_일지\날짜별\18년 1월\AJPL - 복사본\AJDataBase\AJWebDatabase.cs:줄 3816
+20:57:42:075:-e.StackTrace :    위치: System.Uri.CreateThis(String uri, Boolean dontEscape, UriKind uriKind)
+   위치: System.Uri..ctor(String uriString)
+   위치: RestSharp.RestClient..ctor(String baseUrl)
+   위치: AJParkLib.AJDataBase.AJWebDatabase.temp_name_14(String carNo, DateTime leaveDate, Int32 localEquipmentId, String image, String isSmallCar, String localParkingId) 파일 d:\진남_일지\날짜별\18년 1월\AJPL - 복사본\AJDataBase\AJWebDatabase.cs:줄 3816
+20:57:42:075:모든 파싱 종료
+20:57:42:075:
+20:57:42:076: === 13. 요금 정산 API 끝 === 
+20:58:07:626:
+20:58:07:626: === 13. 요금 정산 API 시작 === 
+20:58:07:627:접속 주소 : http://ajautohub.asuscomm.com:2080//api/parking/leave/price
+20:58:07:642:
+20:58:07:643: ------ 파라미터 목록 ------ 
+20:58:07:643:carNo : 99테9999
+20:58:07:643:leaveDate(DateTime) : 2019-01-03 오후 8:58:07
+20:58:07:643:leaveDate(TimeStamp) : 1546516687549
+20:58:07:644:localEquipmentId : 58
+20:58:07:644:image : c:\123123.jpg
+20:58:07:644:isSmallCar : n
+20:58:07:645:localParkingId : 
+20:58:07:645: ------ 파라미터 목록 끝 ------ 
+20:58:07:645:요청 시작!!
+20:58:08:039:요청 완료!!
+20:58:08:039:파싱 시작!!
+20:58:08:078:파싱 완료!!
+20:58:08:079:
+20:58:08:079: ------ 응답 목록 ------ 
+20:58:08:079:code : 1287
+20:58:08:080:errmsgvariable : 
+20:58:08:080:errmsg : 입차정보가 없는 차량입니다.
+20:58:08:080:key : ERR_LMS_NOT_ENTER_CAR
+20:58:08:081:parkingType : 
+20:58:08:081:realPrice : 
+20:58:08:081:price : 
+20:58:08:081:discountPrice : 
+20:58:08:081:enterDate(TimeStamp) : 
+20:58:08:082:enterDate(DateTime) : 1970-01-01 오전 9:00:00
+20:58:08:082:durationSecond : 
+20:58:08:082:prePayDiscountInfoId : 
+20:58:08:083:insertPrice : 
+20:58:08:083:recurrence : 
+20:58:08:083:localParkingId : 
+20:58:08:084:lackPrice : 
+20:58:08:084:prepayPrice : 
+20:58:08:084: ------ 응답 목록 끝 ------ 
+20:58:08:084:전체 동작 성공
+20:58:08:085:모든 파싱 종료
+20:58:08:085:
+20:58:08:085: === 13. 요금 정산 API 끝 === 
+21:01:13:926:
+21:01:13:926: === 13. 요금 정산 API 시작 === 
+21:01:13:926:접속 주소 : http://121.129.47.164:2080//api/parking/leave/price
+21:01:13:936:
+21:01:13:936: ------ 파라미터 목록 ------ 
+21:01:13:937:carNo : 62소1318
+21:01:13:937:leaveDate(DateTime) : 2019-01-03 오후 9:01:13
+21:01:13:937:leaveDate(TimeStamp) : 1546516873877
+21:01:13:937:localEquipmentId : 3
+21:01:13:937:image : c:\123123.jpg
+21:01:13:938:isSmallCar : n
+21:01:13:938:localParkingId : 
+21:01:13:938: ------ 파라미터 목록 끝 ------ 
+21:01:13:938:요청 시작!!
+21:02:54:548:
+21:02:54:549: === 13. 요금 정산 API 시작 === 
+21:02:54:549:접속 주소 : http://121.129.47.164:2080//api/parking/leave/price
+21:02:54:561:
+21:02:54:562: ------ 파라미터 목록 ------ 
+21:02:54:562:carNo : 62소1318
+21:02:54:562:leaveDate(DateTime) : 2019-01-03 오후 9:02:54
+21:02:54:563:leaveDate(TimeStamp) : 1546516974476
+21:02:54:563:localEquipmentId : 3
+21:02:54:563:image : c:\123123.jpg
+21:02:54:563:isSmallCar : n
+21:02:54:563:localParkingId : 
+21:02:54:564: ------ 파라미터 목록 끝 ------ 
+21:02:54:564:요청 시작!!
+21:03:45:740:요청 완료!!
+21:03:45:740:파싱 시작!!
+21:03:45:780:파싱 완료!!
+21:03:45:780:
+21:03:45:780: ------ 응답 목록 ------ 
+21:03:45:780:code : 256
+21:03:45:781:errmsgvariable : 
+### Error querying database.  Cause: java.sql.SQLException: Lock wait timeout exceeded; try restarting transaction
+### The error may exist in mobi/zlab/server/mapper/ParkingServiceMapper.xml
+### The error may involve defaultParameterMap
+### The error occurred while setting parameters
+### SQL: SELECT *   FROM PARKING    WHERE carNo = ?   AND status IN ('enter','prepayment')       ORDER BY localParkingId DESC   LIMIT 1   FOR UPDATE
+### Cause: java.sql.SQLException: Lock wait timeout exceeded; try restarting transaction
+; SQL []; Lock wait timeout exceeded; try restarting transaction; nested exception is java.sql.SQLException: Lock wait timeout exceeded; try restarting transaction
+21:03:45:781:errmsg : 요청에 실패했습니다.
+21:03:45:781:key : ERR_COMMON_GENERAL
+21:03:45:781:parkingType : 
+21:03:45:781:realPrice : 
+21:03:45:782:price : 
+21:03:45:782:discountPrice : 
+21:03:45:782:enterDate(TimeStamp) : 
+21:03:45:948:enterDate(DateTime) : 1970-01-01 오전 9:00:00
+21:03:45:949:durationSecond : 
+21:03:45:949:prePayDiscountInfoId : 
+21:03:45:949:insertPrice : 
+21:03:45:950:recurrence : 
+21:03:45:950:localParkingId : 
+21:03:45:950:lackPrice : 
+21:03:45:951:prepayPrice : 
+21:03:45:951: ------ 응답 목록 끝 ------ 
+21:03:45:951:전체 동작 성공
+21:03:45:951:모든 파싱 종료
+21:03:45:951:
+21:03:45:952: === 13. 요금 정산 API 끝 === 
+21:04:17:528:
+21:04:17:529: === 13. 요금 정산 API 시작 === 
+21:04:17:530:접속 주소 : http://121.129.47.164:2080//api/parking/leave/price
+21:04:17:545:
+21:04:17:545: ------ 파라미터 목록 ------ 
+21:04:17:545:carNo : 62소1318
+21:04:17:546:leaveDate(DateTime) : 2019-01-03 오후 9:04:17
+21:04:17:547:leaveDate(TimeStamp) : 1546517057461
+21:04:17:547:localEquipmentId : 3
+21:04:17:547:image : c:\enter_lpr_error.jpg
+21:04:17:548:isSmallCar : n
+21:04:17:548:localParkingId : 
+21:04:17:548: ------ 파라미터 목록 끝 ------ 
+21:04:17:549:요청 시작!!
+21:06:31:856:
+21:06:31:857: === 13. 요금 정산 API 시작 === 
+21:06:31:857:접속 주소 : http://121.129.47.164:2080//api/parking/leave/price
+21:06:31:872:
+21:06:31:873: ------ 파라미터 목록 ------ 
+21:06:31:873:carNo : 62소1318
+21:06:31:873:leaveDate(DateTime) : 2019-01-03 오후 9:06:31
+21:06:31:874:leaveDate(TimeStamp) : 1546517191791
+21:06:31:874:localEquipmentId : 3
+21:06:31:874:image : c:\enter_lpr_error.jpg
+21:06:31:874:isSmallCar : n
+21:06:31:875:localParkingId : 
+21:06:31:875: ------ 파라미터 목록 끝 ------ 
+21:06:31:875:요청 시작!!
+21:07:23:033:요청 완료!!
+21:07:23:034:파싱 시작!!
+21:07:23:070:파싱 완료!!
+21:07:23:070:
+21:07:23:071: ------ 응답 목록 ------ 
+21:07:23:071:code : 256
+21:07:23:071:errmsgvariable : 
+### Error querying database.  Cause: java.sql.SQLException: Lock wait timeout exceeded; try restarting transaction
+### The error may exist in mobi/zlab/server/mapper/ParkingServiceMapper.xml
+### The error may involve defaultParameterMap
+### The error occurred while setting parameters
+### SQL: SELECT *   FROM PARKING    WHERE carNo = ?   AND status IN ('enter','prepayment')       ORDER BY localParkingId DESC   LIMIT 1   FOR UPDATE
+### Cause: java.sql.SQLException: Lock wait timeout exceeded; try restarting transaction
+; SQL []; Lock wait timeout exceeded; try restarting transaction; nested exception is java.sql.SQLException: Lock wait timeout exceeded; try restarting transaction
+21:07:23:072:errmsg : 요청에 실패했습니다.
+21:07:23:072:key : ERR_COMMON_GENERAL
+21:07:23:072:parkingType : 
+21:07:23:072:realPrice : 
+21:07:23:073:price : 
+21:07:23:073:discountPrice : 
+21:07:23:073:enterDate(TimeStamp) : 
+21:07:23:249:enterDate(DateTime) : 1970-01-01 오전 9:00:00
+21:07:23:250:durationSecond : 
+21:07:23:250:prePayDiscountInfoId : 
+21:07:23:250:insertPrice : 
+21:07:23:250:recurrence : 
+21:07:23:251:localParkingId : 
+21:07:23:251:lackPrice : 
+21:07:23:251:prepayPrice : 
+21:07:23:252: ------ 응답 목록 끝 ------ 
+21:07:23:252:전체 동작 성공
+21:07:23:252:모든 파싱 종료
+21:07:23:252:
+21:07:23:252: === 13. 요금 정산 API 끝 === 
+21:09:03:614:
+21:09:03:614: === 13. 요금 정산 API 시작 === 
+21:09:03:614:접속 주소 : http://192.10.60.101:2080//api/parking/leave/price
+21:09:03:626:
+21:09:03:627: ------ 파라미터 목록 ------ 
+21:09:03:627:carNo : 99테9999
+21:09:03:627:leaveDate(DateTime) : 2019-01-03 오후 9:09:03
+21:09:03:628:leaveDate(TimeStamp) : 1546517343549
+21:09:03:628:localEquipmentId : 3
+21:09:03:628:image : c:\enter_lpr_error.jpg
+21:09:03:628:isSmallCar : n
+21:09:03:629:localParkingId : 
+21:09:03:629: ------ 파라미터 목록 끝 ------ 
+21:09:03:629:요청 시작!!
+21:09:03:802:요청 완료!!
+21:09:03:802:파싱 시작!!
+21:09:03:839:파싱 완료!!
+21:09:03:840:
+21:09:03:840: ------ 응답 목록 ------ 
+21:09:03:841:code : 1287
+21:09:03:841:errmsgvariable : 
+21:09:03:841:errmsg : 입차정보가 없는 차량입니다.
+21:09:03:841:key : ERR_LMS_NOT_ENTER_CAR
+21:09:03:842:parkingType : 
+21:09:03:842:realPrice : 
+21:09:03:842:price : 
+21:09:03:843:discountPrice : 
+21:09:03:843:enterDate(TimeStamp) : 
+21:09:03:843:enterDate(DateTime) : 1970-01-01 오전 9:00:00
+21:09:03:844:durationSecond : 
+21:09:03:844:prePayDiscountInfoId : 
+21:09:03:844:insertPrice : 
+21:09:03:844:recurrence : 
+21:09:03:845:localParkingId : 
+21:09:03:845:lackPrice : 
+21:09:03:845:prepayPrice : 
+21:09:03:845: ------ 응답 목록 끝 ------ 
+21:09:03:845:전체 동작 성공
+21:09:03:846:모든 파싱 종료
+21:09:03:846:
+21:09:03:846: === 13. 요금 정산 API 끝 === 
+21:10:13:319:
+21:10:13:320: === 13. 요금 정산 API 시작 === 
+21:10:13:320:접속 주소 : http://ajhyhall.asuscomm.com:2080//api/parking/leave/price
+21:10:13:330:
+21:10:13:331: ------ 파라미터 목록 ------ 
+21:10:13:331:carNo : 55티5555
+21:10:13:331:leaveDate(DateTime) : 2019-01-03 오후 9:10:13
+21:10:13:331:leaveDate(TimeStamp) : 1546517413271
+21:10:13:332:localEquipmentId : 3
+21:10:13:332:image : c:\enter_lpr_error.jpg
+21:10:13:332:isSmallCar : n
+21:10:13:333:localParkingId : 
+21:10:13:333: ------ 파라미터 목록 끝 ------ 
+21:10:13:333:요청 시작!!
+21:10:20:072:요청 완료!!
+21:10:20:072:파싱 시작!!
+21:10:20:104:파싱 완료!!
+21:10:20:104:
+21:10:20:105: ------ 응답 목록 ------ 
+21:10:20:105:code : 0
+21:10:20:105:errmsgvariable : 
+21:10:20:105:errmsg : 
+21:10:20:106:key : ERR_NOERR
+21:10:20:106:parkingType : normal
+21:10:20:106:realPrice : 21000
+21:10:20:106:price : 21000
+21:10:20:107:discountPrice : 0
+21:10:20:107:enterDate(TimeStamp) : 1546498800000
+21:10:20:107:enterDate(DateTime) : 2019-01-03 오후 4:00:00
+21:10:20:107:durationSecond : 18613
+21:10:20:108:prePayDiscountInfoId : 
+21:10:20:108:insertPrice : 0
+21:10:20:108:recurrence : 
+21:10:20:108:localParkingId : 19855
+21:10:20:108:lackPrice : 
+21:10:20:108:prepayPrice : 0
+21:10:20:109: ------ 응답 목록 끝 ------ 
+21:10:20:109:전체 동작 성공
+21:10:20:109:모든 파싱 종료
+21:10:20:109:
+21:10:20:110: === 13. 요금 정산 API 끝 === 
+21:16:14:832:
+21:16:14:879: === 13. 요금 정산 API 시작 === 
+21:16:14:880:접속 주소 : http://121.129.47.164:2080//api/parking/leave/price
+21:16:14:896:
+21:16:14:896: ------ 파라미터 목록 ------ 
+21:16:14:896:carNo : 62소1318
+21:16:14:896:leaveDate(DateTime) : 2019-01-03 오후 7:11:33
+21:16:14:897:leaveDate(TimeStamp) : 1546510293000
+21:16:14:897:localEquipmentId : 3
+21:16:14:897:image : c:\enter_lpr_error.jpg
+21:16:14:898:isSmallCar : n
+21:16:14:898:localParkingId : 
+21:16:14:898: ------ 파라미터 목록 끝 ------ 
+21:16:14:898:요청 시작!!
+21:17:06:274:
+21:17:06:275: === 13. 요금 정산 API 시작 === 
+21:17:06:275:접속 주소 : http://121.129.47.164:2080//api/parking/leave/price
+21:17:06:289:
+21:17:06:289: ------ 파라미터 목록 ------ 
+21:17:06:289:carNo : 62소1318
+21:17:06:290:leaveDate(DateTime) : 2019-01-03 오후 7:11:33
+21:17:06:290:leaveDate(TimeStamp) : 1546510293000
+21:17:06:290:localEquipmentId : 3
+21:17:06:290:image : c:\enter_lpr_error.jpg
+21:17:06:291:isSmallCar : n
+21:17:06:291:localParkingId : 
+21:17:06:291: ------ 파라미터 목록 끝 ------ 
+21:17:06:291:요청 시작!!
+21:17:44:269:
+21:17:44:269: === 13. 요금 정산 API 시작 === 
+21:17:44:270:접속 주소 : http://121.129.47.164:2080//api/parking/leave/price
+21:17:44:283:
+21:17:44:283: ------ 파라미터 목록 ------ 
+21:17:44:283:carNo : 62소1318
+21:17:44:284:leaveDate(DateTime) : 2019-01-03 오후 7:14:48
+21:17:44:284:leaveDate(TimeStamp) : 1546510488000
+21:17:44:284:localEquipmentId : 3
+21:17:44:284:image : c:\enter_lpr_error.jpg
+21:17:44:284:isSmallCar : n
+21:17:44:285:localParkingId : 
+21:17:44:285: ------ 파라미터 목록 끝 ------ 
+21:17:44:285:요청 시작!!
+21:19:27:400:
+21:19:27:400: === 13. 요금 정산 API 시작 === 
+21:19:27:401:접속 주소 : http://221.166.166.126:2080//api/parking/leave/price
+21:19:27:412:
+21:19:27:413: ------ 파라미터 목록 ------ 
+21:19:27:413:carNo : 55모0739
+21:19:27:413:leaveDate(DateTime) : 2019-01-03 오후 8:00:41
+21:19:27:413:leaveDate(TimeStamp) : 1546513241000
+21:19:27:414:localEquipmentId : 4
+21:19:27:414:image : c:\enter_lpr_error.jpg
+21:19:27:414:isSmallCar : n
+21:19:27:415:localParkingId : 
+21:19:27:415: ------ 파라미터 목록 끝 ------ 
+21:19:27:415:요청 시작!!
+21:19:27:588:요청 완료!!
+21:19:27:588:파싱 시작!!
+21:19:27:624:파싱 완료!!
+21:19:27:624:
+21:19:27:624: ------ 응답 목록 ------ 
+21:19:27:625:code : 1287
+21:19:27:625:errmsgvariable : 
+21:19:27:625:errmsg : 입차정보가 없는 차량입니다.
+21:19:27:625:key : ERR_LMS_NOT_ENTER_CAR
+21:19:27:625:parkingType : 
+21:19:27:626:realPrice : 
+21:19:27:626:price : 
+21:19:27:626:discountPrice : 
+21:19:27:626:enterDate(TimeStamp) : 
+21:19:27:627:enterDate(DateTime) : 1970-01-01 오전 9:00:00
+21:19:27:627:durationSecond : 
+21:19:27:627:prePayDiscountInfoId : 
+21:19:27:627:insertPrice : 
+21:19:27:628:recurrence : 
+21:19:27:628:localParkingId : 
+21:19:27:628:lackPrice : 
+21:19:27:628:prepayPrice : 
+21:19:27:629: ------ 응답 목록 끝 ------ 
+21:19:27:629:전체 동작 성공
+21:19:27:629:모든 파싱 종료
+21:19:27:629:
+21:19:27:630: === 13. 요금 정산 API 끝 === 
+21:20:13:663:
+21:20:13:663: === 13. 요금 정산 API 시작 === 
+21:20:13:664:접속 주소 : http://221.166.166.126:2080//api/parking/leave/price
+21:20:13:678:
+21:20:13:679: ------ 파라미터 목록 ------ 
+21:20:13:679:carNo : 55모0739
+21:20:13:679:leaveDate(DateTime) : 2019-01-03 오후 6:00:00
+21:20:13:679:leaveDate(TimeStamp) : 1546506000000
+21:20:13:680:localEquipmentId : 4
+21:20:13:680:image : c:\enter_lpr_error.jpg
+21:20:13:680:isSmallCar : n
+21:20:13:680:localParkingId : 
+21:20:13:680: ------ 파라미터 목록 끝 ------ 
+21:20:13:681:요청 시작!!
+21:20:13:845:요청 완료!!
+21:20:13:846:파싱 시작!!
+21:20:13:883:파싱 완료!!
+21:20:13:883:
+21:20:13:884: ------ 응답 목록 ------ 
+21:20:13:884:code : 1287
+21:20:13:884:errmsgvariable : 
+21:20:13:884:errmsg : 입차정보가 없는 차량입니다.
+21:20:13:885:key : ERR_LMS_NOT_ENTER_CAR
+21:20:13:885:parkingType : 
+21:20:13:885:realPrice : 
+21:20:13:886:price : 
+21:20:13:886:discountPrice : 
+21:20:13:886:enterDate(TimeStamp) : 
+21:20:13:887:enterDate(DateTime) : 1970-01-01 오전 9:00:00
+21:20:13:887:durationSecond : 
+21:20:13:887:prePayDiscountInfoId : 
+21:20:13:888:insertPrice : 
+21:20:13:888:recurrence : 
+21:20:13:888:localParkingId : 
+21:20:13:888:lackPrice : 
+21:20:13:889:prepayPrice : 
+21:20:13:889: ------ 응답 목록 끝 ------ 
+21:20:13:889:전체 동작 성공
+21:20:13:890:모든 파싱 종료
+21:20:13:890:
+21:20:13:890: === 13. 요금 정산 API 끝 === 
+21:22:20:168:
+21:22:20:168: === 13. 요금 정산 API 시작 === 
+21:22:20:168:접속 주소 : http://192.10.60.101:2080//api/parking/leave/price
+21:22:20:179:
+21:22:20:179: ------ 파라미터 목록 ------ 
+21:22:20:180:carNo : 22테2222
+21:22:20:180:leaveDate(DateTime) : 2019-01-03 오후 8:00:00
+21:22:20:180:leaveDate(TimeStamp) : 1546513200000
+21:22:20:180:localEquipmentId : 3
+21:22:20:181:image : c:\enter_lpr_error.jpg
+21:22:20:181:isSmallCar : n
+21:22:20:181:localParkingId : 
+21:22:20:181: ------ 파라미터 목록 끝 ------ 
+21:22:20:181:요청 시작!!
+21:22:22:576:요청 완료!!
+21:22:22:577:파싱 시작!!
+21:22:22:608:파싱 완료!!
+21:22:22:609:
+21:22:22:609: ------ 응답 목록 ------ 
+21:22:22:609:code : 0
+21:22:22:609:errmsgvariable : 
+21:22:22:610:errmsg : 
+21:22:22:610:key : ERR_NOERR
+21:22:22:610:parkingType : normal
+21:22:22:610:realPrice : 2411700
+21:22:22:610:price : 2411700
+21:22:22:610:discountPrice : 0
+21:22:22:611:enterDate(TimeStamp) : 1545271200000
+21:22:22:611:enterDate(DateTime) : 2018-12-20 오전 11:00:00
+21:22:22:611:durationSecond : 1242000
+21:22:22:611:prePayDiscountInfoId : 
+21:22:22:612:insertPrice : 2000
+21:22:22:612:recurrence : 
+21:22:22:612:localParkingId : 452
+21:22:22:612:lackPrice : 
+21:22:22:612:prepayPrice : 0
+21:22:22:612: ------ 응답 목록 끝 ------ 
+21:22:22:613:전체 동작 성공
+21:22:22:613:모든 파싱 종료
+21:22:22:613:
+21:22:22:613: === 13. 요금 정산 API 끝 === 
+21:22:29:975:
+21:22:29:976: === 13. 요금 정산 API 시작 === 
+21:22:29:976:접속 주소 : http://192.10.60.101:2080//api/parking/leave/price
+21:22:29:978:
+21:22:29:979: ------ 파라미터 목록 ------ 
+21:22:29:979:carNo : 22테2222
+21:22:29:979:leaveDate(DateTime) : 2019-01-03 오전 10:00:00
+21:22:29:979:leaveDate(TimeStamp) : 1546477200000
+21:22:29:980:localEquipmentId : 3
+21:22:29:980:image : c:\enter_lpr_error.jpg
+21:22:29:980:isSmallCar : n
+21:22:29:980:localParkingId : 
+21:22:29:981: ------ 파라미터 목록 끝 ------ 
+21:22:29:981:요청 시작!!
+21:22:30:607:요청 완료!!
+21:22:30:607:파싱 시작!!
+21:22:30:607:파싱 완료!!
+21:22:30:607:
+21:22:30:608: ------ 응답 목록 ------ 
+21:22:30:608:code : 0
+21:22:30:608:errmsgvariable : 
+21:22:30:608:errmsg : 
+21:22:30:608:key : ERR_NOERR
+21:22:30:608:parkingType : normal
+21:22:30:609:realPrice : 2305700
+21:22:30:609:price : 2305700
+21:22:30:609:discountPrice : 0
+21:22:30:609:enterDate(TimeStamp) : 1545271200000
+21:22:30:610:enterDate(DateTime) : 2018-12-20 오전 11:00:00
+21:22:30:610:durationSecond : 1206000
+21:22:30:610:prePayDiscountInfoId : 
+21:22:30:610:insertPrice : 2000
+21:22:30:611:recurrence : 
+21:22:30:611:localParkingId : 452
+21:22:30:611:lackPrice : 
+21:22:30:611:prepayPrice : 0
+21:22:30:611: ------ 응답 목록 끝 ------ 
+21:22:30:612:전체 동작 성공
+21:22:30:612:모든 파싱 종료
+21:22:30:612:
+21:22:30:612: === 13. 요금 정산 API 끝 === 
+21:24:43:750:
+21:24:43:751: === 13. 요금 정산 API 시작 === 
+21:24:43:751:접속 주소 : http://192.10.60.101:2080//api/parking/leave/price
+21:24:43:763:
+21:24:43:764: ------ 파라미터 목록 ------ 
+21:24:43:765:carNo : 11테1111
+21:24:43:765:leaveDate(DateTime) : 2019-01-03 오후 8:00:00
+21:24:43:765:leaveDate(TimeStamp) : 1546513200000
+21:24:43:766:localEquipmentId : 3
+21:24:43:766:image : c:\enter_lpr_error.jpg
+21:24:43:766:isSmallCar : n
+21:24:43:766:localParkingId : 
+21:24:43:767: ------ 파라미터 목록 끝 ------ 
+21:24:43:767:요청 시작!!
+21:24:43:906:요청 완료!!
+21:24:43:907:파싱 시작!!
+21:24:43:939:파싱 완료!!
+21:24:43:940:
+21:24:43:940: ------ 응답 목록 ------ 
+21:24:43:940:code : 1287
+21:24:43:940:errmsgvariable : 
+21:24:43:941:errmsg : 입차정보가 없는 차량입니다.
+21:24:43:941:key : ERR_LMS_NOT_ENTER_CAR
+21:24:43:941:parkingType : 
+21:24:43:941:realPrice : 
+21:24:43:941:price : 
+21:24:43:942:discountPrice : 
+21:24:43:942:enterDate(TimeStamp) : 
+21:24:43:942:enterDate(DateTime) : 1970-01-01 오전 9:00:00
+21:24:43:942:durationSecond : 
+21:24:43:943:prePayDiscountInfoId : 
+21:24:43:943:insertPrice : 
+21:24:43:943:recurrence : 
+21:24:43:943:localParkingId : 
+21:24:43:944:lackPrice : 
+21:24:43:944:prepayPrice : 
+21:24:43:944: ------ 응답 목록 끝 ------ 
+21:24:43:945:전체 동작 성공
+21:24:43:945:모든 파싱 종료
+21:24:43:945:
+21:24:43:946: === 13. 요금 정산 API 끝 === 
+21:24:49:199:
+21:24:49:199: === 13. 요금 정산 API 시작 === 
+21:24:49:200:접속 주소 : http://192.10.60.101:2080//api/parking/leave/price
+21:24:49:203:
+21:24:49:203: ------ 파라미터 목록 ------ 
+21:24:49:204:carNo : 22테2222
+21:24:49:204:leaveDate(DateTime) : 2019-01-03 오후 8:00:00
+21:24:49:204:leaveDate(TimeStamp) : 1546513200000
+21:24:49:205:localEquipmentId : 3
+21:24:49:205:image : c:\enter_lpr_error.jpg
+21:24:49:205:isSmallCar : n
+21:24:49:205:localParkingId : 
+21:24:49:206: ------ 파라미터 목록 끝 ------ 
+21:24:49:206:요청 시작!!
+21:24:50:017:요청 완료!!
+21:24:50:017:파싱 시작!!
+21:24:50:018:파싱 완료!!
+21:24:50:018:
+21:24:50:018: ------ 응답 목록 ------ 
+21:24:50:019:code : 0
+21:24:50:019:errmsgvariable : 
+21:24:50:019:errmsg : 
+21:24:50:019:key : ERR_NOERR
+21:24:50:019:parkingType : normal
+21:24:50:020:realPrice : 2411700
+21:24:50:020:price : 2411700
+21:24:50:020:discountPrice : 0
+21:24:50:021:enterDate(TimeStamp) : 1545271200000
+21:24:50:021:enterDate(DateTime) : 2018-12-20 오전 11:00:00
+21:24:50:021:durationSecond : 1242000
+21:24:50:021:prePayDiscountInfoId : 
+21:24:50:022:insertPrice : 2000
+21:24:50:022:recurrence : 
+21:24:50:022:localParkingId : 452
+21:24:50:022:lackPrice : 
+21:24:50:022:prepayPrice : 0
+21:24:50:023: ------ 응답 목록 끝 ------ 
+21:24:50:023:전체 동작 성공
+21:24:50:023:모든 파싱 종료
+21:24:50:023:
+21:24:50:024: === 13. 요금 정산 API 끝 === 
+21:31:07:926:
+21:31:07:932: === 13. 요금 정산 API 시작 === 
+21:31:07:932:접속 주소 : http://59.9.38.101:2080//api/parking/leave/price
+21:31:07:942:
+21:31:07:942: ------ 파라미터 목록 ------ 
+21:31:07:943:carNo : 83루6390
+21:31:07:943:leaveDate(DateTime) : 2019-01-03 오후 5:58:22
+21:31:07:943:leaveDate(TimeStamp) : 1546505902000
+21:31:07:943:localEquipmentId : 3
+21:31:07:944:image : c:\enter_lpr_error.jpg
+21:31:07:944:isSmallCar : n
+21:31:07:944:localParkingId : 
+21:31:07:945: ------ 파라미터 목록 끝 ------ 
+21:31:07:945:요청 시작!!
+21:31:08:519:요청 완료!!
+21:31:08:519:파싱 시작!!
+21:31:08:551:파싱 완료!!
+21:31:08:552:
+21:31:08:552: ------ 응답 목록 ------ 
+21:31:08:552:code : 0
+21:31:08:552:errmsgvariable : 
+21:31:08:553:errmsg : 
+21:31:08:553:key : ERR_NOERR
+21:31:08:553:parkingType : visitorList
+21:31:08:553:realPrice : 0
+21:31:08:554:price : 0
+21:31:08:554:discountPrice : 0
+21:31:08:554:enterDate(TimeStamp) : 1546420602000
+21:31:08:554:enterDate(DateTime) : 2019-01-02 오후 6:16:42
+21:31:08:555:durationSecond : 85300
+21:31:08:555:prePayDiscountInfoId : 
+21:31:08:555:insertPrice : 0
+21:31:08:555:recurrence : 
+21:31:08:556:localParkingId : 44538
+21:31:08:556:lackPrice : 
+21:31:08:556:prepayPrice : 0
+21:31:08:556: ------ 응답 목록 끝 ------ 
+21:31:08:557:전체 동작 성공
+21:31:08:557:모든 파싱 종료
+21:31:08:557:
+21:31:08:557: === 13. 요금 정산 API 끝 === 
+21:33:04:250:
+21:33:04:250: === 13. 요금 정산 API 시작 === 
+21:33:04:250:접속 주소 : http://59.9.38.101:2080//api/parking/leave/price
+21:33:04:253:
+21:33:04:253: ------ 파라미터 목록 ------ 
+21:33:04:254:carNo : 83루6390
+21:33:04:254:leaveDate(DateTime) : 2019-01-03 오후 5:58:22
+21:33:04:254:leaveDate(TimeStamp) : 1546505902000
+21:33:04:255:localEquipmentId : 3
+21:33:04:255:image : c:\enter_lpr_error.jpg
+21:33:04:255:isSmallCar : n
+21:33:04:256:localParkingId : 
+21:33:04:256: ------ 파라미터 목록 끝 ------ 
+21:33:04:256:요청 시작!!
+21:33:04:815:요청 완료!!
+21:33:04:816:파싱 시작!!
+21:33:04:816:파싱 완료!!
+21:33:04:816:
+21:33:04:817: ------ 응답 목록 ------ 
+21:33:04:817:code : 0
+21:33:04:817:errmsgvariable : 
+21:33:04:817:errmsg : 
+21:33:04:818:key : ERR_NOERR
+21:33:04:818:parkingType : visitorList
+21:33:04:818:realPrice : 0
+21:33:04:818:price : 0
+21:33:04:818:discountPrice : 0
+21:33:04:819:enterDate(TimeStamp) : 1546420602000
+21:33:04:819:enterDate(DateTime) : 2019-01-02 오후 6:16:42
+21:33:04:820:durationSecond : 85300
+21:33:04:820:prePayDiscountInfoId : 
+21:33:04:820:insertPrice : 0
+21:33:04:820:recurrence : 
+21:33:04:820:localParkingId : 44538
+21:33:04:821:lackPrice : 
+21:33:04:821:prepayPrice : 0
+21:33:04:821: ------ 응답 목록 끝 ------ 
+21:33:04:821:전체 동작 성공
+21:33:04:821:모든 파싱 종료
+21:33:04:822:
+21:33:04:822: === 13. 요금 정산 API 끝 === 

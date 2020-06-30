@@ -1,0 +1,294 @@
+09:51:44:310:
+09:51:44:311: === 05. 정기권 정보 전달 시작 === 
+09:51:44:312:접속 주소 : http://192.10.60.101:2080//api/equipment/get/monthlyTicketInfo
+09:51:44:478:
+09:51:44:478: ------ 응답 목록 ------ 
+09:51:44:479:code : 0
+09:51:44:480:errmsgvariable : 
+09:51:44:480:errmsg : 
+09:51:44:480:key : ERR_NOERR
+09:51:44:481:
+09:51:44:482: ------ 먼쓸리 티켓 인포 리스트 ------ 
+09:51:44:482:먼쓸리 티켓 인포 리스트 개수 : 259
+09:51:44:484: ------ 먼쓸리 티켓 인포 리스트 끝 ------ 
+09:51:44:484: ------ 응답 목록 끝 ------ 
+09:51:44:484:전체 동작 성공
+09:51:44:485:모든 파싱 종료
+09:51:44:485:
+09:51:44:486: === 05. 정기권 정보 전달 끝 === 
+09:55:40:247:
+09:55:40:248: === 05. 정기권 정보 전달 시작 === 
+09:55:40:249:접속 주소 : http://192.10.60.101:2080//api/equipment/get/monthlyTicketInfo
+09:55:40:423:
+09:55:40:424: ------ 응답 목록 ------ 
+09:55:40:424:code : 0
+09:55:40:424:errmsgvariable : 
+09:55:40:425:errmsg : 
+09:55:40:425:key : ERR_NOERR
+09:55:40:426:
+09:55:40:426: ------ 먼쓸리 티켓 인포 리스트 ------ 
+09:55:40:426:먼쓸리 티켓 인포 리스트 개수 : 259
+09:55:40:430: ------ 먼쓸리 티켓 인포 리스트 끝 ------ 
+09:55:40:431: ------ 응답 목록 끝 ------ 
+09:55:40:431:전체 동작 성공
+09:55:40:431:모든 파싱 종료
+09:55:40:432:
+09:55:40:432: === 05. 정기권 정보 전달 끝 === 
+13:38:00:528:
+13:38:00:529: === 06. 정산기 오류 내역을 받음 시작 === 
+13:38:00:530:접속 주소 : http://192.10.60.101:2080//api/equipment/post/error
+13:38:00:539:
+13:38:00:540: ------ 파라미터 목록 ------ 
+13:38:00:540:localEquipmentId(장비 UID) : 1
+13:38:00:541:equipmentCode : 1
+13:38:00:541:errorCode : 1
+13:38:00:542: ------ 파라미터 목록 끝 ------ 
+13:38:00:882:
+13:38:00:883: ------ 응답 목록 ------ 
+13:38:00:883:code : 0
+13:38:00:884:errmsgvariable : 
+13:38:00:884:errmsg : 
+13:38:00:884:key : ERR_NOERR
+13:38:00:886: ------ 응답 목록 끝 ------ 
+13:38:00:886:전체 동작 성공
+13:38:00:886:모든 파싱 종료
+13:38:00:887:
+13:38:00:887: === 06. 정산기 오류 내역을 받음 끝 === 
+14:24:17:608:
+14:24:17:609: === 07. 미방출 금액 전달 시작 === 
+14:24:17:610:접속 주소 : http://192.10.60.101:2080//api/equipment/post/nopay
+14:24:17:619:
+14:24:17:620: ------ 파라미터 목록 ------ 
+14:24:17:620:carNo : 1
+14:24:17:621:price : 10000
+14:24:17:621:won50000 : 0
+14:24:17:622:won10000 : 1
+14:24:17:622:won5000 : 0
+14:24:17:623:won1000 : 0
+14:24:17:623:won500 : 0
+14:24:17:623:won100 : 0
+14:24:17:624:won50 : 0
+14:24:17:624:won10 : 0
+14:24:17:625: ------ 파라미터 목록 끝 ------ 
+14:24:17:926:
+14:24:17:926: ------ 응답 목록 ------ 
+14:24:17:927:code : 256
+14:24:17:927:errmsgvariable : 
+### Error updating database.  Cause: com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Column 'localParkingId' cannot be null
+### The error may involve mobi.zlab.server.mapper.model.NoPayParkingMapper.insert-Inline
+### The error occurred while setting parameters
+### SQL: insert into NO_PAY_PARKING (localParkingId, carNo, regDate,        price, insertPrice, won50000,        won10000, won5000, won1000,        won500, won100, won50,        won10)     values (?, ?, ?,        ?, ?, ?,        ?, ?, ?,        ?, ?, ?,        ?)
+### Cause: com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Column 'localParkingId' cannot be null
+; SQL []; Column 'localParkingId' cannot be null; nested exception is com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Column 'localParkingId' cannot be null
+14:24:17:927:errmsg : 요청에 실패했습니다.
+14:24:17:928:key : ERR_COMMON_GENERAL
+14:24:18:011: ------ 응답 목록 끝 ------ 
+14:24:18:012:전체 동작 성공
+14:24:18:012:모든 파싱 종료
+14:24:18:013:
+14:24:18:013: === 07. 미방출 금액 전달  끝 === 
+14:24:40:175:
+14:24:40:175: === 07. 미방출 금액 전달 시작 === 
+14:24:40:176:접속 주소 : http://192.10.60.101:2080//api/equipment/post/nopay
+14:24:40:178:
+14:24:40:178: ------ 파라미터 목록 ------ 
+14:24:40:179:carNo : 1
+14:24:40:179:price : 10000
+14:24:40:179:won50000 : 0
+14:24:40:180:won10000 : 1
+14:24:40:180:won5000 : 0
+14:24:40:180:won1000 : 0
+14:24:40:181:won500 : 0
+14:24:40:181:won100 : 0
+14:24:40:182:won50 : 0
+14:24:40:182:won10 : 0
+14:24:40:182: ------ 파라미터 목록 끝 ------ 
+14:24:40:194:
+14:24:40:194: ------ 응답 목록 ------ 
+14:24:40:194:code : 256
+14:24:40:195:errmsgvariable : 
+### Error updating database.  Cause: com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Column 'localParkingId' cannot be null
+### The error may involve mobi.zlab.server.mapper.model.NoPayParkingMapper.insert-Inline
+### The error occurred while setting parameters
+### SQL: insert into NO_PAY_PARKING (localParkingId, carNo, regDate,        price, insertPrice, won50000,        won10000, won5000, won1000,        won500, won100, won50,        won10)     values (?, ?, ?,        ?, ?, ?,        ?, ?, ?,        ?, ?, ?,        ?)
+### Cause: com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Column 'localParkingId' cannot be null
+; SQL []; Column 'localParkingId' cannot be null; nested exception is com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Column 'localParkingId' cannot be null
+14:24:40:196:errmsg : 요청에 실패했습니다.
+14:24:40:196:key : ERR_COMMON_GENERAL
+14:24:40:391: ------ 응답 목록 끝 ------ 
+14:24:40:392:전체 동작 성공
+14:24:40:393:모든 파싱 종료
+14:24:40:393:
+14:24:40:394: === 07. 미방출 금액 전달  끝 === 
+15:32:29:227:
+15:32:29:228: === 09. Polling Data 시작 === 
+15:32:29:229:접속 주소 : http://192.10.60.101:2080//api/equipment/get/log
+15:32:29:284:
+15:32:29:285: ------ 파라미터 목록 ------ 
+15:32:29:285:localEquipmentId(장비 UID) : 
+15:32:29:286: ------ 파라미터 목록 끝 ------ 
+15:32:29:457:
+15:32:29:457: ------ 응답 목록 ------ 
+15:32:29:458:code : 0
+15:32:29:458:errmsgvariable : 
+15:32:29:459:errmsg : 
+15:32:29:460:key : ERR_NOERR
+15:32:29:460:
+15:32:29:461: ------ 폴링정보 리스트 ------ 
+15:32:29:462:폴링 정보 리스트의 개수 : 0
+15:32:29:462: ------ 폴링정보 리스트 끝 ------ 
+15:32:29:462: ------ 응답 목록 끝 ------ 
+15:32:29:463:전체 동작 성공
+15:32:29:463:모든 파싱 종료
+15:32:29:464:
+15:32:29:464: === 09. Polling Data 끝 === 
+15:36:12:381:
+15:36:12:381: === 09. Polling Data 시작 === 
+15:36:12:382:접속 주소 : http://192.10.60.101:2080//api/equipment/get/log
+15:36:12:385:
+15:36:12:386: ------ 파라미터 목록 ------ 
+15:36:12:386:localEquipmentId(장비 UID) : 
+15:36:12:387: ------ 파라미터 목록 끝 ------ 
+15:36:12:398:
+15:36:12:398: ------ 응답 목록 ------ 
+15:36:12:399:code : 0
+15:36:12:399:errmsgvariable : 
+15:36:12:400:errmsg : 
+15:36:12:400:key : ERR_NOERR
+15:36:12:401:
+15:36:12:401: ------ 폴링정보 리스트 ------ 
+15:36:12:401:폴링 정보 리스트의 개수 : 0
+15:36:12:401: ------ 폴링정보 리스트 끝 ------ 
+15:36:12:402: ------ 응답 목록 끝 ------ 
+15:36:12:402:전체 동작 성공
+15:36:12:402:모든 파싱 종료
+15:36:12:403:
+15:36:12:403: === 09. Polling Data 끝 === 
+15:41:43:570:
+15:41:43:571: === 10. 출차 미인식 차량 목록 시작 === 
+15:41:43:572:접속 주소 : http://192.10.60.101:2080//api/parking/unkown/leave/price
+15:41:43:579:
+15:41:43:579: ------ 파라미터 목록 ------ 
+15:41:43:579:carNo : 4568
+15:41:43:580: ------ 파라미터 목록 끝 ------ 
+15:41:43:779:
+15:41:43:779: ------ 응답 목록 ------ 
+15:41:43:780:code : 0
+15:41:43:780:errmsgvariable : 
+15:41:43:780:errmsg : 
+15:41:43:781:key : ERR_NOERR
+15:41:43:781:
+15:41:43:781: ------ 리스트 ------ 
+15:41:43:782:리스트의 개수 : 7
+15:41:43:783:0번 unknownParkingList -> localParkingId : 4308
+15:41:43:783:0번 unknownParkingList -> url : /enterImage/342_1487558399_CH1_20170126000036_0000000000.jpg
+15:41:43:783:0번 unknownParkingList -> width : 960
+15:41:43:784:0번 unknownParkingList -> height : 960
+15:41:43:784:0번 unknownParkingList -> enterDate : 1487558400000
+15:41:43:784:0번 unknownParkingList -> carNo : 12가4568
+15:41:43:785:1번 unknownParkingList -> localParkingId : 4805
+15:41:43:785:1번 unknownParkingList -> url : /enterImage/342_1487730168_CH1_20170126000036_0000000000.jpg
+15:41:43:785:1번 unknownParkingList -> width : 960
+15:41:43:785:1번 unknownParkingList -> height : 960
+15:41:43:786:1번 unknownParkingList -> enterDate : 1487730159000
+15:41:43:786:1번 unknownParkingList -> carNo : 12가4568
+15:41:43:796:2번 unknownParkingList -> localParkingId : 4806
+15:41:43:797:2번 unknownParkingList -> url : /enterImage/342_1487730230_CH1_20170126000036_0000000000.jpg
+15:41:43:797:2번 unknownParkingList -> width : 960
+15:41:43:797:2번 unknownParkingList -> height : 960
+15:41:43:798:2번 unknownParkingList -> enterDate : 1487730233000
+15:41:43:798:2번 unknownParkingList -> carNo : 12가4568
+15:41:43:799:3번 unknownParkingList -> localParkingId : 4812
+15:41:43:799:3번 unknownParkingList -> url : /enterImage/342_1487734377_CH1_20170126000036_0000000000.jpg
+15:41:43:799:3번 unknownParkingList -> width : 960
+15:41:43:800:3번 unknownParkingList -> height : 960
+15:41:43:800:3번 unknownParkingList -> enterDate : 1487734379000
+15:41:43:800:3번 unknownParkingList -> carNo : 12가4568
+15:41:43:801:4번 unknownParkingList -> localParkingId : 4872
+15:41:43:801:4번 unknownParkingList -> url : /enterImage/342_1487745186_CH1_20170126000036_0000000000.jpg
+15:41:43:801:4번 unknownParkingList -> width : 960
+15:41:43:996:4번 unknownParkingList -> height : 960
+15:41:43:997:4번 unknownParkingList -> enterDate : 1487745189000
+15:41:43:997:4번 unknownParkingList -> carNo : 12가4568
+15:41:43:997:5번 unknownParkingList -> localParkingId : 5686
+15:41:43:998:5번 unknownParkingList -> url : /enterImage/342_1488172030_123123.jpg
+15:41:43:998:5번 unknownParkingList -> width : 740
+15:41:43:998:5번 unknownParkingList -> height : 987
+15:41:43:999:5번 unknownParkingList -> enterDate : 1488172031000
+15:41:44:000:5번 unknownParkingList -> carNo : 12가4568
+15:41:44:000:6번 unknownParkingList -> localParkingId : 5687
+15:41:44:001:6번 unknownParkingList -> url : /enterImage/342_1488172353_123123.jpg
+15:41:44:001:6번 unknownParkingList -> width : 740
+15:41:44:002:6번 unknownParkingList -> height : 987
+15:41:44:002:6번 unknownParkingList -> enterDate : 1488172355000
+15:41:44:003:6번 unknownParkingList -> carNo : 12가4568
+15:41:44:003: ------ 리스트 끝 ------ 
+15:41:44:004: ------ 응답 목록 끝 ------ 
+15:41:44:004:전체 동작 성공
+15:41:44:196:모든 파싱 종료
+15:41:44:197:
+15:41:44:197: === 10. 출차 미인식 차량 목록 끝 === 
+15:42:11:999:
+15:42:12:000: === 10. 출차 미인식 차량 목록 시작 === 
+15:42:12:000:접속 주소 : http://192.10.60.101:2080//api/parking/unkown/leave/price
+15:42:12:007:
+15:42:12:008: ------ 파라미터 목록 ------ 
+15:42:12:008:carNo : 4568
+15:42:12:009: ------ 파라미터 목록 끝 ------ 
+15:42:12:171:
+15:42:12:172: ------ 응답 목록 ------ 
+15:42:12:172:code : 0
+15:42:12:172:errmsgvariable : 
+15:42:12:173:errmsg : 
+15:42:12:173:key : ERR_NOERR
+15:42:12:174:
+15:42:12:174: ------ 리스트 ------ 
+15:42:12:175:리스트의 개수 : 7
+15:42:12:176:0번 unknownParkingList -> localParkingId : 4308
+15:42:12:176:0번 unknownParkingList -> url : /enterImage/342_1487558399_CH1_20170126000036_0000000000.jpg
+15:42:12:177:0번 unknownParkingList -> width : 960
+15:42:12:177:0번 unknownParkingList -> height : 960
+15:42:12:178:0번 unknownParkingList -> enterDate : 1487558400000
+15:42:12:178:0번 unknownParkingList -> carNo : 12가4568
+15:42:12:179:1번 unknownParkingList -> localParkingId : 4805
+15:42:12:179:1번 unknownParkingList -> url : /enterImage/342_1487730168_CH1_20170126000036_0000000000.jpg
+15:42:12:180:1번 unknownParkingList -> width : 960
+15:42:12:180:1번 unknownParkingList -> height : 960
+15:42:12:181:1번 unknownParkingList -> enterDate : 1487730159000
+15:42:12:181:1번 unknownParkingList -> carNo : 12가4568
+15:42:12:209:2번 unknownParkingList -> localParkingId : 4806
+15:42:12:210:2번 unknownParkingList -> url : /enterImage/342_1487730230_CH1_20170126000036_0000000000.jpg
+15:42:12:210:2번 unknownParkingList -> width : 960
+15:42:12:211:2번 unknownParkingList -> height : 960
+15:42:12:211:2번 unknownParkingList -> enterDate : 1487730233000
+15:42:12:212:2번 unknownParkingList -> carNo : 12가4568
+15:42:12:212:3번 unknownParkingList -> localParkingId : 4812
+15:42:12:212:3번 unknownParkingList -> url : /enterImage/342_1487734377_CH1_20170126000036_0000000000.jpg
+15:42:12:213:3번 unknownParkingList -> width : 960
+15:42:12:214:3번 unknownParkingList -> height : 960
+15:42:12:214:3번 unknownParkingList -> enterDate : 1487734379000
+15:42:12:215:3번 unknownParkingList -> carNo : 12가4568
+15:42:12:215:4번 unknownParkingList -> localParkingId : 4872
+15:42:12:216:4번 unknownParkingList -> url : /enterImage/342_1487745186_CH1_20170126000036_0000000000.jpg
+15:42:12:216:4번 unknownParkingList -> width : 960
+15:42:12:410:4번 unknownParkingList -> height : 960
+15:42:12:410:4번 unknownParkingList -> enterDate : 1487745189000
+15:42:12:411:4번 unknownParkingList -> carNo : 12가4568
+15:42:12:411:5번 unknownParkingList -> localParkingId : 5686
+15:42:12:412:5번 unknownParkingList -> url : /enterImage/342_1488172030_123123.jpg
+15:42:12:413:5번 unknownParkingList -> width : 740
+15:42:12:413:5번 unknownParkingList -> height : 987
+15:42:12:414:5번 unknownParkingList -> enterDate : 1488172031000
+15:42:12:414:5번 unknownParkingList -> carNo : 12가4568
+15:42:12:415:6번 unknownParkingList -> localParkingId : 5687
+15:42:12:415:6번 unknownParkingList -> url : /enterImage/342_1488172353_123123.jpg
+15:42:12:415:6번 unknownParkingList -> width : 740
+15:42:12:416:6번 unknownParkingList -> height : 987
+15:42:12:416:6번 unknownParkingList -> enterDate : 1488172355000
+15:42:12:417:6번 unknownParkingList -> carNo : 12가4568
+15:42:12:417: ------ 리스트 끝 ------ 
+15:42:12:418: ------ 응답 목록 끝 ------ 
+15:42:12:418:전체 동작 성공
+15:42:12:609:모든 파싱 종료
+15:42:12:610:
+15:42:12:610: === 10. 출차 미인식 차량 목록 끝 === 

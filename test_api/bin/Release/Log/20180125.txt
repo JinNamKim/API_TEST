@@ -1,0 +1,35 @@
+22:22:11:396:
+22:22:11:397: === 05. 정기권 정보 전달 시작 === 
+22:22:11:397:접속 주소 : http://://api/equipment/get/monthlyTicketInfo
+22:22:11:432:동작 실패
+22:22:11:432:-e : System.UriFormatException: 잘못된 URI: 호스트 이름을 구문 분석할 수 없습니다.
+   위치: System.Uri.CreateThis(String uri, Boolean dontEscape, UriKind uriKind)
+   위치: System.Uri..ctor(String uriString)
+   위치: RestSharp.RestClient..ctor(String baseUrl)
+   위치: AJParkLib.AJDataBase.AJWebDatabase.temp_name_5() 파일 d:\진남_일지\날짜별\18년 1월\AJPL - 복사본\AJDataBase\AJWebDatabase.cs:줄 1999
+22:22:11:606:-e.StackTrace :    위치: System.Uri.CreateThis(String uri, Boolean dontEscape, UriKind uriKind)
+   위치: System.Uri..ctor(String uriString)
+   위치: RestSharp.RestClient..ctor(String baseUrl)
+   위치: AJParkLib.AJDataBase.AJWebDatabase.temp_name_5() 파일 d:\진남_일지\날짜별\18년 1월\AJPL - 복사본\AJDataBase\AJWebDatabase.cs:줄 1999
+22:22:11:607:모든 파싱 종료
+22:22:11:607:
+22:22:11:607: === 05. 정기권 정보 전달 끝 === 
+22:22:19:810:
+22:22:19:810: === 18. 사전 요금 정산 API 시작 === 
+22:22:19:812:접속 주소 : http://://api/parking/prepay/price
+22:22:19:828:동작 실패
+22:22:19:836:-e : System.UriFormatException: 잘못된 URI: 호스트 이름을 구문 분석할 수 없습니다.
+   위치: System.Uri.CreateThis(String uri, Boolean dontEscape, UriKind uriKind)
+   위치: System.Uri..ctor(String uriString)
+   위치: RestSharp.RestClient..ctor(String baseUrl)
+   위치: AJParkLib.AJDataBase.AJWebDatabase.temp_name_19(Int32 localParkingId, String carNo, DateTime leaveDate, Int32 localEquipmentId) 파일 d:\진남_일지\날짜별\18년 1월\AJPL - 복사본\AJDataBase\AJWebDatabase.cs:줄 4945
+22:22:19:837:-e.StackTrace :    위치: System.Uri.CreateThis(String uri, Boolean dontEscape, UriKind uriKind)
+   위치: System.Uri..ctor(String uriString)
+   위치: RestSharp.RestClient..ctor(String baseUrl)
+   위치: AJParkLib.AJDataBase.AJWebDatabase.temp_name_19(Int32 localParkingId, String carNo, DateTime leaveDate, Int32 localEquipmentId) 파일 d:\진남_일지\날짜별\18년 1월\AJPL - 복사본\AJDataBase\AJWebDatabase.cs:줄 4945
+22:22:19:837:모든 파싱 종료
+22:22:19:837:
+22:22:19:838: === 18. 사전 요금 정산 API 끝 === 
+22:22:33:110:
+22:22:33:159: === 18. 사전 요금 정산 API 시작 === 
+22:22:33:264:접속 주소 : http://://api/parking/prepay/price

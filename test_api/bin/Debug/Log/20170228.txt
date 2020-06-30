@@ -1,0 +1,302 @@
+13:02:07:164:
+13:02:07:165: === 01. 초기 장비 세팅 정보 시작 === 
+13:02:07:165:접속 주소 : http://192.10.60.101:2080//api/equipment/get/initializedInfo
+13:02:07:171:
+13:02:07:172: ------ 파라미터 목록 ------ 
+13:02:07:172:localEquipmentId(장비 UID) : 3
+13:02:07:172: ------ 파라미터 목록 끝 ------ 
+13:02:07:322:
+13:02:07:323: ------ 응답 목록 ------ 
+13:02:07:323:code : 0
+13:02:07:324:errmsgvariable : 
+13:02:07:324:errmsg : 
+13:02:07:325:key : ERR_NOERR
+13:02:07:326:
+13:02:07:326: ------ lprInfo 리스트 관련 응답 ------ 
+13:02:07:327:lprInfo의 개수 : 0
+13:02:07:327: ------ lprInfo 리스트 관련 응답 끝 ------ 
+13:02:07:328:
+13:02:07:328: ------ kioskInfo 리스트 관련 응답 ------ 
+13:02:07:329:kioskInfo 개수 : 1
+13:02:07:330:
+13:02:07:331:0번 kioskInfo -> localEquipmentId : 3
+13:02:07:331:0번 kioskInfo -> type : kiosk
+13:02:07:331:0번 kioskInfo -> name : 출구무인
+13:02:07:332:0번 kioskInfo -> equipmentStatus : offline
+13:02:07:332:0번 kioskInfo -> equipmentNo : 3
+13:02:07:334:0번 kioskInfo -> powerIp : 
+13:02:07:365:0번 kioskInfo -> powerPort : 
+13:02:07:366:0번 kioskInfo -> equipmentIp : 192.10.60.121
+13:02:07:366:0번 kioskInfo -> equipmentPort : 30200
+13:02:07:366:0번 kioskInfo -> displayIp : 192.10.60.125
+13:02:07:367:0번 kioskInfo -> displayPort : 5000
+13:02:07:368:0번 kioskInfo -> barrierPort : 
+13:02:07:368:0번 kioskInfo -> location : kioskexit
+13:02:07:369:0번 kioskInfo -> dvrIp : 192.10.60.1
+13:02:07:369:0번 kioskInfo -> dvrPort : 3999
+13:02:07:369:0번 kioskInfo -> won500Price : 500
+13:02:07:370:0번 kioskInfo -> won100Price : 100
+13:02:07:370:
+13:02:07:370: ------ kiosk child 리스트 관련 응답 ------ 
+13:02:07:370:kiosk child 개수 : 14
+13:02:07:371:
+13:02:07:371:0번 kiosk child ->  localEquipmentKioskId : 1
+13:02:07:371:0번 kiosk child ->  name : 0
+13:02:07:371:0번 kiosk child ->  port : 0
+13:02:07:372:0번 kiosk child ->  localEquipmentId : 0
+13:02:07:372:0번 kiosk child ->  equipmentKioskStatus : 0
+13:02:07:372:0번 kiosk child ->  isUse : 0
+13:02:07:373:
+13:02:07:373:1번 kiosk child ->  localEquipmentKioskId : 2
+13:02:07:565:1번 kiosk child ->  name : 1
+13:02:07:566:1번 kiosk child ->  port : 1
+13:02:07:566:1번 kiosk child ->  localEquipmentId : 1
+13:02:07:566:1번 kiosk child ->  equipmentKioskStatus : 1
+13:02:07:567:1번 kiosk child ->  isUse : 1
+13:02:07:567:
+13:02:07:567:2번 kiosk child ->  localEquipmentKioskId : 3
+13:02:07:568:2번 kiosk child ->  name : 2
+13:02:07:568:2번 kiosk child ->  port : 2
+13:02:07:568:2번 kiosk child ->  localEquipmentId : 2
+13:02:07:568:2번 kiosk child ->  equipmentKioskStatus : 2
+13:02:07:569:2번 kiosk child ->  isUse : 2
+13:02:07:569:
+13:02:07:569:3번 kiosk child ->  localEquipmentKioskId : 4
+13:02:07:570:3번 kiosk child ->  name : 3
+13:02:07:570:3번 kiosk child ->  port : 3
+13:02:07:570:3번 kiosk child ->  localEquipmentId : 3
+13:02:07:570:3번 kiosk child ->  equipmentKioskStatus : 3
+13:02:07:571:3번 kiosk child ->  isUse : 3
+13:02:07:571:
+13:02:07:571:4번 kiosk child ->  localEquipmentKioskId : 5
+13:02:07:571:4번 kiosk child ->  name : 4
+13:02:07:765:4번 kiosk child ->  port : 4
+13:02:07:765:4번 kiosk child ->  localEquipmentId : 4
+13:02:07:766:4번 kiosk child ->  equipmentKioskStatus : 4
+13:02:07:766:4번 kiosk child ->  isUse : 4
+13:02:07:766:
+13:02:07:767:5번 kiosk child ->  localEquipmentKioskId : 6
+13:02:07:767:5번 kiosk child ->  name : 5
+13:02:07:767:5번 kiosk child ->  port : 5
+13:02:07:767:5번 kiosk child ->  localEquipmentId : 5
+13:02:07:768:5번 kiosk child ->  equipmentKioskStatus : 5
+13:02:07:768:5번 kiosk child ->  isUse : 5
+13:02:07:768:
+13:02:07:768:6번 kiosk child ->  localEquipmentKioskId : 7
+13:02:07:768:6번 kiosk child ->  name : 6
+13:02:07:769:6번 kiosk child ->  port : 6
+13:02:07:769:6번 kiosk child ->  localEquipmentId : 6
+13:02:07:770:6번 kiosk child ->  equipmentKioskStatus : 6
+13:02:07:770:6번 kiosk child ->  isUse : 6
+13:02:07:770:
+13:02:07:771:7번 kiosk child ->  localEquipmentKioskId : 8
+13:02:07:771:7번 kiosk child ->  name : 7
+13:02:07:771:7번 kiosk child ->  port : 7
+13:02:07:772:7번 kiosk child ->  localEquipmentId : 7
+13:02:07:965:7번 kiosk child ->  equipmentKioskStatus : 7
+13:02:07:965:7번 kiosk child ->  isUse : 7
+13:02:07:966:
+13:02:07:966:8번 kiosk child ->  localEquipmentKioskId : 9
+13:02:07:966:8번 kiosk child ->  name : 8
+13:02:07:967:8번 kiosk child ->  port : 8
+13:02:07:967:8번 kiosk child ->  localEquipmentId : 8
+13:02:07:967:8번 kiosk child ->  equipmentKioskStatus : 8
+13:02:07:967:8번 kiosk child ->  isUse : 8
+13:02:07:968:
+13:02:07:968:9번 kiosk child ->  localEquipmentKioskId : 10
+13:02:07:968:9번 kiosk child ->  name : 9
+13:02:07:969:9번 kiosk child ->  port : 9
+13:02:07:969:9번 kiosk child ->  localEquipmentId : 9
+13:02:07:969:9번 kiosk child ->  equipmentKioskStatus : 9
+13:02:07:970:9번 kiosk child ->  isUse : 9
+13:02:07:970:
+13:02:07:970:10번 kiosk child ->  localEquipmentKioskId : 11
+13:02:07:971:10번 kiosk child ->  name : 10
+13:02:07:971:10번 kiosk child ->  port : 10
+13:02:07:971:10번 kiosk child ->  localEquipmentId : 10
+13:02:07:971:10번 kiosk child ->  equipmentKioskStatus : 10
+13:02:08:165:10번 kiosk child ->  isUse : 10
+13:02:08:165:
+13:02:08:166:11번 kiosk child ->  localEquipmentKioskId : 12
+13:02:08:166:11번 kiosk child ->  name : 11
+13:02:08:166:11번 kiosk child ->  port : 11
+13:02:08:166:11번 kiosk child ->  localEquipmentId : 11
+13:02:08:166:11번 kiosk child ->  equipmentKioskStatus : 11
+13:02:08:167:11번 kiosk child ->  isUse : 11
+13:02:08:167:
+13:02:08:167:12번 kiosk child ->  localEquipmentKioskId : 13
+13:02:08:167:12번 kiosk child ->  name : 12
+13:02:08:167:12번 kiosk child ->  port : 12
+13:02:08:168:12번 kiosk child ->  localEquipmentId : 12
+13:02:08:168:12번 kiosk child ->  equipmentKioskStatus : 12
+13:02:08:168:12번 kiosk child ->  isUse : 12
+13:02:08:168:
+13:02:08:168:13번 kiosk child ->  localEquipmentKioskId : 14
+13:02:08:169:13번 kiosk child ->  name : 13
+13:02:08:169:13번 kiosk child ->  port : 13
+13:02:08:169:13번 kiosk child ->  localEquipmentId : 13
+13:02:08:169:13번 kiosk child ->  equipmentKioskStatus : 13
+13:02:08:365:13번 kiosk child ->  isUse : 13
+13:02:08:366: ------ kiosk child 리스트 관련 응답 끝 ------ 
+13:02:08:366: ------ kioskInfo 리스트 관련 응답 끝 ------ 
+13:02:08:366: ------ 응답 목록 끝------ 
+13:02:08:366:전체 동작 성공
+13:02:08:367:모든 파싱 종료
+13:02:08:367:모든 파싱 종료
+14:04:44:039:
+14:04:44:040: === 02. 마감 정보 시작 === 
+14:04:44:040:접속 주소 : http://192.10.60.101:2080//api/equipment/get/closeInfo
+14:04:44:053:
+14:04:44:054: ------ 파라미터 목록 ------ 
+14:04:44:054:localEquipmentId : 1
+14:04:44:055:fromTimestamp(TimeStamp) : 1488258283000
+14:04:49:790:동작 실패
+14:04:50:684: - e : System.FormatException: 입력 문자열의 형식이 잘못되었습니다.
+   위치: System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   위치: System.Convert.ToDouble(String value)
+   위치: AJParkLib.AJDataBase.AJWebDatabase.temp_name_2(Int32 localEquipmentId, String fromTimestamp_date, DateTime toTimestamp_date) 파일 c:\Users\AJ_JIN\Desktop\AJ_PL\AJDataBase\AJWebDatabase.cs:줄 471
+14:04:50:685: - e.StackTrace. :    위치: System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   위치: System.Convert.ToDouble(String value)
+   위치: AJParkLib.AJDataBase.AJWebDatabase.temp_name_2(Int32 localEquipmentId, String fromTimestamp_date, DateTime toTimestamp_date) 파일 c:\Users\AJ_JIN\Desktop\AJ_PL\AJDataBase\AJWebDatabase.cs:줄 471
+14:04:50:685:모든 파싱 종료
+14:04:50:685: === 02. 마감 정보 끝 === 
+14:05:16:644:
+14:05:16:644: === 02. 마감 정보 시작 === 
+14:05:16:645:접속 주소 : http://192.10.60.101:2080//api/equipment/get/closeInfo
+14:05:16:655:
+14:05:16:655: ------ 파라미터 목록 ------ 
+14:05:16:656:localEquipmentId : 1
+14:05:16:656:fromTimestamp(TimeStamp) : 1488258316000
+14:05:17:884:fromTimestamp(DateTime) : 2017-02-28 오후 2:05:16
+14:05:17:884:toTimestamp(TimeStamp) : 1487921450000
+14:05:17:885:toTimestamp(DateTime) : 2017-02-24 오후 4:30:50
+14:05:17:885: ------ 파라미터 목록 끝 ------ 
+14:05:18:088:
+14:05:18:088: ------ 응답 목록 ------ 
+14:05:18:089:code : 0
+14:05:18:089:errmsgvariable : 
+14:05:18:090:errmsg : 
+14:05:18:090:key : ERR_NOERR
+14:05:18:091:
+14:05:18:091: ------ 클로즈 인포 리스트 ------ 
+14:05:18:091: ------ 클로즈 인포의 단일 키 ------ 
+14:05:18:092:parkingLotName : AJ파크 주차장
+14:05:18:092:companyName : 이광재
+14:05:18:092:companyNumber : 1288626184
+14:05:18:093:fromTimestamp : 1488258316000
+14:05:18:093: - fromTimestamp(DateTime) : 2017-02-28 오후 2:05:16
+14:05:18:093:toTimestamp : 1487921450000
+14:05:18:094: - toTimestamp(DateTime) : 2017-02-24 오후 4:30:50
+14:05:18:094:manualOpenCount : 0
+14:05:18:094:printDate : 1488258316184
+14:05:18:095: - printDate(DateTime) : 2017-02-28 오후 2:05:16
+14:05:18:095:equipmentNo : 1
+14:05:18:095: ------ 클로즈 인포의 단일 키 끝 ------ 
+14:05:18:096:
+14:05:18:096: ------ 클로즈 인포 리스트의 인컴캐쉬 리스트------ 
+14:05:18:096:인컴캐쉬 리스트의 개수 : 1
+14:05:18:097:0번 인컴캐쉬 리스트 -> releaseCount : 0
+14:05:18:097:0번 인컴캐쉬 리스트 -> releasePrice : 0
+14:05:18:098:0번 인컴캐쉬 리스트 -> insertCount : 0
+14:05:18:289:0번 인컴캐쉬 리스트 -> insertPrice : 0
+14:05:18:290:
+14:05:18:290: ------ 클로즈 인포 리스트의 인컴캐쉬 리스트 끝 ------ 
+14:05:18:291:
+14:05:18:291: ------ 클로즈 인포 리스트의 인컴낫캐쉬 리스트------ 
+14:05:18:292:인컴낫캐쉬 리스트의 개수 : 2
+14:05:18:292:0번 인컴낫캐쉬 리스트 -> price : 0
+14:05:18:292:0번 인컴캐쉬 리스트 -> count : 0
+14:05:18:293:0번 인컴캐쉬 리스트 -> paymentMethod : card
+14:05:18:293:
+14:05:18:293:1번 인컴낫캐쉬 리스트 -> price : 0
+14:05:18:294:1번 인컴캐쉬 리스트 -> count : 0
+14:05:18:294:1번 인컴캐쉬 리스트 -> paymentMethod : tcard
+14:05:18:295:
+14:05:18:295: ------ 클로즈 인포 리스트의 인컴낫캐쉬 리스트 끝 ------ 
+14:05:18:295:
+14:05:18:296: ------ 클로즈 인포 리스트의 인컴토탈 리스트------ 
+14:05:18:296:인컴토탈 리스트의 개수 : 1
+14:05:18:297:0번 인컴토탈 리스트 -> total : total
+14:05:18:297:0번 인컴토탈 리스트 -> count : 0
+14:05:18:297:0번 인컴토탈 리스트 -> price : 0
+14:05:18:298:
+14:05:18:298: ------ 클로즈 인포 리스트의 인컴토탈 리스트 끝 ------ 
+14:05:18:489:
+14:05:18:490: ------ 클로즈 인포 리스트의 디스카운트 인포 디테일 리스트------ 
+14:05:18:490:디스카운트 인포 디테일 리스트의 개수 : 0
+14:05:18:490: ------ 클로즈 인포 리스트의 디스카운트 인포 디테일 리스트 끝 ------ 
+14:05:18:491:
+14:05:18:491: ------ 클로즈 인포 리스트의 디스카운트 인포 토탈 리스트------ 
+14:05:18:491:디스카운트 인포 토탈 리스트의 개수 : 1
+14:05:18:492:0번 디스카운트 인포 토탈 리스트 -> total : total
+14:05:18:492:0번 디스카운트 인포 토탈 리스트 -> count : 0
+14:05:18:493:0번 디스카운트 인포 토탈 리스트 -> discountPrice : 0
+14:05:18:493:
+14:05:18:493: ------ 클로즈 인포 리스트의 디스카운트 인포 토탈 리스트 끝 ------ 
+14:05:18:494:
+14:05:18:494: ------ 클로즈 인포 리스트의 리텐션 캐쉬 인포 리스트------ 
+14:05:18:494:리텐션 캐쉬 인포 리스트의 개수 : 1
+14:05:18:495:0번 리텐션 캐쉬 인포 리스트 -> localEquipmentId : 1
+14:05:18:495:0번 리텐션 캐쉬 인포 리스트 -> init5000 : 0
+14:05:18:495:0번 리텐션 캐쉬 인포 리스트 -> init1000 : 0
+14:05:18:689:0번 리텐션 캐쉬 인포 리스트 -> init500 : 0
+14:05:18:690:0번 리텐션 캐쉬 인포 리스트 -> init100 : 0
+14:05:18:690:0번 리텐션 캐쉬 인포 리스트 -> totalInit : 0
+14:05:18:690:0번 리텐션 캐쉬 인포 리스트 -> current5000 : 0
+14:05:18:690:0번 리텐션 캐쉬 인포 리스트 -> current1000 : 0
+14:05:18:690:0번 리텐션 캐쉬 인포 리스트 -> current500 : 0
+14:05:18:691:0번 리텐션 캐쉬 인포 리스트 -> current100 : 0
+14:05:18:691:0번 리텐션 캐쉬 인포 리스트 -> totalCurrent : 0
+14:05:18:691:
+14:05:18:691: ------ 클로즈 인포 리스트의 리텐션 캐쉬 인포 리스트 끝------ 
+14:05:18:692:
+14:05:18:692: ------ 클로즈 인포 리스트의 인풋 캐쉬 인포(단일) ------ 
+14:05:18:692:count50000 : 0
+14:05:18:693:count10000 : 0
+14:05:18:694:count5000 : 0
+14:05:18:694:count1000 : 0
+14:05:18:695:count500 : 0
+14:05:18:695:count100 : 0
+14:05:18:695:count50 : 0
+14:05:18:695:count10 : 0
+14:05:18:696:totalCount : 0
+14:05:18:696:sum50000 : 0
+14:05:18:696:sum10000 : 0
+14:05:18:697:sum5000 : 0
+14:05:18:697:sum1000 : 0
+14:05:18:889:sum500 : 0
+14:05:18:890:sum100 : 0
+14:05:18:890:sum50 : 0
+14:05:18:890:sum10 : 0
+14:05:18:890:totalSum : 0
+14:05:18:891: ------ 클로즈 인포 리스트의 인풋 캐쉬 인포(단일) 끝 ------ 
+14:05:18:891:
+14:05:18:891: ------ 클로즈 인포 리스트의 아웃풋 캐쉬 인포(단일) ------ 
+14:05:18:892:count5000 : 0
+14:05:18:892:count1000 : 0
+14:05:18:892:count500 : 0
+14:05:18:893:count100 : 0
+14:05:18:893:totalCount : 0
+14:05:18:893:sum5000 : 0
+14:05:18:894:sum1000 : 0
+14:05:18:894:sum500 : 0
+14:05:18:894:sum100 : 0
+14:05:18:895:totalSum : 0
+14:05:18:895: ------ 클로즈 인포 리스트의 아웃풋 캐쉬 인포(단일) 끝 ------ 
+14:05:18:895:
+14:05:18:896: ------ 클로즈 인포 리스트의 파킹 카 인포(단일) ------ 
+14:05:18:896:monthlyCarCount : 0
+14:05:18:896:priceCarCount : 0
+14:05:18:897:recurrenceCarCount : 0
+14:05:18:897: ------ 클로즈 인포 리스트의 파킹 카 인포(단일) 끝 ------ 
+14:05:18:897:
+14:05:18:898: ------ 클로즈 인포 리스트의 노 페이 파킹(단일) ------ 
+14:05:18:898:name : noPayParking
+14:05:18:899:sumCount : 0
+14:05:19:089:sumPrice : 0
+14:05:19:090: ------ 클로즈 인포 리스트의 노 페이 파킹(단일) 끝 ------ 
+14:05:19:090: ------ 클로즈 인포 리스트  끝. ------ 
+14:05:19:090: ------ 응답 목록 끝 ------ 
+14:05:19:091:전체 동작 성공
+14:05:19:091:모든 파싱 종료
+14:05:19:091: === 02. 마감 정보 끝 === 

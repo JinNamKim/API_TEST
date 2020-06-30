@@ -1,0 +1,2498 @@
+16:32:23:306:
+16:32:23:308: === 10. 출차 미인식 차량 목록 시작 === 
+16:32:23:308:접속 주소 : http://192.168.1.100:2080//api/parking/unkown/leave/price
+16:32:23:317:
+16:32:23:317: ------ 파라미터 목록 ------ 
+16:32:23:318:carNo : 1005
+16:32:23:318: ------ 파라미터 목록 끝 ------ 
+16:32:23:662:
+16:32:23:663: ------ 응답 목록 ------ 
+16:32:23:663:code : 0
+16:32:23:663:errmsgvariable : 
+16:32:23:664:errmsg : 
+16:32:23:664:key : ERR_NOERR
+16:32:23:664:
+16:32:23:664: ------ 리스트 ------ 
+16:32:23:665:리스트의 개수 : 1
+16:32:27:597:동작 실패
+16:32:27:598:-e : System.ArgumentNullException: 값은 null일 수 없습니다.
+매개 변수 이름: stringToUnescape
+   위치: System.Uri.UnescapeDataString(String stringToUnescape)
+   위치: AJParkLib.AJDataBase.AJWebDatabase.temp_name_11(String carNo) 파일 c:\Users\AJ_JIN\Desktop\AJ_PL\AJDataBase\AJWebDatabase.cs:줄 2547
+16:32:27:598:-e.StackTrace :    위치: System.Uri.UnescapeDataString(String stringToUnescape)
+   위치: AJParkLib.AJDataBase.AJWebDatabase.temp_name_11(String carNo) 파일 c:\Users\AJ_JIN\Desktop\AJ_PL\AJDataBase\AJWebDatabase.cs:줄 2547
+16:32:27:610:모든 파싱 종료
+16:32:27:610:
+16:32:27:611: === 10. 출차 미인식 차량 목록 끝 === 
+16:32:31:653:
+16:32:31:654: === 10. 출차 미인식 차량 목록 시작 === 
+16:32:31:655:접속 주소 : http://192.168.1.100:2080//api/parking/unkown/leave/price
+16:32:31:658:
+16:32:31:659: ------ 파라미터 목록 ------ 
+16:32:31:660:carNo : 1005
+16:32:31:660: ------ 파라미터 목록 끝 ------ 
+16:32:31:729:
+16:32:31:729: ------ 응답 목록 ------ 
+16:32:31:730:code : 0
+16:32:31:730:errmsgvariable : 
+16:32:31:730:errmsg : 
+16:32:31:730:key : ERR_NOERR
+16:32:31:731:
+16:32:31:731: ------ 리스트 ------ 
+16:32:31:731:리스트의 개수 : 1
+16:32:31:745:동작 실패
+16:32:31:746:-e : System.ArgumentNullException: 값은 null일 수 없습니다.
+매개 변수 이름: stringToUnescape
+   위치: System.Uri.UnescapeDataString(String stringToUnescape)
+   위치: AJParkLib.AJDataBase.AJWebDatabase.temp_name_11(String carNo) 파일 c:\Users\AJ_JIN\Desktop\AJ_PL\AJDataBase\AJWebDatabase.cs:줄 2547
+16:32:31:874:-e.StackTrace :    위치: System.Uri.UnescapeDataString(String stringToUnescape)
+   위치: AJParkLib.AJDataBase.AJWebDatabase.temp_name_11(String carNo) 파일 c:\Users\AJ_JIN\Desktop\AJ_PL\AJDataBase\AJWebDatabase.cs:줄 2547
+16:32:31:875:모든 파싱 종료
+16:32:31:875:
+16:32:31:875: === 10. 출차 미인식 차량 목록 끝 === 
+16:32:45:153:
+16:32:45:154: === 10. 출차 미인식 차량 목록 시작 === 
+16:32:45:154:접속 주소 : http://://api/parking/unkown/leave/price
+16:32:45:188:동작 실패
+16:32:45:188:-e : System.UriFormatException: 잘못된 URI: 호스트 이름을 구문 분석할 수 없습니다.
+   위치: System.Uri.CreateThis(String uri, Boolean dontEscape, UriKind uriKind)
+   위치: System.Uri..ctor(String uriString)
+   위치: RestSharp.RestClient..ctor(String baseUrl)
+   위치: AJParkLib.AJDataBase.AJWebDatabase.temp_name_11(String carNo) 파일 c:\Users\AJ_JIN\Desktop\AJ_PL\AJDataBase\AJWebDatabase.cs:줄 2457
+16:32:45:380:-e.StackTrace :    위치: System.Uri.CreateThis(String uri, Boolean dontEscape, UriKind uriKind)
+   위치: System.Uri..ctor(String uriString)
+   위치: RestSharp.RestClient..ctor(String baseUrl)
+   위치: AJParkLib.AJDataBase.AJWebDatabase.temp_name_11(String carNo) 파일 c:\Users\AJ_JIN\Desktop\AJ_PL\AJDataBase\AJWebDatabase.cs:줄 2457
+16:32:45:381:모든 파싱 종료
+16:32:45:381:
+16:32:45:381: === 10. 출차 미인식 차량 목록 끝 === 
+16:33:28:437:
+16:33:28:438: === 10. 출차 미인식 차량 목록 시작 === 
+16:33:28:438:접속 주소 : http://uiwang1.iptime.org:2080//api/parking/unkown/leave/price
+16:33:28:446:
+16:33:28:447: ------ 파라미터 목록 ------ 
+16:33:28:448:carNo : 000000
+16:33:28:448: ------ 파라미터 목록 끝 ------ 
+16:33:28:674:
+16:33:28:675: ------ 응답 목록 ------ 
+16:33:28:675:code : 0
+16:33:28:676:errmsgvariable : 
+16:33:28:676:errmsg : 
+16:33:28:677:key : ERR_NOERR
+16:33:28:677:
+16:33:28:678: ------ 리스트 ------ 
+16:33:28:678:리스트의 개수 : 163
+16:33:28:679:0번 unknownParkingList -> localParkingId : 5967
+16:33:28:679:0번 unknownParkingList -> url : /enterImage/67_1491972366_CH1_20170412134600_0000000000.jpg
+16:33:28:679:0번 unknownParkingList -> width : 960
+16:33:28:680:0번 unknownParkingList -> height : 960
+16:33:28:680:0번 unknownParkingList -> enterDate : 1491972360000
+16:33:28:680:0번 unknownParkingList -> carNo : 0000000000
+16:33:28:681:1번 unknownParkingList -> localParkingId : 5724
+16:33:28:681:1번 unknownParkingList -> url : /enterImage/67_1491703255_CH1_20170409110052_0000000000.jpg
+16:33:28:681:1번 unknownParkingList -> width : 960
+16:33:28:681:1번 unknownParkingList -> height : 960
+16:33:28:682:1번 unknownParkingList -> enterDate : 1491703252000
+16:33:28:682:1번 unknownParkingList -> carNo : 0000000000
+16:33:28:697:2번 unknownParkingList -> localParkingId : 5511
+16:33:28:697:2번 unknownParkingList -> url : /enterImage/67_1491474296_CH1_20170406192456_0000000000.jpg
+16:33:28:698:2번 unknownParkingList -> width : 960
+16:33:28:698:2번 unknownParkingList -> height : 960
+16:33:28:698:2번 unknownParkingList -> enterDate : 1491474296000
+16:33:28:699:2번 unknownParkingList -> carNo : 0000000000
+16:33:28:699:3번 unknownParkingList -> localParkingId : 5430
+16:33:28:699:3번 unknownParkingList -> url : /enterImage/67_1491376327_CH1_20170405161211_0000000000.jpg
+16:33:28:699:3번 unknownParkingList -> width : 960
+16:33:28:700:3번 unknownParkingList -> height : 960
+16:33:28:700:3번 unknownParkingList -> enterDate : 1491376331000
+16:33:28:700:3번 unknownParkingList -> carNo : 0000000000
+16:33:28:700:4번 unknownParkingList -> localParkingId : 5391
+16:33:28:701:4번 unknownParkingList -> url : /enterImage/67_1491322397_CH1_20170405011321_0000000000.jpg
+16:33:28:701:4번 unknownParkingList -> width : 960
+16:33:28:897:4번 unknownParkingList -> height : 960
+16:33:28:898:4번 unknownParkingList -> enterDate : 1491322401000
+16:33:28:898:4번 unknownParkingList -> carNo : 0000000000
+16:33:28:898:5번 unknownParkingList -> localParkingId : 5385
+16:33:28:898:5번 unknownParkingList -> url : /enterImage/67_1491303013_CH1_20170404195018_0000000000.jpg
+16:33:28:899:5번 unknownParkingList -> width : 960
+16:33:28:899:5번 unknownParkingList -> height : 960
+16:33:28:899:5번 unknownParkingList -> enterDate : 1491303018000
+16:33:28:899:5번 unknownParkingList -> carNo : 0000000000
+16:33:28:901:6번 unknownParkingList -> localParkingId : 5292
+16:33:28:901:6번 unknownParkingList -> url : /enterImage/67_1491203421_CH1_20170403161026_0000000000.jpg
+16:33:28:901:6번 unknownParkingList -> width : 960
+16:33:28:902:6번 unknownParkingList -> height : 960
+16:33:28:902:6번 unknownParkingList -> enterDate : 1491203426000
+16:33:28:902:6번 unknownParkingList -> carNo : 0000000000
+16:33:28:902:7번 unknownParkingList -> localParkingId : 5121
+16:33:29:097:7번 unknownParkingList -> url : /enterImage/67_1491047201_CH1_20170401204647_0000000000.jpg
+16:33:29:097:7번 unknownParkingList -> width : 960
+16:33:29:098:7번 unknownParkingList -> height : 960
+16:33:29:098:7번 unknownParkingList -> enterDate : 1491047207000
+16:33:29:098:7번 unknownParkingList -> carNo : 0000000000
+16:33:29:098:8번 unknownParkingList -> localParkingId : 5104
+16:33:29:099:8번 unknownParkingList -> url : /enterImage/67_1491032030_CH1_20170401163356_0000000000.jpg
+16:33:29:099:8번 unknownParkingList -> width : 960
+16:33:29:099:8번 unknownParkingList -> height : 960
+16:33:29:099:8번 unknownParkingList -> enterDate : 1491032036000
+16:33:29:099:8번 unknownParkingList -> carNo : 0000000000
+16:33:29:100:9번 unknownParkingList -> localParkingId : 4765
+16:33:29:100:9번 unknownParkingList -> url : /enterImage/67_1490617020_CH1_20170327211710_0000000000.jpg
+16:33:29:100:9번 unknownParkingList -> width : 960
+16:33:29:100:9번 unknownParkingList -> height : 960
+16:33:29:297:9번 unknownParkingList -> enterDate : 1490617030000
+16:33:29:298:9번 unknownParkingList -> carNo : 0000000000
+16:33:29:298:10번 unknownParkingList -> localParkingId : 4572
+16:33:29:298:10번 unknownParkingList -> url : /enterImage/67_1490441861_CH1_20170325203753_0000000000.jpg
+16:33:29:299:10번 unknownParkingList -> width : 960
+16:33:29:299:10번 unknownParkingList -> height : 960
+16:33:29:299:10번 unknownParkingList -> enterDate : 1490441873000
+16:33:29:300:10번 unknownParkingList -> carNo : 0000000000
+16:33:29:300:11번 unknownParkingList -> localParkingId : 4460
+16:33:29:300:11번 unknownParkingList -> url : /enterImage/67_1490344189_CH1_20170324172935_0000000000.jpg
+16:33:29:300:11번 unknownParkingList -> width : 960
+16:33:29:301:11번 unknownParkingList -> height : 960
+16:33:29:301:11번 unknownParkingList -> enterDate : 1490344175000
+16:33:29:301:11번 unknownParkingList -> carNo : 0000000000
+16:33:29:301:12번 unknownParkingList -> localParkingId : 4206
+16:33:29:302:12번 unknownParkingList -> url : /enterImage/67_1489998678_CH1_20170320173106_0000000000.jpg
+16:33:29:497:12번 unknownParkingList -> width : 960
+16:33:29:497:12번 unknownParkingList -> height : 960
+16:33:29:498:12번 unknownParkingList -> enterDate : 1489998666000
+16:33:29:498:12번 unknownParkingList -> carNo : 0000000000
+16:33:29:498:13번 unknownParkingList -> localParkingId : 4013
+16:33:29:499:13번 unknownParkingList -> url : /enterImage/67_1489820325_CH1_20170318155836_0000000000.jpg
+16:33:29:499:13번 unknownParkingList -> width : 960
+16:33:29:499:13번 unknownParkingList -> height : 960
+16:33:29:499:13번 unknownParkingList -> enterDate : 1489820316000
+16:33:29:499:13번 unknownParkingList -> carNo : 0000000000
+16:33:29:500:14번 unknownParkingList -> localParkingId : 3980
+16:33:29:500:14번 unknownParkingList -> url : /enterImage/67_1489805065_CH1_20170318114416_0000000000.jpg
+16:33:29:500:14번 unknownParkingList -> width : 960
+16:33:29:500:14번 unknownParkingList -> height : 960
+16:33:29:500:14번 unknownParkingList -> enterDate : 1489805056000
+16:33:29:698:14번 unknownParkingList -> carNo : 0000000000
+16:33:29:699:15번 unknownParkingList -> localParkingId : 3612
+16:33:29:699:15번 unknownParkingList -> url : /enterImage/67_1489360219_CH1_20170313081012_0000000000.jpg
+16:33:29:699:15번 unknownParkingList -> width : 960
+16:33:29:699:15번 unknownParkingList -> height : 960
+16:33:29:700:15번 unknownParkingList -> enterDate : 1489360212000
+16:33:29:700:15번 unknownParkingList -> carNo : 0000000000
+16:33:29:700:16번 unknownParkingList -> localParkingId : 3490
+16:33:29:701:16번 unknownParkingList -> url : /enterImage/67_1489225768_CH1_20170311184922_0000000000.jpg
+16:33:29:701:16번 unknownParkingList -> width : 960
+16:33:29:701:16번 unknownParkingList -> height : 960
+16:33:29:701:16번 unknownParkingList -> enterDate : 1489225762000
+16:33:29:702:16번 unknownParkingList -> carNo : 0000000000
+16:33:29:702:17번 unknownParkingList -> localParkingId : 3477
+16:33:29:702:17번 unknownParkingList -> url : /enterImage/67_1489216516_CH1_20170311161510_0000000000.jpg
+16:33:29:898:17번 unknownParkingList -> width : 960
+16:33:29:899:17번 unknownParkingList -> height : 960
+16:33:29:899:17번 unknownParkingList -> enterDate : 1489216510000
+16:33:29:899:17번 unknownParkingList -> carNo : 0000000000
+16:33:29:900:18번 unknownParkingList -> localParkingId : 3471
+16:33:29:900:18번 unknownParkingList -> url : /enterImage/67_1489213985_CH1_20170311153259_0000000000.jpg
+16:33:29:900:18번 unknownParkingList -> width : 960
+16:33:29:901:18번 unknownParkingList -> height : 960
+16:33:29:901:18번 unknownParkingList -> enterDate : 1489213979000
+16:33:29:901:18번 unknownParkingList -> carNo : 0000000000
+16:33:29:901:19번 unknownParkingList -> localParkingId : 3405
+16:33:29:902:19번 unknownParkingList -> url : /enterImage/67_1489181225_CH1_20170311062700_0000000000.jpg
+16:33:29:902:19번 unknownParkingList -> width : 960
+16:33:29:902:19번 unknownParkingList -> height : 960
+16:33:29:902:19번 unknownParkingList -> enterDate : 1489181220000
+16:33:30:098:19번 unknownParkingList -> carNo : 0000000000
+16:33:30:098:20번 unknownParkingList -> localParkingId : 3285
+16:33:30:099:20번 unknownParkingList -> url : /enterImage/67_1489029627_CH1_20170309122021_0000000000.jpg
+16:33:30:099:20번 unknownParkingList -> width : 960
+16:33:30:100:20번 unknownParkingList -> height : 960
+16:33:30:100:20번 unknownParkingList -> enterDate : 1489029621000
+16:33:30:100:20번 unknownParkingList -> carNo : 0000000000
+16:33:30:100:21번 unknownParkingList -> localParkingId : 3199
+16:33:30:101:21번 unknownParkingList -> url : /enterImage/67_1488937928_CH1_20170308105202_0000000000.jpg
+16:33:30:101:21번 unknownParkingList -> width : 960
+16:33:30:101:21번 unknownParkingList -> height : 960
+16:33:30:101:21번 unknownParkingList -> enterDate : 1488937922000
+16:33:30:104:21번 unknownParkingList -> carNo : 0000000000
+16:33:30:104:22번 unknownParkingList -> localParkingId : 3167
+16:33:30:104:22번 unknownParkingList -> url : /enterImage/67_1488893951_CH1_20170307223906_0000000000.jpg
+16:33:30:298:22번 unknownParkingList -> width : 960
+16:33:30:299:22번 unknownParkingList -> height : 960
+16:33:30:299:22번 unknownParkingList -> enterDate : 1488893946000
+16:33:30:299:22번 unknownParkingList -> carNo : 0000000000
+16:33:30:299:23번 unknownParkingList -> localParkingId : 3165
+16:33:30:300:23번 unknownParkingList -> url : /enterImage/67_1488890263_CH1_20170307213738_0000000000.jpg
+16:33:30:300:23번 unknownParkingList -> width : 960
+16:33:30:300:23번 unknownParkingList -> height : 960
+16:33:30:301:23번 unknownParkingList -> enterDate : 1488890258000
+16:33:30:301:23번 unknownParkingList -> carNo : 0000000000
+16:33:30:301:24번 unknownParkingList -> localParkingId : 3155
+16:33:30:302:24번 unknownParkingList -> url : /enterImage/67_1488880384_CH1_20170307185259_0000000000.jpg
+16:33:30:302:24번 unknownParkingList -> width : 960
+16:33:30:302:24번 unknownParkingList -> height : 960
+16:33:30:303:24번 unknownParkingList -> enterDate : 1488880379000
+16:33:30:498:24번 unknownParkingList -> carNo : 0000000000
+16:33:30:499:25번 unknownParkingList -> localParkingId : 3131
+16:33:30:499:25번 unknownParkingList -> url : /enterImage/67_1488858164_CH1_20170307124239_0000000000.jpg
+16:33:30:500:25번 unknownParkingList -> width : 960
+16:33:30:500:25번 unknownParkingList -> height : 960
+16:33:30:500:25번 unknownParkingList -> enterDate : 1488858159000
+16:33:30:501:25번 unknownParkingList -> carNo : 0000000000
+16:33:30:501:26번 unknownParkingList -> localParkingId : 3115
+16:33:30:501:26번 unknownParkingList -> url : /enterImage/67_1488848217_CH1_20170307095653_0000000000.jpg
+16:33:30:501:26번 unknownParkingList -> width : 960
+16:33:30:502:26번 unknownParkingList -> height : 960
+16:33:30:502:26번 unknownParkingList -> enterDate : 1488848213000
+16:33:30:502:26번 unknownParkingList -> carNo : 0000000000
+16:33:30:502:27번 unknownParkingList -> localParkingId : 3084
+16:33:30:503:27번 unknownParkingList -> url : /enterImage/67_1488818869_CH1_20170307014745_0000000000.jpg
+16:33:30:698:27번 unknownParkingList -> width : 960
+16:33:30:698:27번 unknownParkingList -> height : 960
+16:33:30:699:27번 unknownParkingList -> enterDate : 1488818865000
+16:33:30:699:27번 unknownParkingList -> carNo : 0000000000
+16:33:30:699:28번 unknownParkingList -> localParkingId : 3080
+16:33:30:699:28번 unknownParkingList -> url : /enterImage/67_1488806663_CH1_20170306222418_0000000000.jpg
+16:33:30:700:28번 unknownParkingList -> width : 960
+16:33:30:700:28번 unknownParkingList -> height : 960
+16:33:30:700:28번 unknownParkingList -> enterDate : 1488806658000
+16:33:30:700:28번 unknownParkingList -> carNo : 0000000000
+16:33:30:700:29번 unknownParkingList -> localParkingId : 3073
+16:33:30:701:29번 unknownParkingList -> url : /enterImage/67_1488796510_CH1_20170306193507_0000000000.jpg
+16:33:30:701:29번 unknownParkingList -> width : 960
+16:33:30:701:29번 unknownParkingList -> height : 960
+16:33:30:701:29번 unknownParkingList -> enterDate : 1488796507000
+16:33:30:701:29번 unknownParkingList -> carNo : 0000000000
+16:33:30:898:30번 unknownParkingList -> localParkingId : 3071
+16:33:30:899:30번 unknownParkingList -> url : /enterImage/67_1488796265_CH1_20170306193102_0000000000.jpg
+16:33:30:899:30번 unknownParkingList -> width : 960
+16:33:30:899:30번 unknownParkingList -> height : 960
+16:33:30:899:30번 unknownParkingList -> enterDate : 1488796262000
+16:33:30:900:30번 unknownParkingList -> carNo : 0000000000
+16:33:30:900:31번 unknownParkingList -> localParkingId : 3053
+16:33:30:900:31번 unknownParkingList -> url : /enterImage/67_1488775078_CH1_20170306133754_0000000000.jpg
+16:33:30:900:31번 unknownParkingList -> width : 960
+16:33:30:900:31번 unknownParkingList -> height : 960
+16:33:30:901:31번 unknownParkingList -> enterDate : 1488775074000
+16:33:30:901:31번 unknownParkingList -> carNo : 0000000000
+16:33:30:901:32번 unknownParkingList -> localParkingId : 3015
+16:33:30:901:32번 unknownParkingList -> url : /enterImage/67_1488724270_CH1_20170305233106_0000000000.jpg
+16:33:30:902:32번 unknownParkingList -> width : 960
+16:33:31:098:32번 unknownParkingList -> height : 960
+16:33:31:099:32번 unknownParkingList -> enterDate : 1488724266000
+16:33:31:099:32번 unknownParkingList -> carNo : 0000000000
+16:33:31:099:33번 unknownParkingList -> localParkingId : 2975
+16:33:31:099:33번 unknownParkingList -> url : /enterImage/67_1488685283_CH1_20170305124120_0000000000.jpg
+16:33:31:100:33번 unknownParkingList -> width : 960
+16:33:31:100:33번 unknownParkingList -> height : 960
+16:33:31:100:33번 unknownParkingList -> enterDate : 1488685280000
+16:33:31:100:33번 unknownParkingList -> carNo : 0000000000
+16:33:31:101:34번 unknownParkingList -> localParkingId : 2957
+16:33:31:101:34번 unknownParkingList -> url : /enterImage/67_1488679346_CH1_20170305110222_0000000000.jpg
+16:33:31:101:34번 unknownParkingList -> width : 960
+16:33:31:101:34번 unknownParkingList -> height : 960
+16:33:31:101:34번 unknownParkingList -> enterDate : 1488679342000
+16:33:31:102:34번 unknownParkingList -> carNo : 0000000000
+16:33:31:298:35번 unknownParkingList -> localParkingId : 2813
+16:33:31:299:35번 unknownParkingList -> url : /enterImage/67_1488585522_CH1_20170304085839_0000000000.jpg
+16:33:31:299:35번 unknownParkingList -> width : 960
+16:33:31:300:35번 unknownParkingList -> height : 960
+16:33:31:300:35번 unknownParkingList -> enterDate : 1488585519000
+16:33:31:301:35번 unknownParkingList -> carNo : 0000000000
+16:33:31:301:36번 unknownParkingList -> localParkingId : 2739
+16:33:31:302:36번 unknownParkingList -> url : /enterImage/67_1488504168_CH1_20170303102245_0000000000.jpg
+16:33:31:302:36번 unknownParkingList -> width : 960
+16:33:31:303:36번 unknownParkingList -> height : 960
+16:33:31:303:36번 unknownParkingList -> enterDate : 1488504165000
+16:33:31:304:36번 unknownParkingList -> carNo : 0000000000
+16:33:31:304:37번 unknownParkingList -> localParkingId : 2737
+16:33:31:305:37번 unknownParkingList -> url : /enterImage/67_1488503875_CH1_20170303101752_0000000000.jpg
+16:33:31:305:37번 unknownParkingList -> width : 960
+16:33:31:498:37번 unknownParkingList -> height : 960
+16:33:31:498:37번 unknownParkingList -> enterDate : 1488503872000
+16:33:31:499:37번 unknownParkingList -> carNo : 0000000000
+16:33:31:499:38번 unknownParkingList -> localParkingId : 2717
+16:33:31:499:38번 unknownParkingList -> url : /enterImage/67_1488467105_CH1_20170303000504_0000000000.jpg
+16:33:31:500:38번 unknownParkingList -> width : 960
+16:33:31:500:38번 unknownParkingList -> height : 960
+16:33:31:500:38번 unknownParkingList -> enterDate : 1488467104000
+16:33:31:500:38번 unknownParkingList -> carNo : 0000000000
+16:33:31:501:39번 unknownParkingList -> localParkingId : 2711
+16:33:31:501:39번 unknownParkingList -> url : /enterImage/67_1488459679_CH1_20170302220118_0000000000.jpg
+16:33:31:502:39번 unknownParkingList -> width : 960
+16:33:31:502:39번 unknownParkingList -> height : 960
+16:33:31:503:39번 unknownParkingList -> enterDate : 1488459678000
+16:33:31:503:39번 unknownParkingList -> carNo : 0000000000
+16:33:31:503:40번 unknownParkingList -> localParkingId : 2708
+16:33:31:698:40번 unknownParkingList -> url : /enterImage/67_1488454091_CH1_20170302202810_0000000000.jpg
+16:33:31:698:40번 unknownParkingList -> width : 960
+16:33:31:699:40번 unknownParkingList -> height : 960
+16:33:31:699:40번 unknownParkingList -> enterDate : 1488454090000
+16:33:31:699:40번 unknownParkingList -> carNo : 0000000000
+16:33:31:700:41번 unknownParkingList -> localParkingId : 2703
+16:33:31:700:41번 unknownParkingList -> url : /enterImage/67_1488450166_CH1_20170302192245_0000000000.jpg
+16:33:31:700:41번 unknownParkingList -> width : 960
+16:33:31:700:41번 unknownParkingList -> height : 960
+16:33:31:701:41번 unknownParkingList -> enterDate : 1488450165000
+16:33:31:701:41번 unknownParkingList -> carNo : 0000000000
+16:33:31:701:42번 unknownParkingList -> localParkingId : 2692
+16:33:31:701:42번 unknownParkingList -> url : /enterImage/67_1488444459_CH1_20170302174738_0000000000.jpg
+16:33:31:702:42번 unknownParkingList -> width : 960
+16:33:31:898:42번 unknownParkingList -> height : 960
+16:33:31:899:42번 unknownParkingList -> enterDate : 1488444458000
+16:33:31:899:42번 unknownParkingList -> carNo : 0000000000
+16:33:31:899:43번 unknownParkingList -> localParkingId : 2667
+16:33:31:899:43번 unknownParkingList -> url : /enterImage/67_1488423743_CH1_20170302120223_0000000000.jpg
+16:33:31:900:43번 unknownParkingList -> width : 960
+16:33:31:900:43번 unknownParkingList -> height : 960
+16:33:31:900:43번 unknownParkingList -> enterDate : 1488423743000
+16:33:31:901:43번 unknownParkingList -> carNo : 0000000000
+16:33:31:901:44번 unknownParkingList -> localParkingId : 2633
+16:33:31:901:44번 unknownParkingList -> url : /enterImage/67_1488376532_CH1_20170301225531_0000000000.jpg
+16:33:31:901:44번 unknownParkingList -> width : 960
+16:33:31:901:44번 unknownParkingList -> height : 960
+16:33:31:902:44번 unknownParkingList -> enterDate : 1488376531000
+16:33:31:902:44번 unknownParkingList -> carNo : 0000000000
+16:33:31:902:45번 unknownParkingList -> localParkingId : 2618
+16:33:32:098:45번 unknownParkingList -> url : /enterImage/67_1488356343_CH1_20170301171903_0000000000.jpg
+16:33:32:098:45번 unknownParkingList -> width : 960
+16:33:32:099:45번 unknownParkingList -> height : 960
+16:33:32:099:45번 unknownParkingList -> enterDate : 1488356343000
+16:33:32:099:45번 unknownParkingList -> carNo : 0000000000
+16:33:32:100:46번 unknownParkingList -> localParkingId : 2555
+16:33:32:100:46번 unknownParkingList -> url : /enterImage/67_1488323616_CH1_20170301081335_0000000000.jpg
+16:33:32:100:46번 unknownParkingList -> width : 960
+16:33:32:100:46번 unknownParkingList -> height : 960
+16:33:32:101:46번 unknownParkingList -> enterDate : 1488323615000
+16:33:32:101:46번 unknownParkingList -> carNo : 0000000000
+16:33:32:101:47번 unknownParkingList -> localParkingId : 2533
+16:33:32:102:47번 unknownParkingList -> url : /enterImage/67_1488281728_CH1_20170228203528_0000000000.jpg
+16:33:32:102:47번 unknownParkingList -> width : 960
+16:33:32:102:47번 unknownParkingList -> height : 960
+16:33:32:298:47번 unknownParkingList -> enterDate : 1488281728000
+16:33:32:299:47번 unknownParkingList -> carNo : 0000000000
+16:33:32:299:48번 unknownParkingList -> localParkingId : 2528
+16:33:32:299:48번 unknownParkingList -> url : /enterImage/67_1488276649_CH1_20170228191049_0000000000.jpg
+16:33:32:300:48번 unknownParkingList -> width : 960
+16:33:32:300:48번 unknownParkingList -> height : 960
+16:33:32:300:48번 unknownParkingList -> enterDate : 1488276649000
+16:33:32:301:48번 unknownParkingList -> carNo : 0000000000
+16:33:32:301:49번 unknownParkingList -> localParkingId : 2486
+16:33:32:302:49번 unknownParkingList -> url : /enterImage/67_1488253645_CH1_20170228124724_0000000000.jpg
+16:33:32:302:49번 unknownParkingList -> width : 960
+16:33:32:302:49번 unknownParkingList -> height : 960
+16:33:32:303:49번 unknownParkingList -> enterDate : 1488253644000
+16:33:32:303:49번 unknownParkingList -> carNo : 0000000000
+16:33:32:303:50번 unknownParkingList -> localParkingId : 2448
+16:33:32:498:50번 unknownParkingList -> url : /enterImage/67_1488193866_CH1_20170227201107_0000000000.jpg
+16:33:32:498:50번 unknownParkingList -> width : 960
+16:33:32:499:50번 unknownParkingList -> height : 960
+16:33:32:499:50번 unknownParkingList -> enterDate : 1488193867000
+16:33:32:499:50번 unknownParkingList -> carNo : 0000000000
+16:33:32:499:51번 unknownParkingList -> localParkingId : 2426
+16:33:32:499:51번 unknownParkingList -> url : /enterImage/67_1488177885_CH1_20170227154446_0000000000.jpg
+16:33:32:500:51번 unknownParkingList -> width : 960
+16:33:32:500:51번 unknownParkingList -> height : 960
+16:33:32:500:51번 unknownParkingList -> enterDate : 1488177886000
+16:33:32:500:51번 unknownParkingList -> carNo : 0000000000
+16:33:32:500:52번 unknownParkingList -> localParkingId : 2422
+16:33:32:501:52번 unknownParkingList -> url : /enterImage/67_1488174818_CH1_20170227145339_0000000000.jpg
+16:33:32:501:52번 unknownParkingList -> width : 960
+16:33:32:501:52번 unknownParkingList -> height : 960
+16:33:32:698:52번 unknownParkingList -> enterDate : 1488174819000
+16:33:32:698:52번 unknownParkingList -> carNo : 0000000000
+16:33:32:699:53번 unknownParkingList -> localParkingId : 2418
+16:33:32:699:53번 unknownParkingList -> url : /enterImage/67_1488169650_CH1_20170227132731_0000000000.jpg
+16:33:32:699:53번 unknownParkingList -> width : 960
+16:33:32:699:53번 unknownParkingList -> height : 960
+16:33:32:700:53번 unknownParkingList -> enterDate : 1488169651000
+16:33:32:700:53번 unknownParkingList -> carNo : 0000000000
+16:33:32:700:54번 unknownParkingList -> localParkingId : 2416
+16:33:32:701:54번 unknownParkingList -> url : /enterImage/67_1488167562_CH1_20170227125243_0000000000.jpg
+16:33:32:701:54번 unknownParkingList -> width : 960
+16:33:32:701:54번 unknownParkingList -> height : 960
+16:33:32:701:54번 unknownParkingList -> enterDate : 1488167563000
+16:33:32:701:54번 unknownParkingList -> carNo : 0000000000
+16:33:32:702:55번 unknownParkingList -> localParkingId : 2379
+16:33:32:702:55번 unknownParkingList -> url : /enterImage/67_1488113944_CH1_20170226215905_0000000000.jpg
+16:33:32:898:55번 unknownParkingList -> width : 960
+16:33:32:899:55번 unknownParkingList -> height : 960
+16:33:32:899:55번 unknownParkingList -> enterDate : 1488113945000
+16:33:32:899:55번 unknownParkingList -> carNo : 0000000000
+16:33:32:899:56번 unknownParkingList -> localParkingId : 2376
+16:33:32:900:56번 unknownParkingList -> url : /enterImage/67_1488112840_CH1_20170226214041_0000000000.jpg
+16:33:32:900:56번 unknownParkingList -> width : 960
+16:33:32:900:56번 unknownParkingList -> height : 960
+16:33:32:900:56번 unknownParkingList -> enterDate : 1488112841000
+16:33:32:901:56번 unknownParkingList -> carNo : 0000000000
+16:33:32:901:57번 unknownParkingList -> localParkingId : 2374
+16:33:32:901:57번 unknownParkingList -> url : /enterImage/67_1488111216_CH1_20170226211337_0000000000.jpg
+16:33:32:901:57번 unknownParkingList -> width : 960
+16:33:32:901:57번 unknownParkingList -> height : 960
+16:33:32:902:57번 unknownParkingList -> enterDate : 1488111217000
+16:33:33:098:57번 unknownParkingList -> carNo : 0000000000
+16:33:33:099:58번 unknownParkingList -> localParkingId : 2369
+16:33:33:099:58번 unknownParkingList -> url : /enterImage/67_1488103587_CH1_20170226190629_0000000000.jpg
+16:33:33:099:58번 unknownParkingList -> width : 960
+16:33:33:099:58번 unknownParkingList -> height : 960
+16:33:33:100:58번 unknownParkingList -> enterDate : 1488103589000
+16:33:33:100:58번 unknownParkingList -> carNo : 0000000000
+16:33:33:100:59번 unknownParkingList -> localParkingId : 2324
+16:33:33:100:59번 unknownParkingList -> url : /enterImage/67_1488079131_CH1_20170226121852_0000000000.jpg
+16:33:33:101:59번 unknownParkingList -> width : 960
+16:33:33:101:59번 unknownParkingList -> height : 960
+16:33:33:101:59번 unknownParkingList -> enterDate : 1488079132000
+16:33:33:101:59번 unknownParkingList -> carNo : 0000000000
+16:33:33:101:60번 unknownParkingList -> localParkingId : 2316
+16:33:33:102:60번 unknownParkingList -> url : /enterImage/67_1488077349_CH1_20170226114910_0000000000.jpg
+16:33:33:299:60번 unknownParkingList -> width : 960
+16:33:33:299:60번 unknownParkingList -> height : 960
+16:33:33:299:60번 unknownParkingList -> enterDate : 1488077350000
+16:33:33:300:60번 unknownParkingList -> carNo : 0000000000
+16:33:33:300:61번 unknownParkingList -> localParkingId : 2288
+16:33:33:300:61번 unknownParkingList -> url : /enterImage/67_1488074194_CH1_20170226105635_0000000000.jpg
+16:33:33:300:61번 unknownParkingList -> width : 960
+16:33:33:301:61번 unknownParkingList -> height : 960
+16:33:33:301:61번 unknownParkingList -> enterDate : 1488074195000
+16:33:33:301:61번 unknownParkingList -> carNo : 0000000000
+16:33:33:301:62번 unknownParkingList -> localParkingId : 2239
+16:33:33:302:62번 unknownParkingList -> url : /enterImage/67_1488032326_CH1_20170225231848_0000000000.jpg
+16:33:33:302:62번 unknownParkingList -> width : 960
+16:33:33:302:62번 unknownParkingList -> height : 960
+16:33:33:302:62번 unknownParkingList -> enterDate : 1488032328000
+16:33:33:498:62번 unknownParkingList -> carNo : 0000000000
+16:33:33:499:63번 unknownParkingList -> localParkingId : 2231
+16:33:33:499:63번 unknownParkingList -> url : /enterImage/67_1488027206_CH1_20170225215328_0000000000.jpg
+16:33:33:499:63번 unknownParkingList -> width : 960
+16:33:33:499:63번 unknownParkingList -> height : 960
+16:33:33:500:63번 unknownParkingList -> enterDate : 1488027208000
+16:33:33:500:63번 unknownParkingList -> carNo : 0000000000
+16:33:33:500:64번 unknownParkingList -> localParkingId : 2227
+16:33:33:500:64번 unknownParkingList -> url : /enterImage/67_1488024127_CH1_20170225210208_0000000000.jpg
+16:33:33:501:64번 unknownParkingList -> width : 960
+16:33:33:501:64번 unknownParkingList -> height : 960
+16:33:33:501:64번 unknownParkingList -> enterDate : 1488024128000
+16:33:33:501:64번 unknownParkingList -> carNo : 0000000000
+16:33:33:502:65번 unknownParkingList -> localParkingId : 2213
+16:33:33:502:65번 unknownParkingList -> url : /enterImage/67_1488009017_CH1_20170225165019_0000000000.jpg
+16:33:33:698:65번 unknownParkingList -> width : 960
+16:33:33:698:65번 unknownParkingList -> height : 960
+16:33:33:699:65번 unknownParkingList -> enterDate : 1488009019000
+16:33:33:701:65번 unknownParkingList -> carNo : 0000000000
+16:33:33:702:66번 unknownParkingList -> localParkingId : 2211
+16:33:33:702:66번 unknownParkingList -> url : /enterImage/67_1488008740_CH1_20170225164541_0000000000.jpg
+16:33:33:702:66번 unknownParkingList -> width : 960
+16:33:33:703:66번 unknownParkingList -> height : 960
+16:33:33:703:66번 unknownParkingList -> enterDate : 1488008741000
+16:33:33:703:66번 unknownParkingList -> carNo : 0000000000
+16:33:33:703:67번 unknownParkingList -> localParkingId : 2209
+16:33:33:704:67번 unknownParkingList -> url : /enterImage/67_1488008409_CH1_20170225164011_0000000000.jpg
+16:33:33:704:67번 unknownParkingList -> width : 960
+16:33:33:704:67번 unknownParkingList -> height : 960
+16:33:33:704:67번 unknownParkingList -> enterDate : 1488008411000
+16:33:33:898:67번 unknownParkingList -> carNo : 0000000000
+16:33:33:899:68번 unknownParkingList -> localParkingId : 2173
+16:33:33:899:68번 unknownParkingList -> url : /enterImage/67_1487990746_CH1_20170225114547_0000000000.jpg
+16:33:33:899:68번 unknownParkingList -> width : 960
+16:33:33:899:68번 unknownParkingList -> height : 960
+16:33:33:899:68번 unknownParkingList -> enterDate : 1487990747000
+16:33:33:900:68번 unknownParkingList -> carNo : 0000000000
+16:33:33:900:69번 unknownParkingList -> localParkingId : 2156
+16:33:33:900:69번 unknownParkingList -> url : /enterImage/67_1487983100_CH1_20170225093822_0000000000.jpg
+16:33:33:900:69번 unknownParkingList -> width : 960
+16:33:33:901:69번 unknownParkingList -> height : 960
+16:33:33:901:69번 unknownParkingList -> enterDate : 1487983102000
+16:33:33:901:69번 unknownParkingList -> carNo : 0000000000
+16:33:33:901:70번 unknownParkingList -> localParkingId : 2144
+16:33:33:902:70번 unknownParkingList -> url : /enterImage/67_1487970615_CH1_20170225061016_0000000000.jpg
+16:33:34:098:70번 unknownParkingList -> width : 960
+16:33:34:098:70번 unknownParkingList -> height : 960
+16:33:34:099:70번 unknownParkingList -> enterDate : 1487970616000
+16:33:34:099:70번 unknownParkingList -> carNo : 0000000000
+16:33:34:100:71번 unknownParkingList -> localParkingId : 2126
+16:33:34:100:71번 unknownParkingList -> url : /enterImage/67_1487934716_CH1_20170224201157_0000000000.jpg
+16:33:34:101:71번 unknownParkingList -> width : 960
+16:33:34:101:71번 unknownParkingList -> height : 960
+16:33:34:101:71번 unknownParkingList -> enterDate : 1487934717000
+16:33:34:102:71번 unknownParkingList -> carNo : 0000000000
+16:33:34:102:72번 unknownParkingList -> localParkingId : 2121
+16:33:34:102:72번 unknownParkingList -> url : /enterImage/67_1487932459_CH1_20170224193420_0000000000.jpg
+16:33:34:103:72번 unknownParkingList -> width : 960
+16:33:34:103:72번 unknownParkingList -> height : 960
+16:33:34:103:72번 unknownParkingList -> enterDate : 1487932460000
+16:33:34:103:72번 unknownParkingList -> carNo : 0000000000
+16:33:34:298:73번 unknownParkingList -> localParkingId : 2115
+16:33:34:299:73번 unknownParkingList -> url : /enterImage/67_1487930459_CH1_20170224190101_0000000000.jpg
+16:33:34:299:73번 unknownParkingList -> width : 960
+16:33:34:299:73번 unknownParkingList -> height : 960
+16:33:34:300:73번 unknownParkingList -> enterDate : 1487930461000
+16:33:34:300:73번 unknownParkingList -> carNo : 0000000000
+16:33:34:300:74번 unknownParkingList -> localParkingId : 2096
+16:33:34:300:74번 unknownParkingList -> url : /enterImage/67_1487915063_CH1_20170224144425_0000000000.jpg
+16:33:34:300:74번 unknownParkingList -> width : 960
+16:33:34:301:74번 unknownParkingList -> height : 960
+16:33:34:301:74번 unknownParkingList -> enterDate : 1487915065000
+16:33:34:301:74번 unknownParkingList -> carNo : 0000000000
+16:33:34:302:75번 unknownParkingList -> localParkingId : 2094
+16:33:34:302:75번 unknownParkingList -> url : /enterImage/67_1487914599_CH1_20170224143641_0000000000.jpg
+16:33:34:302:75번 unknownParkingList -> width : 960
+16:33:34:498:75번 unknownParkingList -> height : 960
+16:33:34:498:75번 unknownParkingList -> enterDate : 1487914601000
+16:33:34:499:75번 unknownParkingList -> carNo : 0000000000
+16:33:34:499:76번 unknownParkingList -> localParkingId : 2088
+16:33:34:499:76번 unknownParkingList -> url : /enterImage/67_1487910375_CH1_20170224132617_0000000000.jpg
+16:33:34:500:76번 unknownParkingList -> width : 960
+16:33:34:500:76번 unknownParkingList -> height : 960
+16:33:34:500:76번 unknownParkingList -> enterDate : 1487910377000
+16:33:34:500:76번 unknownParkingList -> carNo : 0000000000
+16:33:34:501:77번 unknownParkingList -> localParkingId : 2055
+16:33:34:501:77번 unknownParkingList -> url : /enterImage/67_1487884400_CH1_20170224061321_0000000000.jpg
+16:33:34:502:77번 unknownParkingList -> width : 960
+16:33:34:502:77번 unknownParkingList -> height : 960
+16:33:34:502:77번 unknownParkingList -> enterDate : 1487884401000
+16:33:34:503:77번 unknownParkingList -> carNo : 0000000000
+16:33:34:698:78번 unknownParkingList -> localParkingId : 2037
+16:33:34:699:78번 unknownParkingList -> url : /enterImage/67_1487845386_CH1_20170223192306_0000000000.jpg
+16:33:34:699:78번 unknownParkingList -> width : 960
+16:33:34:699:78번 unknownParkingList -> height : 960
+16:33:34:700:78번 unknownParkingList -> enterDate : 1487845386000
+16:33:34:700:78번 unknownParkingList -> carNo : 0000000000
+16:33:34:701:79번 unknownParkingList -> localParkingId : 1958
+16:33:34:701:79번 unknownParkingList -> url : /enterImage/67_1487764095_CH1_20170222204814_0000000000.jpg
+16:33:34:702:79번 unknownParkingList -> width : 960
+16:33:34:703:79번 unknownParkingList -> height : 960
+16:33:34:703:79번 unknownParkingList -> enterDate : 1487764094000
+16:33:34:703:79번 unknownParkingList -> carNo : 0000000000
+16:33:34:704:80번 unknownParkingList -> localParkingId : 1949
+16:33:34:704:80번 unknownParkingList -> url : /enterImage/67_1487753600_CH1_20170222175319_0000000000.jpg
+16:33:34:705:80번 unknownParkingList -> width : 960
+16:33:34:898:80번 unknownParkingList -> height : 960
+16:33:34:899:80번 unknownParkingList -> enterDate : 1487753599000
+16:33:34:899:80번 unknownParkingList -> carNo : 0000000000
+16:33:34:899:81번 unknownParkingList -> localParkingId : 1900
+16:33:34:900:81번 unknownParkingList -> url : /enterImage/67_1487717055_CH1_20170222074414_0000000000.jpg
+16:33:34:900:81번 unknownParkingList -> width : 960
+16:33:34:900:81번 unknownParkingList -> height : 960
+16:33:34:900:81번 unknownParkingList -> enterDate : 1487717054000
+16:33:34:901:81번 unknownParkingList -> carNo : 0000000000
+16:33:34:901:82번 unknownParkingList -> localParkingId : 1895
+16:33:34:901:82번 unknownParkingList -> url : /enterImage/67_1487708297_CH1_20170222051817_0000000000.jpg
+16:33:34:901:82번 unknownParkingList -> width : 960
+16:33:34:902:82번 unknownParkingList -> height : 960
+16:33:34:902:82번 unknownParkingList -> enterDate : 1487708297000
+16:33:34:902:82번 unknownParkingList -> carNo : 0000000000
+16:33:34:902:83번 unknownParkingList -> localParkingId : 1888
+16:33:35:098:83번 unknownParkingList -> url : /enterImage/67_1487691071_CH1_20170222003110_0000000000.jpg
+16:33:35:098:83번 unknownParkingList -> width : 960
+16:33:35:099:83번 unknownParkingList -> height : 960
+16:33:35:099:83번 unknownParkingList -> enterDate : 1487691070000
+16:33:35:099:83번 unknownParkingList -> carNo : 0000000000
+16:33:35:099:84번 unknownParkingList -> localParkingId : 1885
+16:33:35:100:84번 unknownParkingList -> url : /enterImage/67_1487682084_CH1_20170221220123_0000000000.jpg
+16:33:35:100:84번 unknownParkingList -> width : 960
+16:33:35:100:84번 unknownParkingList -> height : 960
+16:33:35:100:84번 unknownParkingList -> enterDate : 1487682083000
+16:33:35:100:84번 unknownParkingList -> carNo : 0000000000
+16:33:35:101:85번 unknownParkingList -> localParkingId : 1882
+16:33:35:101:85번 unknownParkingList -> url : /enterImage/67_1487676507_CH1_20170221202826_0000000000.jpg
+16:33:35:101:85번 unknownParkingList -> width : 960
+16:33:35:298:85번 unknownParkingList -> height : 960
+16:33:35:299:85번 unknownParkingList -> enterDate : 1487676506000
+16:33:35:299:85번 unknownParkingList -> carNo : 0000000000
+16:33:35:299:86번 unknownParkingList -> localParkingId : 1872
+16:33:35:299:86번 unknownParkingList -> url : /enterImage/67_1487669845_CH1_20170221183725_0000000000.jpg
+16:33:35:300:86번 unknownParkingList -> width : 960
+16:33:35:300:86번 unknownParkingList -> height : 960
+16:33:35:300:86번 unknownParkingList -> enterDate : 1487669845000
+16:33:35:301:86번 unknownParkingList -> carNo : 0000000000
+16:33:35:301:87번 unknownParkingList -> localParkingId : 1868
+16:33:35:301:87번 unknownParkingList -> url : /enterImage/67_1487669104_CH1_20170221182504_0000000000.jpg
+16:33:35:301:87번 unknownParkingList -> width : 960
+16:33:35:302:87번 unknownParkingList -> height : 960
+16:33:35:302:87번 unknownParkingList -> enterDate : 1487669104000
+16:33:35:302:87번 unknownParkingList -> carNo : 0000000000
+16:33:35:302:88번 unknownParkingList -> localParkingId : 1810
+16:33:35:498:88번 unknownParkingList -> url : /enterImage/67_1487592921_CH1_20170220211521_0000000000.jpg
+16:33:35:499:88번 unknownParkingList -> width : 960
+16:33:35:499:88번 unknownParkingList -> height : 960
+16:33:35:499:88번 unknownParkingList -> enterDate : 1487592921000
+16:33:35:499:88번 unknownParkingList -> carNo : 0000000000
+16:33:35:499:89번 unknownParkingList -> localParkingId : 1789
+16:33:35:500:89번 unknownParkingList -> url : /enterImage/67_1487573686_CH1_20170220155446_0000000000.jpg
+16:33:35:501:89번 unknownParkingList -> width : 960
+16:33:35:502:89번 unknownParkingList -> height : 960
+16:33:35:502:89번 unknownParkingList -> enterDate : 1487573686000
+16:33:35:502:89번 unknownParkingList -> carNo : 0000000000
+16:33:35:502:90번 unknownParkingList -> localParkingId : 1779
+16:33:35:502:90번 unknownParkingList -> url : /enterImage/67_1487570094_CH1_20170220145453_0000000000.jpg
+16:33:35:503:90번 unknownParkingList -> width : 960
+16:33:35:503:90번 unknownParkingList -> height : 960
+16:33:35:699:90번 unknownParkingList -> enterDate : 1487570093000
+16:33:35:699:90번 unknownParkingList -> carNo : 0000000000
+16:33:35:699:91번 unknownParkingList -> localParkingId : 1715
+16:33:35:700:91번 unknownParkingList -> url : /enterImage/67_1487495387_CH1_20170219180948_0000000000.jpg
+16:33:35:700:91번 unknownParkingList -> width : 960
+16:33:35:700:91번 unknownParkingList -> height : 960
+16:33:35:700:91번 unknownParkingList -> enterDate : 1487495388000
+16:33:35:701:91번 unknownParkingList -> carNo : 0000000000
+16:33:35:702:92번 unknownParkingList -> localParkingId : 1687
+16:33:35:702:92번 unknownParkingList -> url : /enterImage/67_1487478902_CH1_20170219133503_0000000000.jpg
+16:33:35:702:92번 unknownParkingList -> width : 960
+16:33:35:702:92번 unknownParkingList -> height : 960
+16:33:35:703:92번 unknownParkingList -> enterDate : 1487478903000
+16:33:35:703:92번 unknownParkingList -> carNo : 0000000000
+16:33:35:705:93번 unknownParkingList -> localParkingId : 1667
+16:33:35:898:93번 unknownParkingList -> url : /enterImage/67_1487470836_CH1_20170219112037_0000000000.jpg
+16:33:35:899:93번 unknownParkingList -> width : 960
+16:33:35:899:93번 unknownParkingList -> height : 960
+16:33:35:899:93번 unknownParkingList -> enterDate : 1487470837000
+16:33:35:899:93번 unknownParkingList -> carNo : 0000000000
+16:33:35:900:94번 unknownParkingList -> localParkingId : 1589
+16:33:35:900:94번 unknownParkingList -> url : /enterImage/67_1487424567_CH1_20170218222928_0000000000.jpg
+16:33:35:900:94번 unknownParkingList -> width : 960
+16:33:35:900:94번 unknownParkingList -> height : 960
+16:33:35:900:94번 unknownParkingList -> enterDate : 1487424568000
+16:33:35:901:94번 unknownParkingList -> carNo : 0000000000
+16:33:35:901:95번 unknownParkingList -> localParkingId : 1576
+16:33:35:902:95번 unknownParkingList -> url : /enterImage/67_1487409461_CH1_20170218181741_0000000000.jpg
+16:33:35:902:95번 unknownParkingList -> width : 960
+16:33:35:903:95번 unknownParkingList -> height : 960
+16:33:36:103:95번 unknownParkingList -> enterDate : 1487409461000
+16:33:36:104:95번 unknownParkingList -> carNo : 0000000000
+16:33:36:104:96번 unknownParkingList -> localParkingId : 1518
+16:33:36:105:96번 unknownParkingList -> url : /enterImage/67_1487376620_CH1_20170218091021_0000000000.jpg
+16:33:36:106:96번 unknownParkingList -> width : 960
+16:33:36:106:96번 unknownParkingList -> height : 960
+16:33:36:106:96번 unknownParkingList -> enterDate : 1487376621000
+16:33:36:106:96번 unknownParkingList -> carNo : 0000000000
+16:33:36:106:97번 unknownParkingList -> localParkingId : 1497
+16:33:36:107:97번 unknownParkingList -> url : /enterImage/67_1487333153_CH1_20170217210554_0000000000.jpg
+16:33:36:107:97번 unknownParkingList -> width : 960
+16:33:36:107:97번 unknownParkingList -> height : 960
+16:33:36:107:97번 unknownParkingList -> enterDate : 1487333154000
+16:33:36:107:97번 unknownParkingList -> carNo : 0000000000
+16:33:36:108:98번 unknownParkingList -> localParkingId : 1495
+16:33:36:108:98번 unknownParkingList -> url : /enterImage/67_1487333049_CH1_20170217210410_0000000000.jpg
+16:33:36:303:98번 unknownParkingList -> width : 960
+16:33:36:304:98번 unknownParkingList -> height : 960
+16:33:36:304:98번 unknownParkingList -> enterDate : 1487333050000
+16:33:36:304:98번 unknownParkingList -> carNo : 0000000000
+16:33:36:305:99번 unknownParkingList -> localParkingId : 1178
+16:33:36:305:99번 unknownParkingList -> url : /enterImage/67_1486977767_CH1_20170213182252_0000000000.jpg
+16:33:36:305:99번 unknownParkingList -> width : 960
+16:33:36:306:99번 unknownParkingList -> height : 960
+16:33:36:306:99번 unknownParkingList -> enterDate : 1486977772000
+16:33:36:307:99번 unknownParkingList -> carNo : 0000000000
+16:33:36:307:100번 unknownParkingList -> localParkingId : 1147
+16:33:36:308:100번 unknownParkingList -> url : /enterImage/67_1486949835_CH1_20170213103720_0000000000.jpg
+16:33:36:308:100번 unknownParkingList -> width : 960
+16:33:36:309:100번 unknownParkingList -> height : 960
+16:33:36:309:100번 unknownParkingList -> enterDate : 1486949840000
+16:33:36:503:100번 unknownParkingList -> carNo : 0000000000
+16:33:36:503:101번 unknownParkingList -> localParkingId : 1121
+16:33:36:504:101번 unknownParkingList -> url : /enterImage/67_1486911470_CH1_20170212235756_0000000000.jpg
+16:33:36:504:101번 unknownParkingList -> width : 960
+16:33:36:504:101번 unknownParkingList -> height : 960
+16:33:36:504:101번 unknownParkingList -> enterDate : 1486911476000
+16:33:36:505:101번 unknownParkingList -> carNo : 0000000000
+16:33:36:505:102번 unknownParkingList -> localParkingId : 1090
+16:33:36:505:102번 unknownParkingList -> url : /enterImage/67_1486876563_CH1_20170212141610_0000000000.jpg
+16:33:36:505:102번 unknownParkingList -> width : 960
+16:33:36:505:102번 unknownParkingList -> height : 960
+16:33:36:505:102번 unknownParkingList -> enterDate : 1486876570000
+16:33:36:506:102번 unknownParkingList -> carNo : 0000000000
+16:33:36:506:103번 unknownParkingList -> localParkingId : 1074
+16:33:36:506:103번 unknownParkingList -> url : /enterImage/67_1486870719_CH1_20170212123846_0000000000.jpg
+16:33:36:703:103번 unknownParkingList -> width : 960
+16:33:36:704:103번 unknownParkingList -> height : 960
+16:33:36:704:103번 unknownParkingList -> enterDate : 1486870726000
+16:33:36:705:103번 unknownParkingList -> carNo : 0000000000
+16:33:36:705:104번 unknownParkingList -> localParkingId : 1060
+16:33:36:705:104번 unknownParkingList -> url : /enterImage/67_1486865494_CH1_20170212111141_0000000000.jpg
+16:33:36:706:104번 unknownParkingList -> width : 960
+16:33:36:706:104번 unknownParkingList -> height : 960
+16:33:36:706:104번 unknownParkingList -> enterDate : 1486865501000
+16:33:36:707:104번 unknownParkingList -> carNo : 0000000000
+16:33:36:707:105번 unknownParkingList -> localParkingId : 1033
+16:33:36:707:105번 unknownParkingList -> url : /enterImage/67_1486861034_CH1_20170212095721_0000000000.jpg
+16:33:36:707:105번 unknownParkingList -> width : 960
+16:33:36:708:105번 unknownParkingList -> height : 960
+16:33:36:708:105번 unknownParkingList -> enterDate : 1486861041000
+16:33:36:903:105번 unknownParkingList -> carNo : 0000000000
+16:33:36:903:106번 unknownParkingList -> localParkingId : 1025
+16:33:36:904:106번 unknownParkingList -> url : /enterImage/67_1486859904_CH1_20170212093831_0000000000.jpg
+16:33:36:904:106번 unknownParkingList -> width : 960
+16:33:36:904:106번 unknownParkingList -> height : 960
+16:33:36:904:106번 unknownParkingList -> enterDate : 1486859911000
+16:33:36:905:106번 unknownParkingList -> carNo : 0000000000
+16:33:36:905:107번 unknownParkingList -> localParkingId : 1007
+16:33:36:905:107번 unknownParkingList -> url : /enterImage/67_1486852061_CH1_20170212072748_0000000000.jpg
+16:33:36:906:107번 unknownParkingList -> width : 960
+16:33:36:906:107번 unknownParkingList -> height : 960
+16:33:36:907:107번 unknownParkingList -> enterDate : 1486852068000
+16:33:36:907:107번 unknownParkingList -> carNo : 0000000000
+16:33:36:907:108번 unknownParkingList -> localParkingId : 983
+16:33:36:908:108번 unknownParkingList -> url : /enterImage/67_1486802095_CH1_20170211173503_0000000000.jpg
+16:33:37:103:108번 unknownParkingList -> width : 960
+16:33:37:104:108번 unknownParkingList -> height : 960
+16:33:37:104:108번 unknownParkingList -> enterDate : 1486802103000
+16:33:37:104:108번 unknownParkingList -> carNo : 0000000000
+16:33:37:104:109번 unknownParkingList -> localParkingId : 913
+16:33:37:105:109번 unknownParkingList -> url : /enterImage/67_1486747961_CH1_20170211023248_0000000000.jpg
+16:33:37:105:109번 unknownParkingList -> width : 960
+16:33:37:105:109번 unknownParkingList -> height : 960
+16:33:37:105:109번 unknownParkingList -> enterDate : 1486747968000
+16:33:37:106:109번 unknownParkingList -> carNo : 0000000000
+16:33:37:106:110번 unknownParkingList -> localParkingId : 908
+16:33:37:106:110번 unknownParkingList -> url : /enterImage/67_1486732322_CH1_20170210221210_0000000000.jpg
+16:33:37:106:110번 unknownParkingList -> width : 960
+16:33:37:106:110번 unknownParkingList -> height : 960
+16:33:37:107:110번 unknownParkingList -> enterDate : 1486732330000
+16:33:37:303:110번 unknownParkingList -> carNo : 0000000000
+16:33:37:304:111번 unknownParkingList -> localParkingId : 869
+16:33:37:304:111번 unknownParkingList -> url : /enterImage/67_1486697870_CH1_20170210123758_0000000000.jpg
+16:33:37:305:111번 unknownParkingList -> width : 960
+16:33:37:305:111번 unknownParkingList -> height : 960
+16:33:37:305:111번 unknownParkingList -> enterDate : 1486697878000
+16:33:37:305:111번 unknownParkingList -> carNo : 0000000000
+16:33:37:306:112번 unknownParkingList -> localParkingId : 867
+16:33:37:306:112번 unknownParkingList -> url : /enterImage/67_1486697319_CH1_20170210122847_0000000000.jpg
+16:33:37:306:112번 unknownParkingList -> width : 960
+16:33:37:307:112번 unknownParkingList -> height : 960
+16:33:37:307:112번 unknownParkingList -> enterDate : 1486697327000
+16:33:37:307:112번 unknownParkingList -> carNo : 0000000000
+16:33:37:308:113번 unknownParkingList -> localParkingId : 852
+16:33:37:308:113번 unknownParkingList -> url : /enterImage/67_1486687730_CH1_20170210094859_0000000000.jpg
+16:33:37:503:113번 unknownParkingList -> width : 960
+16:33:37:503:113번 unknownParkingList -> height : 960
+16:33:37:504:113번 unknownParkingList -> enterDate : 1486687739000
+16:33:37:504:113번 unknownParkingList -> carNo : 0000000000
+16:33:37:504:114번 unknownParkingList -> localParkingId : 836
+16:33:37:504:114번 unknownParkingList -> url : /enterImage/67_1486654916_CH1_20170210004205_0000000000.jpg
+16:33:37:505:114번 unknownParkingList -> width : 960
+16:33:37:505:114번 unknownParkingList -> height : 960
+16:33:37:505:114번 unknownParkingList -> enterDate : 1486654925000
+16:33:37:505:114번 unknownParkingList -> carNo : 0000000000
+16:33:37:506:115번 unknownParkingList -> localParkingId : 831
+16:33:37:506:115번 unknownParkingList -> url : /enterImage/67_1486641154_CH1_20170209205243_0000000000.jpg
+16:33:37:506:115번 unknownParkingList -> width : 960
+16:33:37:506:115번 unknownParkingList -> height : 960
+16:33:37:506:115번 unknownParkingList -> enterDate : 1486641163000
+16:33:37:703:115번 unknownParkingList -> carNo : 0000000000
+16:33:37:704:116번 unknownParkingList -> localParkingId : 781
+16:33:37:704:116번 unknownParkingList -> url : /enterImage/67_1486602518_CH1_20170209100844_0000000000.jpg
+16:33:37:704:116번 unknownParkingList -> width : 960
+16:33:37:704:116번 unknownParkingList -> height : 960
+16:33:37:704:116번 unknownParkingList -> enterDate : 1486602524000
+16:33:37:705:116번 unknownParkingList -> carNo : 0000000000
+16:33:37:705:117번 unknownParkingList -> localParkingId : 755
+16:33:37:705:117번 unknownParkingList -> url : /enterImage/67_1486560613_CH1_20170208223018_0000000000.jpg
+16:33:37:705:117번 unknownParkingList -> width : 960
+16:33:37:706:117번 unknownParkingList -> height : 960
+16:33:37:706:117번 unknownParkingList -> enterDate : 1486560618000
+16:33:37:706:117번 unknownParkingList -> carNo : 0000000000
+16:33:37:706:118번 unknownParkingList -> localParkingId : 752
+16:33:37:706:118번 unknownParkingList -> url : /enterImage/67_1486553509_CH1_20170208203154_0000000000.jpg
+16:33:37:903:118번 unknownParkingList -> width : 960
+16:33:37:903:118번 unknownParkingList -> height : 960
+16:33:37:904:118번 unknownParkingList -> enterDate : 1486553514000
+16:33:37:904:118번 unknownParkingList -> carNo : 0000000000
+16:33:37:904:119번 unknownParkingList -> localParkingId : 726
+16:33:37:904:119번 unknownParkingList -> url : /enterImage/67_1486530133_CH1_20170208140219_0000000000.jpg
+16:33:37:905:119번 unknownParkingList -> width : 960
+16:33:37:905:119번 unknownParkingList -> height : 960
+16:33:37:905:119번 unknownParkingList -> enterDate : 1486530139000
+16:33:37:905:119번 unknownParkingList -> carNo : 0000000000
+16:33:37:906:120번 unknownParkingList -> localParkingId : 714
+16:33:37:906:120번 unknownParkingList -> url : /enterImage/67_1486522152_CH1_20170208114917_0000000000.jpg
+16:33:37:906:120번 unknownParkingList -> width : 960
+16:33:37:906:120번 unknownParkingList -> height : 960
+16:33:37:907:120번 unknownParkingList -> enterDate : 1486522157000
+16:33:38:103:120번 unknownParkingList -> carNo : 0000000000
+16:33:38:104:121번 unknownParkingList -> localParkingId : 712
+16:33:38:104:121번 unknownParkingList -> url : /enterImage/67_1486521242_CH1_20170208113408_0000000000.jpg
+16:33:38:104:121번 unknownParkingList -> width : 960
+16:33:38:104:121번 unknownParkingList -> height : 960
+16:33:38:105:121번 unknownParkingList -> enterDate : 1486521248000
+16:33:38:105:121번 unknownParkingList -> carNo : 0000000000
+16:33:38:105:122번 unknownParkingList -> localParkingId : 710
+16:33:38:105:122번 unknownParkingList -> url : /enterImage/67_1486520612_CH1_20170208112338_0000000000.jpg
+16:33:38:106:122번 unknownParkingList -> width : 960
+16:33:38:106:122번 unknownParkingList -> height : 960
+16:33:38:106:122번 unknownParkingList -> enterDate : 1486520618000
+16:33:38:106:122번 unknownParkingList -> carNo : 0000000000
+16:33:38:106:123번 unknownParkingList -> localParkingId : 677
+16:33:38:107:123번 unknownParkingList -> url : /enterImage/67_1486470467_CH1_20170207212753_0000000000.jpg
+16:33:38:303:123번 unknownParkingList -> width : 960
+16:33:38:304:123번 unknownParkingList -> height : 960
+16:33:38:304:123번 unknownParkingList -> enterDate : 1486470473000
+16:33:38:305:123번 unknownParkingList -> carNo : 0000000000
+16:33:38:305:124번 unknownParkingList -> localParkingId : 669
+16:33:38:306:124번 unknownParkingList -> url : /enterImage/67_1486457638_CH1_20170207175404_0000000000.jpg
+16:33:38:306:124번 unknownParkingList -> width : 960
+16:33:38:306:124번 unknownParkingList -> height : 960
+16:33:38:307:124번 unknownParkingList -> enterDate : 1486457644000
+16:33:38:307:124번 unknownParkingList -> carNo : 0000000000
+16:33:38:308:125번 unknownParkingList -> localParkingId : 659
+16:33:38:308:125번 unknownParkingList -> url : /enterImage/67_1486453039_CH1_20170207163725_0000000000.jpg
+16:33:38:309:125번 unknownParkingList -> width : 960
+16:33:38:309:125번 unknownParkingList -> height : 960
+16:33:38:503:125번 unknownParkingList -> enterDate : 1486453045000
+16:33:38:503:125번 unknownParkingList -> carNo : 0000000000
+16:33:38:504:126번 unknownParkingList -> localParkingId : 637
+16:33:38:504:126번 unknownParkingList -> url : /enterImage/67_1486428322_CH1_20170207094528_0000000000.jpg
+16:33:38:505:126번 unknownParkingList -> width : 960
+16:33:38:505:126번 unknownParkingList -> height : 960
+16:33:38:505:126번 unknownParkingList -> enterDate : 1486428328000
+16:33:38:505:126번 unknownParkingList -> carNo : 0000000000
+16:33:38:505:127번 unknownParkingList -> localParkingId : 634
+16:33:38:506:127번 unknownParkingList -> url : /enterImage/67_1486427523_CH1_20170207093209_0000000000.jpg
+16:33:38:506:127번 unknownParkingList -> width : 960
+16:33:38:506:127번 unknownParkingList -> height : 960
+16:33:38:506:127번 unknownParkingList -> enterDate : 1486427529000
+16:33:38:507:127번 unknownParkingList -> carNo : 0000000000
+16:33:38:507:128번 unknownParkingList -> localParkingId : 626
+16:33:38:507:128번 unknownParkingList -> url : /enterImage/67_1486424961_CH1_20170207084927_0000000000.jpg
+16:33:38:703:128번 unknownParkingList -> width : 960
+16:33:38:704:128번 unknownParkingList -> height : 960
+16:33:38:704:128번 unknownParkingList -> enterDate : 1486424967000
+16:33:38:704:128번 unknownParkingList -> carNo : 0000000000
+16:33:38:704:129번 unknownParkingList -> localParkingId : 616
+16:33:38:704:129번 unknownParkingList -> url : /enterImage/67_1486416879_CH1_20170207063445_0000000000.jpg
+16:33:38:705:129번 unknownParkingList -> width : 960
+16:33:38:705:129번 unknownParkingList -> height : 960
+16:33:38:705:129번 unknownParkingList -> enterDate : 1486416885000
+16:33:38:705:129번 unknownParkingList -> carNo : 0000000000
+16:33:38:706:130번 unknownParkingList -> localParkingId : 601
+16:33:38:706:130번 unknownParkingList -> url : /enterImage/67_1486384400_CH1_20170206213326_0000000000.jpg
+16:33:38:706:130번 unknownParkingList -> width : 960
+16:33:38:706:130번 unknownParkingList -> height : 960
+16:33:38:903:130번 unknownParkingList -> enterDate : 1486384406000
+16:33:38:903:130번 unknownParkingList -> carNo : 0000000000
+16:33:38:904:131번 unknownParkingList -> localParkingId : 600
+16:33:38:904:131번 unknownParkingList -> url : /enterImage/67_1486380667_CH1_20170206203114_0000000000.jpg
+16:33:38:904:131번 unknownParkingList -> width : 960
+16:33:38:905:131번 unknownParkingList -> height : 960
+16:33:38:905:131번 unknownParkingList -> enterDate : 1486380674000
+16:33:38:905:131번 unknownParkingList -> carNo : 0000000000
+16:33:38:905:132번 unknownParkingList -> localParkingId : 599
+16:33:38:906:132번 unknownParkingList -> url : /enterImage/67_1486378804_CH1_20170206200011_0000000000.jpg
+16:33:38:906:132번 unknownParkingList -> width : 960
+16:33:38:906:132번 unknownParkingList -> height : 960
+16:33:38:906:132번 unknownParkingList -> enterDate : 1486378811000
+16:33:38:906:132번 unknownParkingList -> carNo : 0000000000
+16:33:38:907:133번 unknownParkingList -> localParkingId : 585
+16:33:38:907:133번 unknownParkingList -> url : /enterImage/67_1486363687_CH1_20170206154813_0000000000.jpg
+16:33:39:103:133번 unknownParkingList -> width : 960
+16:33:39:103:133번 unknownParkingList -> height : 960
+16:33:39:104:133번 unknownParkingList -> enterDate : 1486363693000
+16:33:39:104:133번 unknownParkingList -> carNo : 0000000000
+16:33:39:104:134번 unknownParkingList -> localParkingId : 540
+16:33:39:104:134번 unknownParkingList -> url : /enterImage/67_1486329752_CH1_20170206062239_0000000000.jpg
+16:33:39:105:134번 unknownParkingList -> width : 960
+16:33:39:105:134번 unknownParkingList -> height : 960
+16:33:39:105:134번 unknownParkingList -> enterDate : 1486329759000
+16:33:39:105:134번 unknownParkingList -> carNo : 0000000000
+16:33:39:105:135번 unknownParkingList -> localParkingId : 469
+16:33:39:106:135번 unknownParkingList -> url : /enterImage/67_1486261176_CH1_20170205111943_0000000000.jpg
+16:33:39:106:135번 unknownParkingList -> width : 960
+16:33:39:106:135번 unknownParkingList -> height : 960
+16:33:39:303:135번 unknownParkingList -> enterDate : 1486261183000
+16:33:39:303:135번 unknownParkingList -> carNo : 0000000000
+16:33:39:304:136번 unknownParkingList -> localParkingId : 444
+16:33:39:304:136번 unknownParkingList -> url : /enterImage/67_1486259860_CH1_20170205105747_0000000000.jpg
+16:33:39:304:136번 unknownParkingList -> width : 960
+16:33:39:304:136번 unknownParkingList -> height : 960
+16:33:39:305:136번 unknownParkingList -> enterDate : 1486259867000
+16:33:39:305:136번 unknownParkingList -> carNo : 0000000000
+16:33:39:305:137번 unknownParkingList -> localParkingId : 387
+16:33:39:305:137번 unknownParkingList -> url : /enterImage/67_1486199225_CH1_20170204180713_0000000000.jpg
+16:33:39:306:137번 unknownParkingList -> width : 960
+16:33:39:306:137번 unknownParkingList -> height : 960
+16:33:39:306:137번 unknownParkingList -> enterDate : 1486199233000
+16:33:39:306:137번 unknownParkingList -> carNo : 0000000000
+16:33:39:306:138번 unknownParkingList -> localParkingId : 386
+16:33:39:307:138번 unknownParkingList -> url : /enterImage/67_1486198884_CH1_20170204180132_0000000000.jpg
+16:33:39:503:138번 unknownParkingList -> width : 960
+16:33:39:503:138번 unknownParkingList -> height : 960
+16:33:39:504:138번 unknownParkingList -> enterDate : 1486198892000
+16:33:39:504:138번 unknownParkingList -> carNo : 0000000000
+16:33:39:504:139번 unknownParkingList -> localParkingId : 365
+16:33:39:504:139번 unknownParkingList -> url : /enterImage/67_1486188454_CH1_20170204150741_0000000000.jpg
+16:33:39:504:139번 unknownParkingList -> width : 960
+16:33:39:505:139번 unknownParkingList -> height : 960
+16:33:39:505:139번 unknownParkingList -> enterDate : 1486188461000
+16:33:39:505:139번 unknownParkingList -> carNo : 0000000000
+16:33:39:505:140번 unknownParkingList -> localParkingId : 335
+16:33:39:506:140번 unknownParkingList -> url : /enterImage/67_1486168995_CH1_20170204094323_0000000000.jpg
+16:33:39:506:140번 unknownParkingList -> width : 960
+16:33:39:506:140번 unknownParkingList -> height : 960
+16:33:39:703:140번 unknownParkingList -> enterDate : 1486169003000
+16:33:39:704:140번 unknownParkingList -> carNo : 0000000000
+16:33:39:704:141번 unknownParkingList -> localParkingId : 325
+16:33:39:704:141번 unknownParkingList -> url : /enterImage/67_1486166047_CH1_20170204085415_0000000000.jpg
+16:33:39:704:141번 unknownParkingList -> width : 960
+16:33:39:705:141번 unknownParkingList -> height : 960
+16:33:39:705:141번 unknownParkingList -> enterDate : 1486166055000
+16:33:39:705:141번 unknownParkingList -> carNo : 0000000000
+16:33:39:705:142번 unknownParkingList -> localParkingId : 316
+16:33:39:706:142번 unknownParkingList -> url : /enterImage/67_1486152045_CH1_20170204050052_0000000000.jpg
+16:33:39:706:142번 unknownParkingList -> width : 960
+16:33:39:706:142번 unknownParkingList -> height : 960
+16:33:39:706:142번 unknownParkingList -> enterDate : 1486152052000
+16:33:39:707:142번 unknownParkingList -> carNo : 0000000000
+16:33:39:707:143번 unknownParkingList -> localParkingId : 311
+16:33:39:707:143번 unknownParkingList -> url : /enterImage/67_1486135417_CH1_20170204002345_0000000000.jpg
+16:33:39:903:143번 unknownParkingList -> width : 960
+16:33:39:904:143번 unknownParkingList -> height : 960
+16:33:39:904:143번 unknownParkingList -> enterDate : 1486135425000
+16:33:39:904:143번 unknownParkingList -> carNo : 0000000000
+16:33:39:905:144번 unknownParkingList -> localParkingId : 288
+16:33:39:905:144번 unknownParkingList -> url : /enterImage/67_1486109118_CH1_20170203170526_0000000000.jpg
+16:33:39:905:144번 unknownParkingList -> width : 960
+16:33:39:905:144번 unknownParkingList -> height : 960
+16:33:39:906:144번 unknownParkingList -> enterDate : 1486109126000
+16:33:39:906:144번 unknownParkingList -> carNo : 0000000000
+16:33:39:906:145번 unknownParkingList -> localParkingId : 241
+16:33:39:906:145번 unknownParkingList -> url : /enterImage/67_1486078154_CH1_20170203082922_0000000000.jpg
+16:33:39:906:145번 unknownParkingList -> width : 960
+16:33:39:907:145번 unknownParkingList -> height : 960
+16:33:40:103:145번 unknownParkingList -> enterDate : 1486078162000
+16:33:40:104:145번 unknownParkingList -> carNo : 0000000000
+16:33:40:104:146번 unknownParkingList -> localParkingId : 221
+16:33:40:104:146번 unknownParkingList -> url : /enterImage/67_1486036872_CH1_20170202210120_0000000000.jpg
+16:33:40:104:146번 unknownParkingList -> width : 960
+16:33:40:104:146번 unknownParkingList -> height : 960
+16:33:40:105:146번 unknownParkingList -> enterDate : 1486036880000
+16:33:40:105:146번 unknownParkingList -> carNo : 0000000000
+16:33:40:105:147번 unknownParkingList -> localParkingId : 220
+16:33:40:105:147번 unknownParkingList -> url : /enterImage/67_1486035803_CH1_20170202204331_0000000000.jpg
+16:33:40:105:147번 unknownParkingList -> width : 960
+16:33:40:106:147번 unknownParkingList -> height : 960
+16:33:40:106:147번 unknownParkingList -> enterDate : 1486035811000
+16:33:40:106:147번 unknownParkingList -> carNo : 0000000000
+16:33:40:106:148번 unknownParkingList -> localParkingId : 209
+16:33:40:106:148번 unknownParkingList -> url : /enterImage/67_1486026836_CH1_20170202181355_0000000000.jpg
+16:33:40:303:148번 unknownParkingList -> width : 960
+16:33:40:304:148번 unknownParkingList -> height : 960
+16:33:40:305:148번 unknownParkingList -> enterDate : 1486026835000
+16:33:40:305:148번 unknownParkingList -> carNo : 0000000000
+16:33:40:306:149번 unknownParkingList -> localParkingId : 146
+16:33:40:306:149번 unknownParkingList -> url : /enterImage/67_1485987367_CH1_20170202071613_0000000000.jpg
+16:33:40:307:149번 unknownParkingList -> width : 960
+16:33:40:307:149번 unknownParkingList -> height : 960
+16:33:40:308:149번 unknownParkingList -> enterDate : 1485987373000
+16:33:40:308:149번 unknownParkingList -> carNo : 0000000000
+16:33:40:309:150번 unknownParkingList -> localParkingId : 138
+16:33:40:309:150번 unknownParkingList -> url : /enterImage/67_1485969802_CH1_20170202022327_0000000000.jpg
+16:33:40:310:150번 unknownParkingList -> width : 960
+16:33:40:310:150번 unknownParkingList -> height : 960
+16:33:40:503:150번 unknownParkingList -> enterDate : 1485969807000
+16:33:40:504:150번 unknownParkingList -> carNo : 0000000000
+16:33:40:504:151번 unknownParkingList -> localParkingId : 131
+16:33:40:505:151번 unknownParkingList -> url : /enterImage/67_1485954531_CH1_20170201220856_0000000000.jpg
+16:33:40:506:151번 unknownParkingList -> width : 960
+16:33:40:506:151번 unknownParkingList -> height : 960
+16:33:40:507:151번 unknownParkingList -> enterDate : 1485954536000
+16:33:40:507:151번 unknownParkingList -> carNo : 0000000000
+16:33:40:508:152번 unknownParkingList -> localParkingId : 125
+16:33:40:508:152번 unknownParkingList -> url : /enterImage/67_1485944995_CH1_20170201193001_0000000000.jpg
+16:33:40:509:152번 unknownParkingList -> width : 960
+16:33:40:509:152번 unknownParkingList -> height : 960
+16:33:40:510:152번 unknownParkingList -> enterDate : 1485945001000
+16:33:40:510:152번 unknownParkingList -> carNo : 0000000000
+16:33:40:511:153번 unknownParkingList -> localParkingId : 121
+16:33:40:511:153번 unknownParkingList -> url : /enterImage/67_1485942107_CH1_20170201184153_0000000000.jpg
+16:33:40:703:153번 unknownParkingList -> width : 960
+16:33:40:704:153번 unknownParkingList -> height : 960
+16:33:40:704:153번 unknownParkingList -> enterDate : 1485942113000
+16:33:40:704:153번 unknownParkingList -> carNo : 0000000000
+16:33:40:705:154번 unknownParkingList -> localParkingId : 106
+16:33:40:705:154번 unknownParkingList -> url : /enterImage/67_1485932469_CH1_20170201160114_0000000000.jpg
+16:33:40:705:154번 unknownParkingList -> width : 960
+16:33:40:706:154번 unknownParkingList -> height : 960
+16:33:40:706:154번 unknownParkingList -> enterDate : 1485932474000
+16:33:40:706:154번 unknownParkingList -> carNo : 0000000000
+16:33:40:706:155번 unknownParkingList -> localParkingId : 99
+16:33:40:706:155번 unknownParkingList -> url : /enterImage/67_1485922020_CH1_20170201130705_0000000000.jpg
+16:33:40:707:155번 unknownParkingList -> width : 960
+16:33:40:707:155번 unknownParkingList -> height : 960
+16:33:40:903:155번 unknownParkingList -> enterDate : 1485922025000
+16:33:40:904:155번 unknownParkingList -> carNo : 0000000000
+16:33:40:904:156번 unknownParkingList -> localParkingId : 97
+16:33:40:904:156번 unknownParkingList -> url : /enterImage/67_1485921418_CH1_20170201125703_0000000000.jpg
+16:33:40:905:156번 unknownParkingList -> width : 960
+16:33:40:905:156번 unknownParkingList -> height : 960
+16:33:40:906:156번 unknownParkingList -> enterDate : 1485921423000
+16:33:40:906:156번 unknownParkingList -> carNo : 0000000000
+16:33:40:906:157번 unknownParkingList -> localParkingId : 96
+16:33:40:906:157번 unknownParkingList -> url : /enterImage/67_1485921409_CH1_20170201125655_0000000000.jpg
+16:33:40:907:157번 unknownParkingList -> width : 960
+16:33:40:907:157번 unknownParkingList -> height : 960
+16:33:40:907:157번 unknownParkingList -> enterDate : 1485921415000
+16:33:40:907:157번 unknownParkingList -> carNo : 0000000000
+16:33:40:907:158번 unknownParkingList -> localParkingId : 81
+16:33:40:908:158번 unknownParkingList -> url : /enterImage/67_1485912251_CH1_20170201102417_0000000000.jpg
+16:33:41:103:158번 unknownParkingList -> width : 960
+16:33:41:104:158번 unknownParkingList -> height : 960
+16:33:41:104:158번 unknownParkingList -> enterDate : 1485912257000
+16:33:41:104:158번 unknownParkingList -> carNo : 0000000000
+16:33:41:104:159번 unknownParkingList -> localParkingId : 53
+16:33:41:105:159번 unknownParkingList -> url : /enterImage/67_1485870150_CH1_20170131224234_0000000000.jpg
+16:33:41:105:159번 unknownParkingList -> width : 960
+16:33:41:105:159번 unknownParkingList -> height : 960
+16:33:41:106:159번 unknownParkingList -> enterDate : 1485870154000
+16:33:41:106:159번 unknownParkingList -> carNo : 0000000000
+16:33:41:106:160번 unknownParkingList -> localParkingId : 13
+16:33:41:106:160번 unknownParkingList -> url : /enterImage/67_1485850711_CH1_20170131171834_0000000000.jpg
+16:33:41:107:160번 unknownParkingList -> width : 960
+16:33:41:107:160번 unknownParkingList -> height : 960
+16:33:41:303:160번 unknownParkingList -> enterDate : 1485850714000
+16:33:41:304:160번 unknownParkingList -> carNo : 0000000000
+16:33:41:304:161번 unknownParkingList -> localParkingId : 12
+16:33:41:304:161번 unknownParkingList -> url : /enterImage/67_1485850658_CH1_20170131171741_0000000000.jpg
+16:33:41:305:161번 unknownParkingList -> width : 960
+16:33:41:305:161번 unknownParkingList -> height : 960
+16:33:41:305:161번 unknownParkingList -> enterDate : 1485850661000
+16:33:41:305:161번 unknownParkingList -> carNo : 0000000000
+16:33:41:306:162번 unknownParkingList -> localParkingId : 2
+16:33:41:306:162번 unknownParkingList -> url : /enterImage/67_1485847843_CH1_20170131163046_0000000000.jpg
+16:33:41:307:162번 unknownParkingList -> width : 960
+16:33:41:307:162번 unknownParkingList -> height : 960
+16:33:41:308:162번 unknownParkingList -> enterDate : 1485847846000
+16:33:41:308:162번 unknownParkingList -> carNo : 0000000000
+16:33:41:308: ------ 리스트 끝 ------ 
+16:33:41:309: ------ 응답 목록 끝 ------ 
+16:33:41:504:전체 동작 성공
+16:33:41:504:모든 파싱 종료
+16:33:41:504:
+16:33:41:504: === 10. 출차 미인식 차량 목록 끝 === 
+16:35:02:352:
+16:35:02:354: === 10. 출차 미인식 차량 목록 시작 === 
+16:35:02:354:접속 주소 : http://uiwang1.iptime.org:2080//api/parking/unkown/leave/price
+16:35:02:363:
+16:35:02:364: ------ 파라미터 목록 ------ 
+16:35:02:364:carNo : 5132
+16:35:02:364: ------ 파라미터 목록 끝 ------ 
+16:35:02:580:
+16:35:02:581: ------ 응답 목록 ------ 
+16:35:02:581:code : 0
+16:35:02:582:errmsgvariable : 
+16:35:02:582:errmsg : 
+16:35:02:582:key : ERR_NOERR
+16:35:02:583:
+16:35:02:583: ------ 리스트 ------ 
+16:35:02:583:리스트의 개수 : 0
+16:35:02:584: ------ 리스트 끝 ------ 
+16:35:02:584: ------ 응답 목록 끝 ------ 
+16:35:02:585:전체 동작 성공
+16:35:02:585:모든 파싱 종료
+16:35:02:587:
+16:35:02:588: === 10. 출차 미인식 차량 목록 끝 === 
+18:11:04:341:
+18:11:04:342: === 13. 요금 정산 API 시작 === 
+18:11:04:342:접속 주소 : http://112.216.153.186:2080//api/parking/leave/price
+18:11:04:354:
+18:11:04:354: ------ 파라미터 목록 ------ 
+18:11:04:354:carNo : 12가5479
+18:11:04:355:leaveDate(DateTime) : 2017-04-13 오후 11:30:00
+18:11:04:355:leaveDate(TimeStamp) : 1492093800000
+18:11:04:355:localEquipmentId : 1
+18:11:04:356:image : c:\123123.jpg
+18:11:04:356:isSmallCar : n
+18:11:04:356:localParkingId : 
+18:11:04:356: ------ 파라미터 목록 끝 ------ 
+18:11:04:685:
+18:11:04:686: ------ 응답 목록 ------ 
+18:11:04:686:code : 1287
+18:11:04:686:errmsgvariable : 
+18:11:04:687:errmsg : 입차정보가 없는 차량입니다.
+18:11:04:687:key : ERR_LMS_NOT_ENTER_CAR
+18:11:04:687:parkingType : 
+18:11:04:687:realPrice : 
+18:11:04:687:price : 
+18:11:04:688:discountPrice : 
+18:11:04:688:enterDate(TimeStamp) : 
+18:11:04:688:enterDate(DateTime) : 1970-01-01 오전 9:00:00
+18:11:04:688:durationSecond : 
+18:11:04:689:prePayDiscountInfoId : 
+18:11:04:689:insertPrice : 
+18:11:04:689:recurrence : 
+18:11:04:689:localParkingId : 
+18:11:04:690:lackPrice : 
+18:11:04:690:prepayPrice : 
+18:11:04:690: ------ 응답 목록 끝 ------ 
+18:11:04:690:전체 동작 성공
+18:11:04:690:모든 파싱 종료
+18:11:04:691:
+18:11:04:691: === 13. 요금 정산 API 끝 === 
+18:11:29:814:
+18:11:29:815: === 15. 요금 정산에 필요한 데이터를 내려주는 API 시작 === 
+18:11:29:815:접속 주소 : http://112.216.153.186:2080//api/equipment/get/paymentInfo
+18:11:30:054:
+18:11:30:054: ------ 응답 목록 ------ 
+18:11:30:055:code : 0
+18:11:30:055:errmsgvariable : 
+18:11:30:055:errmsg : 
+18:11:30:055:key : ERR_NOERR
+18:11:30:058: ------ 응답 목록 끝 ------ 
+18:11:30:058:전체 동작 성공
+18:11:30:058:모든 파싱 종료
+18:11:30:059:
+18:11:30:059: === 15. 요금 정산에 필요한 데이터를 내려주는 API 끝 === 
+18:11:34:083:
+18:11:34:084: === 13. 요금 정산 API 시작 === 
+18:11:34:084:접속 주소 : http://112.216.153.186:2080//api/parking/leave/price
+18:11:34:089:
+18:11:34:090: ------ 파라미터 목록 ------ 
+18:11:34:090:carNo : 99가0001
+18:11:34:090:leaveDate(DateTime) : 2017-04-13 오후 11:30:00
+18:11:34:090:leaveDate(TimeStamp) : 1492093800000
+18:11:34:091:localEquipmentId : 1
+18:11:34:091:image : c:\123123.jpg
+18:11:34:091:isSmallCar : n
+18:11:34:091:localParkingId : 
+18:11:34:092: ------ 파라미터 목록 끝 ------ 
+18:11:34:307:
+18:11:34:307: ------ 응답 목록 ------ 
+18:11:34:308:code : 256
+18:11:34:308:errmsgvariable : 
+18:11:34:309:errmsg : 요청에 실패했습니다.
+18:11:34:310:key : ERR_COMMON_GENERAL
+18:11:34:310:parkingType : 
+18:11:34:311:realPrice : 
+18:11:34:311:price : 
+18:11:34:312:discountPrice : 
+18:11:34:312:enterDate(TimeStamp) : 
+18:11:34:313:enterDate(DateTime) : 1970-01-01 오전 9:00:00
+18:11:34:313:durationSecond : 
+18:11:34:314:prePayDiscountInfoId : 
+18:11:34:314:insertPrice : 
+18:11:34:315:recurrence : 
+18:11:34:315:localParkingId : 
+18:11:34:316:lackPrice : 
+18:11:34:316:prepayPrice : 
+18:11:34:317: ------ 응답 목록 끝 ------ 
+18:11:34:317:전체 동작 성공
+18:11:34:318:모든 파싱 종료
+18:11:34:318:
+18:11:34:318: === 13. 요금 정산 API 끝 === 
+18:12:13:541:
+18:12:13:542: === 13. 요금 정산 API 시작 === 
+18:12:13:543:접속 주소 : http://112.216.153.186:2080//api/parking/leave/price
+18:12:13:552:
+18:12:13:552: ------ 파라미터 목록 ------ 
+18:12:13:553:carNo : 99가0001
+18:12:13:553:leaveDate(DateTime) : 2017-04-12 오후 11:30:00
+18:12:13:554:leaveDate(TimeStamp) : 1492007400000
+18:12:13:554:localEquipmentId : 1
+18:12:13:555:image : c:\123123.jpg
+18:12:13:555:isSmallCar : n
+18:12:13:556:localParkingId : 
+18:12:13:557: ------ 파라미터 목록 끝 ------ 
+18:12:13:842:
+18:12:13:843: ------ 응답 목록 ------ 
+18:12:13:844:code : 256
+18:12:13:844:errmsgvariable : 
+18:12:13:844:errmsg : 요청에 실패했습니다.
+18:12:13:845:key : ERR_COMMON_GENERAL
+18:12:13:846:parkingType : 
+18:12:13:846:realPrice : 
+18:12:13:847:price : 
+18:12:13:847:discountPrice : 
+18:12:13:848:enterDate(TimeStamp) : 
+18:12:13:849:enterDate(DateTime) : 1970-01-01 오전 9:00:00
+18:12:13:849:durationSecond : 
+18:12:13:850:prePayDiscountInfoId : 
+18:12:13:850:insertPrice : 
+18:12:13:850:recurrence : 
+18:12:13:851:localParkingId : 
+18:12:13:851:lackPrice : 
+18:12:13:851:prepayPrice : 
+18:12:13:852: ------ 응답 목록 끝 ------ 
+18:12:13:852:전체 동작 성공
+18:12:13:853:모든 파싱 종료
+18:12:13:854:
+18:12:13:854: === 13. 요금 정산 API 끝 === 
+18:13:01:041:
+18:13:01:221: === 13. 요금 정산 API 시작 === 
+18:13:01:400:접속 주소 : http://112.216.153.186:2080//api/parking/leave/price
+18:13:08:957:
+18:13:09:168: ------ 파라미터 목록 ------ 
+18:13:09:352:carNo : 99가0001
+18:13:09:520:leaveDate(DateTime) : 2017-04-13 오후 2:00:00
+18:13:09:744:leaveDate(TimeStamp) : 1492059600000
+18:13:09:943:localEquipmentId : 1
+18:13:10:137:image : c:\123123.jpg
+18:13:10:348:isSmallCar : n
+18:13:10:878:localParkingId : 
+18:13:11:089: ------ 파라미터 목록 끝 ------ 
+18:13:20:756:
+18:13:20:756: ------ 응답 목록 ------ 
+18:13:20:757:code : 256
+18:13:20:764:errmsgvariable : 
+18:13:20:764:errmsg : 요청에 실패했습니다.
+18:13:20:764:key : ERR_COMMON_GENERAL
+18:13:20:765:parkingType : 
+18:13:20:765:realPrice : 
+18:13:20:765:price : 
+18:13:20:766:discountPrice : 
+18:13:20:766:enterDate(TimeStamp) : 
+18:13:20:767:enterDate(DateTime) : 1970-01-01 오전 9:00:00
+18:13:20:767:durationSecond : 
+18:13:20:767:prePayDiscountInfoId : 
+18:13:20:767:insertPrice : 
+18:13:20:768:recurrence : 
+18:13:20:768:localParkingId : 
+18:13:20:768:lackPrice : 
+18:13:20:768:prepayPrice : 
+18:13:20:769: ------ 응답 목록 끝 ------ 
+18:13:20:769:전체 동작 성공
+18:13:20:769:모든 파싱 종료
+18:13:20:769:
+18:13:20:769: === 13. 요금 정산 API 끝 === 
+18:14:18:393:
+18:14:18:394: === 15. 요금 정산에 필요한 데이터를 내려주는 API 시작 === 
+18:14:18:394:접속 주소 : http://112.216.153.186:2080//api/equipment/get/paymentInfo
+18:14:18:613:
+18:14:18:614: ------ 응답 목록 ------ 
+18:14:18:614:code : 0
+18:14:18:614:errmsgvariable : 
+18:14:18:615:errmsg : 
+18:14:18:615:key : ERR_NOERR
+18:14:18:616: ------ 응답 목록 끝 ------ 
+18:14:18:616:전체 동작 성공
+18:14:18:617:모든 파싱 종료
+18:14:18:617:
+18:14:18:617: === 15. 요금 정산에 필요한 데이터를 내려주는 API 끝 === 
+18:14:21:328:
+18:14:21:328: === 13. 요금 정산 API 시작 === 
+18:14:21:329:접속 주소 : http://112.216.153.186:2080//api/parking/leave/price
+18:14:21:335:
+18:14:21:335: ------ 파라미터 목록 ------ 
+18:14:21:336:carNo : 99가8888
+18:14:21:336:leaveDate(DateTime) : 2017-04-13 오후 2:00:00
+18:14:21:336:leaveDate(TimeStamp) : 1492059600000
+18:14:21:337:localEquipmentId : 1
+18:14:21:337:image : c:\123123.jpg
+18:14:21:338:isSmallCar : n
+18:14:21:338:localParkingId : 
+18:14:21:338: ------ 파라미터 목록 끝 ------ 
+18:14:21:432:
+18:14:21:433: ------ 응답 목록 ------ 
+18:14:21:433:code : 256
+18:14:21:434:errmsgvariable : 
+18:14:21:434:errmsg : 요청에 실패했습니다.
+18:14:21:434:key : ERR_COMMON_GENERAL
+18:14:21:435:parkingType : 
+18:14:21:435:realPrice : 
+18:14:21:435:price : 
+18:14:21:436:discountPrice : 
+18:14:21:436:enterDate(TimeStamp) : 
+18:14:21:437:enterDate(DateTime) : 1970-01-01 오전 9:00:00
+18:14:21:437:durationSecond : 
+18:14:21:438:prePayDiscountInfoId : 
+18:14:21:438:insertPrice : 
+18:14:21:438:recurrence : 
+18:14:21:439:localParkingId : 
+18:14:21:439:lackPrice : 
+18:14:21:439:prepayPrice : 
+18:14:21:440: ------ 응답 목록 끝 ------ 
+18:14:21:440:전체 동작 성공
+18:14:21:440:모든 파싱 종료
+18:14:21:441:
+18:14:21:441: === 13. 요금 정산 API 끝 === 
+18:14:50:839:
+18:14:51:000: === 13. 요금 정산 API 시작 === 
+18:14:51:167:접속 주소 : http://112.216.153.186:2080//api/parking/leave/price
+18:15:08:378:
+18:15:08:457: ------ 파라미터 목록 ------ 
+18:15:08:516:carNo : 99가8888
+18:15:08:578:leaveDate(DateTime) : 2017-04-13 오후 2:00:00
+18:15:08:642:leaveDate(TimeStamp) : 1492059600000
+18:15:08:707:localEquipmentId : 1
+18:15:08:776:image : c:\123123.jpg
+18:15:08:845:isSmallCar : n
+18:15:08:908:localParkingId : 
+18:15:08:972: ------ 파라미터 목록 끝 ------ 
+18:16:26:819:
+18:16:26:820: === 13. 요금 정산 API 시작 === 
+18:16:26:821:접속 주소 : http://192.168.1.100:2080//api/parking/leave/price
+18:16:26:831:
+18:16:26:832: ------ 파라미터 목록 ------ 
+18:16:26:832:carNo : 11가5858
+18:16:26:833:leaveDate(DateTime) : 2017-04-13 오후 2:00:00
+18:16:26:833:leaveDate(TimeStamp) : 1492059600000
+18:16:26:834:localEquipmentId : 1
+18:16:26:834:image : c:\123123.jpg
+18:16:26:835:isSmallCar : n
+18:16:26:836:localParkingId : 
+18:16:26:836: ------ 파라미터 목록 끝 ------ 
+18:16:30:204:
+18:16:30:204: ------ 응답 목록 ------ 
+18:16:30:204:code : 0
+18:16:30:205:errmsgvariable : 
+18:16:30:205:errmsg : 
+18:16:30:205:key : ERR_NOERR
+18:16:30:205:parkingType : normal
+18:16:30:205:realPrice : 222000
+18:16:30:206:price : 222000
+18:16:30:206:discountPrice : 0
+18:16:30:206:enterDate(TimeStamp) : 1491922800000
+18:16:30:207:enterDate(DateTime) : 2017-04-12 오전 12:00:00
+18:16:30:207:durationSecond : 136800
+18:16:30:208:prePayDiscountInfoId : 
+18:16:30:208:insertPrice : 0
+18:16:30:209:recurrence : 
+18:16:30:209:localParkingId : 
+18:16:30:210:lackPrice : 
+18:16:30:210:prepayPrice : 0
+18:16:30:211: ------ 응답 목록 끝 ------ 
+18:16:30:211:전체 동작 성공
+18:16:30:211:모든 파싱 종료
+18:16:30:212:
+18:16:30:212: === 13. 요금 정산 API 끝 === 
+18:20:02:519:
+18:20:02:521: === 13. 요금 정산 API 시작 === 
+18:20:02:522:접속 주소 : http://112.216.153.186:2080//api/parking/leave/price
+18:20:02:630:
+18:20:02:631: ------ 파라미터 목록 ------ 
+18:20:02:631:carNo : 99가0001
+18:20:02:632:leaveDate(DateTime) : 2017-04-13 오후 2:00:00
+18:20:02:632:leaveDate(TimeStamp) : 1492059600000
+18:20:02:633:localEquipmentId : 29
+18:20:02:633:image : c:\123123.jpg
+18:20:02:634:isSmallCar : n
+18:20:02:634:localParkingId : 
+18:20:02:634: ------ 파라미터 목록 끝 ------ 
+18:20:03:592:
+18:20:03:593: ------ 응답 목록 ------ 
+18:20:03:594:code : 256
+18:20:03:594:errmsgvariable : nested exception is org.apache.ibatis.exceptions.TooManyResultsException: Expected one result (or null) to be returned by selectOne(), but found: 2
+18:20:03:594:errmsg : 요청에 실패했습니다.
+18:20:03:594:key : ERR_COMMON_GENERAL
+18:20:03:595:parkingType : 
+18:20:03:595:realPrice : 
+18:20:03:595:price : 
+18:20:03:595:discountPrice : 
+18:20:03:596:enterDate(TimeStamp) : 
+18:20:03:596:enterDate(DateTime) : 1970-01-01 오전 9:00:00
+18:20:03:596:durationSecond : 
+18:20:03:596:prePayDiscountInfoId : 
+18:20:03:597:insertPrice : 
+18:20:03:597:recurrence : 
+18:20:03:597:localParkingId : 
+18:20:03:597:lackPrice : 
+18:20:03:598:prepayPrice : 
+18:20:03:598: ------ 응답 목록 끝 ------ 
+18:20:03:598:전체 동작 성공
+18:20:03:598:모든 파싱 종료
+18:20:03:599:
+18:20:03:599: === 13. 요금 정산 API 끝 === 
+18:22:11:807:
+18:22:11:808: === 13. 요금 정산 API 시작 === 
+18:22:11:808:접속 주소 : http://112.216.153.186:2080//api/parking/leave/price
+18:22:24:328:
+18:22:24:328: ------ 파라미터 목록 ------ 
+18:22:24:329:carNo : 99가0001
+18:22:24:329:leaveDate(DateTime) : 2017-04-13 오후 2:00:00
+18:22:24:329:leaveDate(TimeStamp) : 1492059600000
+18:22:24:329:localEquipmentId : 29
+18:22:24:330:image : c:\123123.jpg
+18:22:24:330:isSmallCar : n
+18:22:24:330:localParkingId : 
+18:22:24:331: ------ 파라미터 목록 끝 ------ 
+18:22:25:769:
+18:22:25:769: ------ 응답 목록 ------ 
+18:22:25:770:code : 256
+18:22:25:771:errmsgvariable : nested exception is org.apache.ibatis.exceptions.TooManyResultsException: Expected one result (or null) to be returned by selectOne(), but found: 2
+18:22:25:772:errmsg : 요청에 실패했습니다.
+18:22:25:772:key : ERR_COMMON_GENERAL
+18:22:25:773:parkingType : 
+18:22:25:773:realPrice : 
+18:22:25:774:price : 
+18:22:25:774:discountPrice : 
+18:22:25:775:enterDate(TimeStamp) : 
+18:22:25:775:enterDate(DateTime) : 1970-01-01 오전 9:00:00
+18:22:25:776:durationSecond : 
+18:22:25:776:prePayDiscountInfoId : 
+18:22:25:777:insertPrice : 
+18:22:25:777:recurrence : 
+18:22:25:778:localParkingId : 
+18:22:25:779:lackPrice : 
+18:22:25:780:prepayPrice : 
+18:22:25:780: ------ 응답 목록 끝 ------ 
+18:22:25:781:전체 동작 성공
+18:22:25:782:모든 파싱 종료
+18:22:25:782:
+18:22:25:782: === 13. 요금 정산 API 끝 === 
+18:29:38:398:
+18:29:38:399: === 13. 요금 정산 API 시작 === 
+18:29:38:400:접속 주소 : http://112.216.153.186:2080//api/parking/leave/price
+18:29:38:401:
+18:29:38:402: ------ 파라미터 목록 ------ 
+18:29:38:402:carNo : 99가0001
+18:29:38:402:leaveDate(DateTime) : 2017-04-13 오후 2:00:00
+18:29:38:403:leaveDate(TimeStamp) : 1492059600000
+18:29:38:403:localEquipmentId : 29
+18:29:38:403:image : c:\123123.jpg
+18:29:38:404:isSmallCar : n
+18:29:38:404:localParkingId : 
+18:29:38:404: ------ 파라미터 목록 끝 ------ 
+18:29:39:745:
+18:29:39:746: ------ 응답 목록 ------ 
+18:29:39:746:code : 256
+18:29:39:746:errmsgvariable : nested exception is org.apache.ibatis.exceptions.TooManyResultsException: Expected one result (or null) to be returned by selectOne(), but found: 2
+18:29:39:747:errmsg : 요청에 실패했습니다.
+18:29:39:747:key : ERR_COMMON_GENERAL
+18:29:39:747:parkingType : 
+18:29:39:748:realPrice : 
+18:29:39:748:price : 
+18:29:39:748:discountPrice : 
+18:29:39:748:enterDate(TimeStamp) : 
+18:29:39:748:enterDate(DateTime) : 1970-01-01 오전 9:00:00
+18:29:39:749:durationSecond : 
+18:29:39:749:prePayDiscountInfoId : 
+18:29:39:749:insertPrice : 
+18:29:39:749:recurrence : 
+18:29:39:750:localParkingId : 
+18:29:39:750:lackPrice : 
+18:29:39:750:prepayPrice : 
+18:29:39:750: ------ 응답 목록 끝 ------ 
+18:29:39:751:전체 동작 성공
+18:29:39:751:모든 파싱 종료
+18:29:39:751:
+18:29:39:751: === 13. 요금 정산 API 끝 === 
+18:29:49:731:
+18:29:49:732: === 13. 요금 정산 API 시작 === 
+18:29:49:732:접속 주소 : http://112.216.153.186:2080//api/parking/leave/price
+18:29:49:745:
+18:29:49:746: ------ 파라미터 목록 ------ 
+18:29:49:746:carNo : 99가0001
+18:29:49:746:leaveDate(DateTime) : 2017-04-13 오후 2:00:00
+18:29:49:747:leaveDate(TimeStamp) : 1492059600000
+18:29:49:747:localEquipmentId : 29
+18:29:49:747:image : c:\123123.jpg
+18:29:49:748:isSmallCar : n
+18:29:49:748:localParkingId : 
+18:29:49:748: ------ 파라미터 목록 끝 ------ 
+18:29:50:605:
+18:29:50:606: ------ 응답 목록 ------ 
+18:29:50:606:code : 256
+18:29:50:607:errmsgvariable : nested exception is org.apache.ibatis.exceptions.TooManyResultsException: Expected one result (or null) to be returned by selectOne(), but found: 2
+18:29:50:607:errmsg : 요청에 실패했습니다.
+18:29:50:608:key : ERR_COMMON_GENERAL
+18:29:50:608:parkingType : 
+18:29:50:608:realPrice : 
+18:29:50:609:price : 
+18:29:50:609:discountPrice : 
+18:29:50:609:enterDate(TimeStamp) : 
+18:29:50:610:enterDate(DateTime) : 1970-01-01 오전 9:00:00
+18:29:50:610:durationSecond : 
+18:29:50:610:prePayDiscountInfoId : 
+18:29:50:610:insertPrice : 
+18:29:50:610:recurrence : 
+18:29:50:611:localParkingId : 
+18:29:50:611:lackPrice : 
+18:29:50:611:prepayPrice : 
+18:29:50:611: ------ 응답 목록 끝 ------ 
+18:29:50:612:전체 동작 성공
+18:29:50:612:모든 파싱 종료
+18:29:50:612:
+18:29:50:613: === 13. 요금 정산 API 끝 === 
+19:03:59:448:
+19:03:59:449: === 10. 출차 미인식 차량 목록 시작 === 
+19:03:59:450:접속 주소 : http://192.168.1.100:2080//api/parking/unkown/leave/price
+19:03:59:459:
+19:03:59:460: ------ 파라미터 목록 ------ 
+19:03:59:460:carNo : 9979
+19:03:59:460: ------ 파라미터 목록 끝 ------ 
+19:03:59:705:
+19:03:59:705: ------ 응답 목록 ------ 
+19:03:59:706:code : 0
+19:03:59:707:errmsgvariable : 
+19:03:59:708:errmsg : 
+19:03:59:708:key : ERR_NOERR
+19:03:59:709:
+19:03:59:710: ------ 리스트 ------ 
+19:03:59:711:리스트의 개수 : 1
+19:03:59:712:0번 unknownParkingList -> localParkingId : 6748
+19:03:59:712:0번 unknownParkingList -> url : /enterImage/342_1488781890_CH1_20170306153131_서울84자9979.jpg
+19:03:59:713:0번 unknownParkingList -> width : 960
+19:03:59:713:0번 unknownParkingList -> height : 960
+19:03:59:713:0번 unknownParkingList -> enterDate : 1488781891000
+19:03:59:714:0번 unknownParkingList -> carNo : 서울84자9979
+19:03:59:714: ------ 리스트 끝 ------ 
+19:03:59:714: ------ 응답 목록 끝 ------ 
+19:03:59:714:전체 동작 성공
+19:03:59:715:모든 파싱 종료
+19:03:59:715:
+19:03:59:715: === 10. 출차 미인식 차량 목록 끝 === 
+19:07:03:497:
+19:07:03:498: === 10. 출차 미인식 차량 목록 시작 === 
+19:07:03:499:접속 주소 : http://192.168.1.100:2080//api/parking/unkown/leave/price
+19:07:03:508:
+19:07:03:508: ------ 파라미터 목록 ------ 
+19:07:03:509:carNo : 2018
+19:07:03:509: ------ 파라미터 목록 끝 ------ 
+19:07:03:766:
+19:07:03:767: ------ 응답 목록 ------ 
+19:07:03:767:code : 0
+19:07:03:767:errmsgvariable : 
+19:07:03:768:errmsg : 
+19:07:03:768:key : ERR_NOERR
+19:07:03:768:
+19:07:03:768: ------ 리스트 ------ 
+19:07:03:769:리스트의 개수 : 37
+19:07:03:769:0번 unknownParkingList -> localParkingId : 387
+19:07:03:770:0번 unknownParkingList -> url : /enterImage/342_1485389853_CH1_20170126091742_50하2018.jpg
+19:07:03:770:0번 unknownParkingList -> width : 960
+19:07:03:770:0번 unknownParkingList -> height : 960
+19:07:03:770:0번 unknownParkingList -> enterDate : 1485389862000
+19:07:03:770:0번 unknownParkingList -> carNo : 50하2018
+19:07:03:771:1번 unknownParkingList -> localParkingId : 540
+19:07:03:771:1번 unknownParkingList -> url : /enterImage/342_1485652540_CH1_20170129101543_50하2018.jpg
+19:07:03:771:1번 unknownParkingList -> width : 960
+19:07:03:771:1번 unknownParkingList -> height : 960
+19:07:03:772:1번 unknownParkingList -> enterDate : 1485652543000
+19:07:03:772:1번 unknownParkingList -> carNo : 50하2018
+19:07:03:783:2번 unknownParkingList -> localParkingId : 1525
+19:07:03:784:2번 unknownParkingList -> url : /enterImage/342_1486184743_CH1_20170204140552_50하2018.jpg
+19:07:03:784:2번 unknownParkingList -> width : 960
+19:07:03:785:2번 unknownParkingList -> height : 960
+19:07:03:785:2번 unknownParkingList -> enterDate : 1486184752000
+19:07:03:786:2번 unknownParkingList -> carNo : 50하2018
+19:07:03:787:3번 unknownParkingList -> localParkingId : 1540
+19:07:03:787:3번 unknownParkingList -> url : /enterImage/342_1486276967_CH1_20170205154254_50하2018.jpg
+19:07:03:787:3번 unknownParkingList -> width : 960
+19:07:03:788:3번 unknownParkingList -> height : 960
+19:07:03:788:3번 unknownParkingList -> enterDate : 1486276974000
+19:07:03:789:3번 unknownParkingList -> carNo : 50하2018
+19:07:03:789:4번 unknownParkingList -> localParkingId : 1904
+19:07:03:790:4번 unknownParkingList -> url : /enterImage/342_1486423609_CH1_20170207082650_50하2018.jpg
+19:07:03:790:4번 unknownParkingList -> width : 960
+19:07:03:790:4번 unknownParkingList -> height : 960
+19:07:03:983:4번 unknownParkingList -> enterDate : 1486423610000
+19:07:03:984:4번 unknownParkingList -> carNo : 50하2018
+19:07:03:985:5번 unknownParkingList -> localParkingId : 2271
+19:07:03:985:5번 unknownParkingList -> url : /enterImage/342_1486529974_CH1_20170208135937_50하2018.jpg
+19:07:03:986:5번 unknownParkingList -> width : 960
+19:07:03:987:5번 unknownParkingList -> height : 960
+19:07:03:987:5번 unknownParkingList -> enterDate : 1486529977000
+19:07:03:988:5번 unknownParkingList -> carNo : 50하2018
+19:07:03:988:6번 unknownParkingList -> localParkingId : 2563
+19:07:03:989:6번 unknownParkingList -> url : /enterImage/342_1486623061_CH1_20170209155108_50하2018.jpg
+19:07:03:989:6번 unknownParkingList -> width : 960
+19:07:03:990:6번 unknownParkingList -> height : 960
+19:07:03:990:6번 unknownParkingList -> enterDate : 1486623068000
+19:07:03:990:6번 unknownParkingList -> carNo : 50하2018
+19:07:03:991:7번 unknownParkingList -> localParkingId : 3337
+19:07:04:183:7번 unknownParkingList -> url : /enterImage/342_1487053890_CH1_20170214153132_50하2018.jpg
+19:07:04:184:7번 unknownParkingList -> width : 960
+19:07:04:184:7번 unknownParkingList -> height : 960
+19:07:04:184:7번 unknownParkingList -> enterDate : 1487053892000
+19:07:04:184:7번 unknownParkingList -> carNo : 50하2018
+19:07:04:184:8번 unknownParkingList -> localParkingId : 3601
+19:07:04:185:8번 unknownParkingList -> url : /enterImage/342_1487140542_CH1_20170215153546_50하2018.jpg
+19:07:04:185:8번 unknownParkingList -> width : 960
+19:07:04:185:8번 unknownParkingList -> height : 960
+19:07:04:185:8번 unknownParkingList -> enterDate : 1487140546000
+19:07:04:185:8번 unknownParkingList -> carNo : 50하2018
+19:07:04:186:9번 unknownParkingList -> localParkingId : 3860
+19:07:04:186:9번 unknownParkingList -> url : /enterImage/342_1487229252_CH1_20170216161416_50하2018.jpg
+19:07:04:186:9번 unknownParkingList -> width : 960
+19:07:04:186:9번 unknownParkingList -> height : 960
+19:07:04:186:9번 unknownParkingList -> enterDate : 1487229256000
+19:07:04:383:9번 unknownParkingList -> carNo : 50하2018
+19:07:04:384:10번 unknownParkingList -> localParkingId : 4099
+19:07:04:384:10번 unknownParkingList -> url : /enterImage/342_1487315565_CH1_20170217161248_50하2018.jpg
+19:07:04:384:10번 unknownParkingList -> width : 960
+19:07:04:385:10번 unknownParkingList -> height : 960
+19:07:04:385:10번 unknownParkingList -> enterDate : 1487315568000
+19:07:04:385:10번 unknownParkingList -> carNo : 50하2018
+19:07:04:385:11번 unknownParkingList -> localParkingId : 4625
+19:07:04:386:11번 unknownParkingList -> url : /enterImage/342_1487658580_CH1_20170221152939_50하2018.jpg
+19:07:04:386:11번 unknownParkingList -> width : 960
+19:07:04:386:11번 unknownParkingList -> height : 960
+19:07:04:386:11번 unknownParkingList -> enterDate : 1487658579000
+19:07:04:387:11번 unknownParkingList -> carNo : 50하2018
+19:07:04:387:12번 unknownParkingList -> localParkingId : 4667
+19:07:04:387:12번 unknownParkingList -> url : /enterImage/342_1487669031_CH1_20170221182350_50하2018.jpg
+19:07:04:583:12번 unknownParkingList -> width : 960
+19:07:04:584:12번 unknownParkingList -> height : 960
+19:07:04:585:12번 unknownParkingList -> enterDate : 1487669030000
+19:07:04:585:12번 unknownParkingList -> carNo : 50하2018
+19:07:04:585:13번 unknownParkingList -> localParkingId : 5154
+19:07:04:586:13번 unknownParkingList -> url : /enterImage/342_1487832260_CH1_20170223154418_50하2018.jpg
+19:07:04:586:13번 unknownParkingList -> width : 960
+19:07:04:587:13번 unknownParkingList -> height : 960
+19:07:04:587:13번 unknownParkingList -> enterDate : 1487832258000
+19:07:04:587:13번 unknownParkingList -> carNo : 50하2018
+19:07:04:587:14번 unknownParkingList -> localParkingId : 5416
+19:07:04:588:14번 unknownParkingList -> url : /enterImage/342_1487918697_CH1_20170224154506_50하2018.jpg
+19:07:04:588:14번 unknownParkingList -> width : 960
+19:07:04:589:14번 unknownParkingList -> height : 960
+19:07:04:589:14번 unknownParkingList -> enterDate : 1487918706000
+19:07:04:783:14번 unknownParkingList -> carNo : 50하2018
+19:07:04:784:15번 unknownParkingList -> localParkingId : 5474
+19:07:04:784:15번 unknownParkingList -> url : /enterImage/342_1488097829_CH1_20170226173034_50하2018.jpg
+19:07:04:784:15번 unknownParkingList -> width : 960
+19:07:04:784:15번 unknownParkingList -> height : 960
+19:07:04:784:15번 unknownParkingList -> enterDate : 1488097834000
+19:07:04:785:15번 unknownParkingList -> carNo : 50하2018
+19:07:04:785:16번 unknownParkingList -> localParkingId : 5702
+19:07:04:785:16번 unknownParkingList -> url : /enterImage/342_1488176004_CH1_20170227151328_50하2018.jpg
+19:07:04:785:16번 unknownParkingList -> width : 960
+19:07:04:786:16번 unknownParkingList -> height : 960
+19:07:04:786:16번 unknownParkingList -> enterDate : 1488176008000
+19:07:04:786:16번 unknownParkingList -> carNo : 50하2018
+19:07:04:786:17번 unknownParkingList -> localParkingId : 5953
+19:07:04:786:17번 unknownParkingList -> url : /enterImage/342_1488261153_CH1_20170228145237_50하2018.jpg
+19:07:04:983:17번 unknownParkingList -> width : 960
+19:07:04:984:17번 unknownParkingList -> height : 960
+19:07:04:984:17번 unknownParkingList -> enterDate : 1488261157000
+19:07:04:984:17번 unknownParkingList -> carNo : 50하2018
+19:07:04:984:18번 unknownParkingList -> localParkingId : 6228
+19:07:04:984:18번 unknownParkingList -> url : /enterImage/342_1488441021_CH1_20170302165022_50하2018.jpg
+19:07:04:985:18번 unknownParkingList -> width : 960
+19:07:04:985:18번 unknownParkingList -> height : 960
+19:07:04:985:18번 unknownParkingList -> enterDate : 1488441022000
+19:07:04:985:18번 unknownParkingList -> carNo : 50하2018
+19:07:04:986:19번 unknownParkingList -> localParkingId : 6733
+19:07:04:986:19번 unknownParkingList -> url : /enterImage/342_1488779923_CH1_20170306145843_50하2018.jpg
+19:07:04:986:19번 unknownParkingList -> width : 960
+19:07:04:986:19번 unknownParkingList -> height : 960
+19:07:04:986:19번 unknownParkingList -> enterDate : 1488779923000
+19:07:04:987:19번 unknownParkingList -> carNo : 50하2018
+19:07:05:183:20번 unknownParkingList -> localParkingId : 6753
+19:07:05:184:20번 unknownParkingList -> url : /enterImage/342_1488782786_CH1_20170306154627_50하2018.jpg
+19:07:05:184:20번 unknownParkingList -> width : 960
+19:07:05:184:20번 unknownParkingList -> height : 960
+19:07:05:184:20번 unknownParkingList -> enterDate : 1488782787000
+19:07:05:185:20번 unknownParkingList -> carNo : 50하2018
+19:07:05:185:21번 unknownParkingList -> localParkingId : 6995
+19:07:05:185:21번 unknownParkingList -> url : /enterImage/342_1488862834_CH1_20170307140037_50하2018.jpg
+19:07:05:185:21번 unknownParkingList -> width : 960
+19:07:05:185:21번 unknownParkingList -> height : 960
+19:07:05:186:21번 unknownParkingList -> enterDate : 1488862837000
+19:07:05:186:21번 unknownParkingList -> carNo : 50하2018
+19:07:05:186:22번 unknownParkingList -> localParkingId : 7579
+19:07:05:186:22번 unknownParkingList -> url : /enterImage/342_1489039471_CH1_20170309150438_50하2018.jpg
+19:07:05:186:22번 unknownParkingList -> width : 960
+19:07:05:383:22번 unknownParkingList -> height : 960
+19:07:05:384:22번 unknownParkingList -> enterDate : 1489039478000
+19:07:05:384:22번 unknownParkingList -> carNo : 50하2018
+19:07:05:384:23번 unknownParkingList -> localParkingId : 7868
+19:07:05:384:23번 unknownParkingList -> url : /enterImage/342_1489134441_CH1_20170310172731_50하2018.jpg
+19:07:05:385:23번 unknownParkingList -> width : 960
+19:07:05:385:23번 unknownParkingList -> height : 960
+19:07:05:385:23번 unknownParkingList -> enterDate : 1489134451000
+19:07:05:385:23번 unknownParkingList -> carNo : 50하2018
+19:07:05:386:24번 unknownParkingList -> localParkingId : 7880
+19:07:05:386:24번 unknownParkingList -> url : /enterImage/342_1489137647_CH1_20170310182057_50하2018.jpg
+19:07:05:386:24번 unknownParkingList -> width : 960
+19:07:05:386:24번 unknownParkingList -> height : 960
+19:07:05:387:24번 unknownParkingList -> enterDate : 1489137657000
+19:07:05:387:24번 unknownParkingList -> carNo : 50하2018
+19:07:05:387:25번 unknownParkingList -> localParkingId : 8159
+19:07:05:583:25번 unknownParkingList -> url : /enterImage/342_1489390704_CH1_20170313163826_50하2018.jpg
+19:07:05:585:25번 unknownParkingList -> width : 960
+19:07:05:585:25번 unknownParkingList -> height : 960
+19:07:05:585:25번 unknownParkingList -> enterDate : 1489390706000
+19:07:05:585:25번 unknownParkingList -> carNo : 50하2018
+19:07:05:586:26번 unknownParkingList -> localParkingId : 8409
+19:07:05:586:26번 unknownParkingList -> url : /enterImage/342_1489475294_CH1_20170314160818_50하2018.jpg
+19:07:05:586:26번 unknownParkingList -> width : 960
+19:07:05:586:26번 unknownParkingList -> height : 960
+19:07:05:587:26번 unknownParkingList -> enterDate : 1489475298000
+19:07:05:587:26번 unknownParkingList -> carNo : 50하2018
+19:07:05:589:27번 unknownParkingList -> localParkingId : 8697
+19:07:05:589:27번 unknownParkingList -> url : /enterImage/342_1489605341_CH1_20170316041547_50하2018.jpg
+19:07:05:589:27번 unknownParkingList -> width : 960
+19:07:05:590:27번 unknownParkingList -> height : 960
+19:07:05:783:27번 unknownParkingList -> enterDate : 1489605347000
+19:07:05:784:27번 unknownParkingList -> carNo : 50하2018
+19:07:05:784:28번 unknownParkingList -> localParkingId : 8838
+19:07:05:784:28번 unknownParkingList -> url : /enterImage/342_1489630875_CH1_20170316112123_50하2018.jpg
+19:07:05:785:28번 unknownParkingList -> width : 960
+19:07:05:785:28번 unknownParkingList -> height : 960
+19:07:05:785:28번 unknownParkingList -> enterDate : 1489630883000
+19:07:05:785:28번 unknownParkingList -> carNo : 50하2018
+19:07:05:786:29번 unknownParkingList -> localParkingId : 9100
+19:07:05:786:29번 unknownParkingList -> url : /enterImage/342_1489722714_CH1_20170317125201_50하2018.jpg
+19:07:05:786:29번 unknownParkingList -> width : 960
+19:07:05:787:29번 unknownParkingList -> height : 960
+19:07:05:787:29번 unknownParkingList -> enterDate : 1489722721000
+19:07:05:787:29번 unknownParkingList -> carNo : 50하2018
+19:07:05:788:30번 unknownParkingList -> localParkingId : 9139
+19:07:05:983:30번 unknownParkingList -> url : /enterImage/342_1489733285_CH1_20170317154816_50하2018.jpg
+19:07:05:984:30번 unknownParkingList -> width : 960
+19:07:05:984:30번 unknownParkingList -> height : 960
+19:07:05:984:30번 unknownParkingList -> enterDate : 1489733296000
+19:07:05:984:30번 unknownParkingList -> carNo : 50하2018
+19:07:05:985:31번 unknownParkingList -> localParkingId : 9470
+19:07:05:985:31번 unknownParkingList -> url : /enterImage/342_1489993440_CH1_20170320160400_50하2018.jpg
+19:07:05:985:31번 unknownParkingList -> width : 960
+19:07:05:986:31번 unknownParkingList -> height : 960
+19:07:05:986:31번 unknownParkingList -> enterDate : 1489993440000
+19:07:05:986:31번 unknownParkingList -> carNo : 50하2018
+19:07:05:986:32번 unknownParkingList -> localParkingId : 9906
+19:07:05:987:32번 unknownParkingList -> url : /enterImage/342_1490142656_CH1_20170322093100_50하2018.jpg
+19:07:05:987:32번 unknownParkingList -> width : 960
+19:07:05:987:32번 unknownParkingList -> height : 960
+19:07:06:183:32번 unknownParkingList -> enterDate : 1490142660000
+19:07:06:184:32번 unknownParkingList -> carNo : 50하2018
+19:07:06:184:33번 unknownParkingList -> localParkingId : 9939
+19:07:06:184:33번 unknownParkingList -> url : /enterImage/342_1490148627_CH1_20170322111031_50하2018.jpg
+19:07:06:184:33번 unknownParkingList -> width : 960
+19:07:06:185:33번 unknownParkingList -> height : 960
+19:07:06:185:33번 unknownParkingList -> enterDate : 1490148631000
+19:07:06:185:33번 unknownParkingList -> carNo : 50하2018
+19:07:06:185:34번 unknownParkingList -> localParkingId : 10055
+19:07:06:186:34번 unknownParkingList -> url : /enterImage/342_1490172348_CH1_20170322174553_50하2018.jpg
+19:07:06:186:34번 unknownParkingList -> width : 960
+19:07:06:186:34번 unknownParkingList -> height : 960
+19:07:06:186:34번 unknownParkingList -> enterDate : 1490172353000
+19:07:06:186:34번 unknownParkingList -> carNo : 50하2018
+19:07:06:187:35번 unknownParkingList -> localParkingId : 10315
+19:07:06:187:35번 unknownParkingList -> url : /enterImage/342_1490255372_CH1_20170323164937_50하2018.jpg
+19:07:06:383:35번 unknownParkingList -> width : 960
+19:07:06:384:35번 unknownParkingList -> height : 960
+19:07:06:384:35번 unknownParkingList -> enterDate : 1490255377000
+19:07:06:384:35번 unknownParkingList -> carNo : 50하2018
+19:07:06:384:36번 unknownParkingList -> localParkingId : 10817
+19:07:06:385:36번 unknownParkingList -> url : /enterImage/342_1490587370_CH1_20170327130257_50하2018.jpg
+19:07:06:385:36번 unknownParkingList -> width : 960
+19:07:06:385:36번 unknownParkingList -> height : 960
+19:07:06:386:36번 unknownParkingList -> enterDate : 1490587377000
+19:07:06:386:36번 unknownParkingList -> carNo : 50하2018
+19:07:06:386: ------ 리스트 끝 ------ 
+19:07:06:386: ------ 응답 목록 끝 ------ 
+19:07:06:386:전체 동작 성공
+19:07:06:387:모든 파싱 종료
+19:07:06:387:
+19:07:06:387: === 10. 출차 미인식 차량 목록 끝 === 
+19:07:38:691:
+19:07:38:692: === 10. 출차 미인식 차량 목록 시작 === 
+19:07:38:692:접속 주소 : http://192.168.1.100:2080//api/parking/unkown/leave/price
+19:07:38:700:
+19:07:38:700: ------ 파라미터 목록 ------ 
+19:07:38:701:carNo : 2018
+19:07:38:702: ------ 파라미터 목록 끝 ------ 
+19:07:38:902:
+19:07:38:903: ------ 응답 목록 ------ 
+19:07:38:903:code : 0
+19:07:38:903:errmsgvariable : 
+19:07:38:904:errmsg : 
+19:07:38:904:key : ERR_NOERR
+19:07:38:904:
+19:07:38:905: ------ 리스트 ------ 
+19:07:38:905:리스트의 개수 : 37
+19:07:38:905:0번 unknownParkingList -> localParkingId : 387
+19:07:38:906:0번 unknownParkingList -> url : /enterImage/342_1485389853_CH1_20170126091742_50하2018.jpg
+19:07:38:906:0번 unknownParkingList -> width : 960
+19:07:38:906:0번 unknownParkingList -> height : 960
+19:07:38:906:0번 unknownParkingList -> enterDate : 1485389862000
+19:07:38:907:0번 unknownParkingList -> carNo : 50하2018
+19:07:38:907:1번 unknownParkingList -> localParkingId : 540
+19:07:38:907:1번 unknownParkingList -> url : /enterImage/342_1485652540_CH1_20170129101543_50하2018.jpg
+19:07:38:907:1번 unknownParkingList -> width : 960
+19:07:38:907:1번 unknownParkingList -> height : 960
+19:07:38:908:1번 unknownParkingList -> enterDate : 1485652543000
+19:07:38:908:1번 unknownParkingList -> carNo : 50하2018
+19:07:38:921:2번 unknownParkingList -> localParkingId : 1525
+19:07:38:921:2번 unknownParkingList -> url : /enterImage/342_1486184743_CH1_20170204140552_50하2018.jpg
+19:07:38:922:2번 unknownParkingList -> width : 960
+19:07:38:922:2번 unknownParkingList -> height : 960
+19:07:38:922:2번 unknownParkingList -> enterDate : 1486184752000
+19:07:38:922:2번 unknownParkingList -> carNo : 50하2018
+19:07:38:922:3번 unknownParkingList -> localParkingId : 1540
+19:07:38:923:3번 unknownParkingList -> url : /enterImage/342_1486276967_CH1_20170205154254_50하2018.jpg
+19:07:38:923:3번 unknownParkingList -> width : 960
+19:07:38:923:3번 unknownParkingList -> height : 960
+19:07:38:923:3번 unknownParkingList -> enterDate : 1486276974000
+19:07:38:924:3번 unknownParkingList -> carNo : 50하2018
+19:07:38:924:4번 unknownParkingList -> localParkingId : 1904
+19:07:38:924:4번 unknownParkingList -> url : /enterImage/342_1486423609_CH1_20170207082650_50하2018.jpg
+19:07:38:924:4번 unknownParkingList -> width : 960
+19:07:38:925:4번 unknownParkingList -> height : 960
+19:07:39:121:4번 unknownParkingList -> enterDate : 1486423610000
+19:07:39:122:4번 unknownParkingList -> carNo : 50하2018
+19:07:39:123:5번 unknownParkingList -> localParkingId : 2271
+19:07:39:123:5번 unknownParkingList -> url : /enterImage/342_1486529974_CH1_20170208135937_50하2018.jpg
+19:07:39:123:5번 unknownParkingList -> width : 960
+19:07:39:123:5번 unknownParkingList -> height : 960
+19:07:39:124:5번 unknownParkingList -> enterDate : 1486529977000
+19:07:39:124:5번 unknownParkingList -> carNo : 50하2018
+19:07:39:124:6번 unknownParkingList -> localParkingId : 2563
+19:07:39:124:6번 unknownParkingList -> url : /enterImage/342_1486623061_CH1_20170209155108_50하2018.jpg
+19:07:39:125:6번 unknownParkingList -> width : 960
+19:07:39:125:6번 unknownParkingList -> height : 960
+19:07:39:125:6번 unknownParkingList -> enterDate : 1486623068000
+19:07:39:125:6번 unknownParkingList -> carNo : 50하2018
+19:07:39:126:7번 unknownParkingList -> localParkingId : 3337
+19:07:39:321:7번 unknownParkingList -> url : /enterImage/342_1487053890_CH1_20170214153132_50하2018.jpg
+19:07:39:321:7번 unknownParkingList -> width : 960
+19:07:39:322:7번 unknownParkingList -> height : 960
+19:07:39:322:7번 unknownParkingList -> enterDate : 1487053892000
+19:07:39:322:7번 unknownParkingList -> carNo : 50하2018
+19:07:39:323:8번 unknownParkingList -> localParkingId : 3601
+19:07:39:323:8번 unknownParkingList -> url : /enterImage/342_1487140542_CH1_20170215153546_50하2018.jpg
+19:07:39:323:8번 unknownParkingList -> width : 960
+19:07:39:324:8번 unknownParkingList -> height : 960
+19:07:39:324:8번 unknownParkingList -> enterDate : 1487140546000
+19:07:39:324:8번 unknownParkingList -> carNo : 50하2018
+19:07:39:324:9번 unknownParkingList -> localParkingId : 3860
+19:07:39:325:9번 unknownParkingList -> url : /enterImage/342_1487229252_CH1_20170216161416_50하2018.jpg
+19:07:39:325:9번 unknownParkingList -> width : 960
+19:07:39:325:9번 unknownParkingList -> height : 960
+19:07:39:325:9번 unknownParkingList -> enterDate : 1487229256000
+19:07:39:521:9번 unknownParkingList -> carNo : 50하2018
+19:07:39:521:10번 unknownParkingList -> localParkingId : 4099
+19:07:39:522:10번 unknownParkingList -> url : /enterImage/342_1487315565_CH1_20170217161248_50하2018.jpg
+19:07:39:522:10번 unknownParkingList -> width : 960
+19:07:39:522:10번 unknownParkingList -> height : 960
+19:07:39:522:10번 unknownParkingList -> enterDate : 1487315568000
+19:07:39:523:10번 unknownParkingList -> carNo : 50하2018
+19:07:39:523:11번 unknownParkingList -> localParkingId : 4625
+19:07:39:523:11번 unknownParkingList -> url : /enterImage/342_1487658580_CH1_20170221152939_50하2018.jpg
+19:07:39:523:11번 unknownParkingList -> width : 960
+19:07:39:523:11번 unknownParkingList -> height : 960
+19:07:39:524:11번 unknownParkingList -> enterDate : 1487658579000
+19:07:39:524:11번 unknownParkingList -> carNo : 50하2018
+19:07:39:524:12번 unknownParkingList -> localParkingId : 4667
+19:07:39:524:12번 unknownParkingList -> url : /enterImage/342_1487669031_CH1_20170221182350_50하2018.jpg
+19:07:39:721:12번 unknownParkingList -> width : 960
+19:07:39:721:12번 unknownParkingList -> height : 960
+19:07:39:722:12번 unknownParkingList -> enterDate : 1487669030000
+19:07:39:722:12번 unknownParkingList -> carNo : 50하2018
+19:07:39:723:13번 unknownParkingList -> localParkingId : 5154
+19:07:39:723:13번 unknownParkingList -> url : /enterImage/342_1487832260_CH1_20170223154418_50하2018.jpg
+19:07:39:723:13번 unknownParkingList -> width : 960
+19:07:39:724:13번 unknownParkingList -> height : 960
+19:07:39:724:13번 unknownParkingList -> enterDate : 1487832258000
+19:07:39:724:13번 unknownParkingList -> carNo : 50하2018
+19:07:39:725:14번 unknownParkingList -> localParkingId : 5416
+19:07:39:725:14번 unknownParkingList -> url : /enterImage/342_1487918697_CH1_20170224154506_50하2018.jpg
+19:07:39:725:14번 unknownParkingList -> width : 960
+19:07:39:726:14번 unknownParkingList -> height : 960
+19:07:39:726:14번 unknownParkingList -> enterDate : 1487918706000
+19:07:39:921:14번 unknownParkingList -> carNo : 50하2018
+19:07:39:921:15번 unknownParkingList -> localParkingId : 5474
+19:07:39:922:15번 unknownParkingList -> url : /enterImage/342_1488097829_CH1_20170226173034_50하2018.jpg
+19:07:39:922:15번 unknownParkingList -> width : 960
+19:07:39:923:15번 unknownParkingList -> height : 960
+19:07:39:923:15번 unknownParkingList -> enterDate : 1488097834000
+19:07:39:923:15번 unknownParkingList -> carNo : 50하2018
+19:07:39:924:16번 unknownParkingList -> localParkingId : 5702
+19:07:39:924:16번 unknownParkingList -> url : /enterImage/342_1488176004_CH1_20170227151328_50하2018.jpg
+19:07:39:925:16번 unknownParkingList -> width : 960
+19:07:39:925:16번 unknownParkingList -> height : 960
+19:07:39:926:16번 unknownParkingList -> enterDate : 1488176008000
+19:07:39:926:16번 unknownParkingList -> carNo : 50하2018
+19:07:39:926:17번 unknownParkingList -> localParkingId : 5953
+19:07:39:927:17번 unknownParkingList -> url : /enterImage/342_1488261153_CH1_20170228145237_50하2018.jpg
+19:07:40:121:17번 unknownParkingList -> width : 960
+19:07:40:121:17번 unknownParkingList -> height : 960
+19:07:40:121:17번 unknownParkingList -> enterDate : 1488261157000
+19:07:40:122:17번 unknownParkingList -> carNo : 50하2018
+19:07:40:122:18번 unknownParkingList -> localParkingId : 6228
+19:07:40:122:18번 unknownParkingList -> url : /enterImage/342_1488441021_CH1_20170302165022_50하2018.jpg
+19:07:40:122:18번 unknownParkingList -> width : 960
+19:07:40:123:18번 unknownParkingList -> height : 960
+19:07:40:123:18번 unknownParkingList -> enterDate : 1488441022000
+19:07:40:123:18번 unknownParkingList -> carNo : 50하2018
+19:07:40:123:19번 unknownParkingList -> localParkingId : 6733
+19:07:40:124:19번 unknownParkingList -> url : /enterImage/342_1488779923_CH1_20170306145843_50하2018.jpg
+19:07:40:124:19번 unknownParkingList -> width : 960
+19:07:40:124:19번 unknownParkingList -> height : 960
+19:07:40:124:19번 unknownParkingList -> enterDate : 1488779923000
+19:07:40:124:19번 unknownParkingList -> carNo : 50하2018
+19:07:40:322:20번 unknownParkingList -> localParkingId : 6753
+19:07:40:322:20번 unknownParkingList -> url : /enterImage/342_1488782786_CH1_20170306154627_50하2018.jpg
+19:07:40:323:20번 unknownParkingList -> width : 960
+19:07:40:323:20번 unknownParkingList -> height : 960
+19:07:40:324:20번 unknownParkingList -> enterDate : 1488782787000
+19:07:40:324:20번 unknownParkingList -> carNo : 50하2018
+19:07:40:324:21번 unknownParkingList -> localParkingId : 6995
+19:07:40:325:21번 unknownParkingList -> url : /enterImage/342_1488862834_CH1_20170307140037_50하2018.jpg
+19:07:40:325:21번 unknownParkingList -> width : 960
+19:07:40:325:21번 unknownParkingList -> height : 960
+19:07:40:325:21번 unknownParkingList -> enterDate : 1488862837000
+19:07:40:326:21번 unknownParkingList -> carNo : 50하2018
+19:07:40:326:22번 unknownParkingList -> localParkingId : 7579
+19:07:40:326:22번 unknownParkingList -> url : /enterImage/342_1489039471_CH1_20170309150438_50하2018.jpg
+19:07:40:326:22번 unknownParkingList -> width : 960
+19:07:40:521:22번 unknownParkingList -> height : 960
+19:07:40:521:22번 unknownParkingList -> enterDate : 1489039478000
+19:07:40:522:22번 unknownParkingList -> carNo : 50하2018
+19:07:40:523:23번 unknownParkingList -> localParkingId : 7868
+19:07:40:523:23번 unknownParkingList -> url : /enterImage/342_1489134441_CH1_20170310172731_50하2018.jpg
+19:07:40:523:23번 unknownParkingList -> width : 960
+19:07:40:523:23번 unknownParkingList -> height : 960
+19:07:40:524:23번 unknownParkingList -> enterDate : 1489134451000
+19:07:40:524:23번 unknownParkingList -> carNo : 50하2018
+19:07:40:524:24번 unknownParkingList -> localParkingId : 7880
+19:07:40:524:24번 unknownParkingList -> url : /enterImage/342_1489137647_CH1_20170310182057_50하2018.jpg
+19:07:40:524:24번 unknownParkingList -> width : 960
+19:07:40:525:24번 unknownParkingList -> height : 960
+19:07:40:527:24번 unknownParkingList -> enterDate : 1489137657000
+19:07:40:527:24번 unknownParkingList -> carNo : 50하2018
+19:07:40:528:25번 unknownParkingList -> localParkingId : 8159
+19:07:40:721:25번 unknownParkingList -> url : /enterImage/342_1489390704_CH1_20170313163826_50하2018.jpg
+19:07:40:721:25번 unknownParkingList -> width : 960
+19:07:40:722:25번 unknownParkingList -> height : 960
+19:07:40:722:25번 unknownParkingList -> enterDate : 1489390706000
+19:07:40:722:25번 unknownParkingList -> carNo : 50하2018
+19:07:40:722:26번 unknownParkingList -> localParkingId : 8409
+19:07:40:723:26번 unknownParkingList -> url : /enterImage/342_1489475294_CH1_20170314160818_50하2018.jpg
+19:07:40:723:26번 unknownParkingList -> width : 960
+19:07:40:723:26번 unknownParkingList -> height : 960
+19:07:40:723:26번 unknownParkingList -> enterDate : 1489475298000
+19:07:40:724:26번 unknownParkingList -> carNo : 50하2018
+19:07:40:724:27번 unknownParkingList -> localParkingId : 8697
+19:07:40:724:27번 unknownParkingList -> url : /enterImage/342_1489605341_CH1_20170316041547_50하2018.jpg
+19:07:40:724:27번 unknownParkingList -> width : 960
+19:07:40:725:27번 unknownParkingList -> height : 960
+19:07:40:921:27번 unknownParkingList -> enterDate : 1489605347000
+19:07:40:921:27번 unknownParkingList -> carNo : 50하2018
+19:07:40:921:28번 unknownParkingList -> localParkingId : 8838
+19:07:40:922:28번 unknownParkingList -> url : /enterImage/342_1489630875_CH1_20170316112123_50하2018.jpg
+19:07:40:922:28번 unknownParkingList -> width : 960
+19:07:40:922:28번 unknownParkingList -> height : 960
+19:07:40:922:28번 unknownParkingList -> enterDate : 1489630883000
+19:07:40:922:28번 unknownParkingList -> carNo : 50하2018
+19:07:40:923:29번 unknownParkingList -> localParkingId : 9100
+19:07:40:923:29번 unknownParkingList -> url : /enterImage/342_1489722714_CH1_20170317125201_50하2018.jpg
+19:07:40:923:29번 unknownParkingList -> width : 960
+19:07:40:923:29번 unknownParkingList -> height : 960
+19:07:40:924:29번 unknownParkingList -> enterDate : 1489722721000
+19:07:40:924:29번 unknownParkingList -> carNo : 50하2018
+19:07:40:924:30번 unknownParkingList -> localParkingId : 9139
+19:07:41:121:30번 unknownParkingList -> url : /enterImage/342_1489733285_CH1_20170317154816_50하2018.jpg
+19:07:41:121:30번 unknownParkingList -> width : 960
+19:07:41:121:30번 unknownParkingList -> height : 960
+19:07:41:122:30번 unknownParkingList -> enterDate : 1489733296000
+19:07:41:122:30번 unknownParkingList -> carNo : 50하2018
+19:07:41:122:31번 unknownParkingList -> localParkingId : 9470
+19:07:41:123:31번 unknownParkingList -> url : /enterImage/342_1489993440_CH1_20170320160400_50하2018.jpg
+19:07:41:123:31번 unknownParkingList -> width : 960
+19:07:41:123:31번 unknownParkingList -> height : 960
+19:07:41:123:31번 unknownParkingList -> enterDate : 1489993440000
+19:07:41:124:31번 unknownParkingList -> carNo : 50하2018
+19:07:41:124:32번 unknownParkingList -> localParkingId : 9906
+19:07:41:124:32번 unknownParkingList -> url : /enterImage/342_1490142656_CH1_20170322093100_50하2018.jpg
+19:07:41:124:32번 unknownParkingList -> width : 960
+19:07:41:125:32번 unknownParkingList -> height : 960
+19:07:41:321:32번 unknownParkingList -> enterDate : 1490142660000
+19:07:41:321:32번 unknownParkingList -> carNo : 50하2018
+19:07:41:321:33번 unknownParkingList -> localParkingId : 9939
+19:07:41:322:33번 unknownParkingList -> url : /enterImage/342_1490148627_CH1_20170322111031_50하2018.jpg
+19:07:41:322:33번 unknownParkingList -> width : 960
+19:07:41:323:33번 unknownParkingList -> height : 960
+19:07:41:323:33번 unknownParkingList -> enterDate : 1490148631000
+19:07:41:323:33번 unknownParkingList -> carNo : 50하2018
+19:07:41:323:34번 unknownParkingList -> localParkingId : 10055
+19:07:41:323:34번 unknownParkingList -> url : /enterImage/342_1490172348_CH1_20170322174553_50하2018.jpg
+19:07:41:324:34번 unknownParkingList -> width : 960
+19:07:41:324:34번 unknownParkingList -> height : 960
+19:07:41:324:34번 unknownParkingList -> enterDate : 1490172353000
+19:07:41:324:34번 unknownParkingList -> carNo : 50하2018
+19:07:41:324:35번 unknownParkingList -> localParkingId : 10315
+19:07:41:325:35번 unknownParkingList -> url : /enterImage/342_1490255372_CH1_20170323164937_50하2018.jpg
+19:07:41:521:35번 unknownParkingList -> width : 960
+19:07:41:521:35번 unknownParkingList -> height : 960
+19:07:41:522:35번 unknownParkingList -> enterDate : 1490255377000
+19:07:41:522:35번 unknownParkingList -> carNo : 50하2018
+19:07:41:523:36번 unknownParkingList -> localParkingId : 10817
+19:07:41:523:36번 unknownParkingList -> url : /enterImage/342_1490587370_CH1_20170327130257_50하2018.jpg
+19:07:41:524:36번 unknownParkingList -> width : 960
+19:07:41:524:36번 unknownParkingList -> height : 960
+19:07:41:525:36번 unknownParkingList -> enterDate : 1490587377000
+19:07:41:525:36번 unknownParkingList -> carNo : 50하2018
+19:07:41:526: ------ 리스트 끝 ------ 
+19:07:41:526: ------ 응답 목록 끝 ------ 
+19:07:41:526:전체 동작 성공
+19:07:41:527:모든 파싱 종료
+19:07:41:527:
+19:07:41:528: === 10. 출차 미인식 차량 목록 끝 === 
+19:41:00:498:
+19:41:00:500: === 13. 요금 정산 API 시작 === 
+19:41:00:501:접속 주소 : http://112.216.153.186:2080//api/parking/leave/price
+19:41:00:564:
+19:41:00:564: ------ 파라미터 목록 ------ 
+19:41:00:565:carNo : 99가0001
+19:41:00:566:leaveDate(DateTime) : 2017-04-13 오후 2:00:00
+19:41:00:566:leaveDate(TimeStamp) : 1492059600000
+19:41:00:567:localEquipmentId : 29
+19:41:00:568:image : c:\123123.jpg
+19:41:00:568:isSmallCar : n
+19:41:00:569:localParkingId : 
+19:41:00:569: ------ 파라미터 목록 끝 ------ 
+19:41:01:702:
+19:41:01:703: ------ 응답 목록 ------ 
+19:41:01:703:code : 0
+19:41:01:703:errmsgvariable : 
+19:41:01:703:errmsg : 
+19:41:01:703:key : ERR_NOERR
+19:41:01:704:parkingType : recurrence
+19:41:01:704:realPrice : 0
+19:41:01:704:price : 0
+19:41:01:704:discountPrice : 0
+19:41:01:705:enterDate(TimeStamp) : 1491922800000
+19:41:01:705:enterDate(DateTime) : 2017-04-12 오전 12:00:00
+19:41:01:705:durationSecond : 0
+19:41:01:705:prePayDiscountInfoId : 
+19:41:01:706:insertPrice : 0
+19:41:01:706:recurrence : 
+19:41:01:706:localParkingId : 
+19:41:01:706:lackPrice : 
+19:41:01:706:prepayPrice : 0
+19:41:01:707: ------ 응답 목록 끝 ------ 
+19:41:01:707:전체 동작 성공
+19:41:01:707:모든 파싱 종료
+19:41:01:707:
+19:41:01:707: === 13. 요금 정산 API 끝 === 
+19:42:36:457:
+19:42:36:458: === 13. 요금 정산 API 시작 === 
+19:42:36:458:접속 주소 : http://112.216.153.186:2080//api/parking/leave/price
+19:42:36:470:
+19:42:36:471: ------ 파라미터 목록 ------ 
+19:42:36:471:carNo : 99가0001
+19:42:36:473:leaveDate(DateTime) : 2017-04-13 오후 4:00:00
+19:42:36:473:leaveDate(TimeStamp) : 1492066800000
+19:42:36:474:localEquipmentId : 29
+19:42:36:474:image : c:\123123.jpg
+19:42:36:475:isSmallCar : n
+19:42:36:476:localParkingId : 
+19:42:36:476: ------ 파라미터 목록 끝 ------ 
+19:42:37:199:
+19:42:37:200: ------ 응답 목록 ------ 
+19:42:37:202:code : 0
+19:42:37:202:errmsgvariable : 
+19:42:37:202:errmsg : 
+19:42:37:203:key : ERR_NOERR
+19:42:37:203:parkingType : recurrence
+19:42:37:203:realPrice : 0
+19:42:37:204:price : 0
+19:42:37:204:discountPrice : 0
+19:42:37:204:enterDate(TimeStamp) : 1491922800000
+19:42:37:205:enterDate(DateTime) : 2017-04-12 오전 12:00:00
+19:42:37:205:durationSecond : 0
+19:42:37:205:prePayDiscountInfoId : 
+19:42:37:206:insertPrice : 0
+19:42:37:206:recurrence : 
+19:42:37:206:localParkingId : 
+19:42:37:206:lackPrice : 
+19:42:37:207:prepayPrice : 0
+19:42:37:207: ------ 응답 목록 끝 ------ 
+19:42:37:207:전체 동작 성공
+19:42:37:207:모든 파싱 종료
+19:42:37:208:
+19:42:37:208: === 13. 요금 정산 API 끝 === 
+19:43:33:223:
+19:43:33:224: === 13. 요금 정산 API 시작 === 
+19:43:33:224:접속 주소 : http://112.216.153.186:2080//api/parking/leave/price
+19:43:33:234:
+19:43:33:234: ------ 파라미터 목록 ------ 
+19:43:33:235:carNo : 99가0001
+19:43:33:235:leaveDate(DateTime) : 2017-04-13 오후 4:00:00
+19:43:33:236:leaveDate(TimeStamp) : 1492066800000
+19:43:33:236:localEquipmentId : 29
+19:43:33:236:image : c:\123123.jpg
+19:43:33:236:isSmallCar : n
+19:43:33:237:localParkingId : 
+19:43:33:237: ------ 파라미터 목록 끝 ------ 
+19:43:33:824:
+19:43:33:825: ------ 응답 목록 ------ 
+19:43:33:825:code : 0
+19:43:33:826:errmsgvariable : 
+19:43:33:827:errmsg : 
+19:43:33:827:key : ERR_NOERR
+19:43:33:828:parkingType : recurrence
+19:43:33:828:realPrice : 0
+19:43:33:829:price : 0
+19:43:33:830:discountPrice : 0
+19:43:33:830:enterDate(TimeStamp) : 1491922800000
+19:43:33:831:enterDate(DateTime) : 2017-04-12 오전 12:00:00
+19:43:33:832:durationSecond : 0
+19:43:33:832:prePayDiscountInfoId : 
+19:43:33:833:insertPrice : 0
+19:43:33:834:recurrence : 
+19:43:33:835:localParkingId : 
+19:43:33:835:lackPrice : 
+19:43:33:835:prepayPrice : 0
+19:43:33:836: ------ 응답 목록 끝 ------ 
+19:43:33:836:전체 동작 성공
+19:43:33:836:모든 파싱 종료
+19:43:33:837:
+19:43:33:837: === 13. 요금 정산 API 끝 === 
+19:44:29:809:
+19:44:29:809: === 13. 요금 정산 API 시작 === 
+19:44:29:810:접속 주소 : http://192.168.1.100:2080//api/parking/leave/price
+19:44:29:819:
+19:44:29:820: ------ 파라미터 목록 ------ 
+19:44:29:820:carNo : 12가9977
+19:44:29:820:leaveDate(DateTime) : 2017-04-13 오후 4:00:00
+19:44:29:821:leaveDate(TimeStamp) : 1492066800000
+19:44:29:821:localEquipmentId : 29
+19:44:29:821:image : c:\123123.jpg
+19:44:29:822:isSmallCar : n
+19:44:29:822:localParkingId : 
+19:44:29:822: ------ 파라미터 목록 끝 ------ 
+19:44:30:063:
+19:44:30:064: ------ 응답 목록 ------ 
+19:44:30:064:code : 0
+19:44:30:065:errmsgvariable : 
+19:44:30:065:errmsg : 
+19:44:30:066:key : ERR_NOERR
+19:44:30:066:parkingType : 
+19:44:30:067:realPrice : 
+19:44:30:068:price : 
+19:44:30:069:discountPrice : 
+19:44:30:069:enterDate(TimeStamp) : 
+19:44:30:070:enterDate(DateTime) : 1970-01-01 오전 9:00:00
+19:44:30:071:durationSecond : 
+19:44:30:072:prePayDiscountInfoId : 
+19:44:30:072:insertPrice : 
+19:44:30:073:recurrence : 
+19:44:30:073:localParkingId : 
+19:44:30:074:lackPrice : 
+19:44:30:074:prepayPrice : 
+19:44:30:075: ------ 응답 목록 끝 ------ 
+19:44:30:075:전체 동작 성공
+19:44:30:076:모든 파싱 종료
+19:44:30:076:
+19:44:30:077: === 13. 요금 정산 API 끝 === 
+19:45:16:371:
+19:45:16:372: === 13. 요금 정산 API 시작 === 
+19:45:16:372:접속 주소 : http://192.168.1.100:2080//api/parking/leave/price
+19:45:16:374:
+19:45:16:375: ------ 파라미터 목록 ------ 
+19:45:16:375:carNo : 12가9977
+19:45:16:376:leaveDate(DateTime) : 2017-04-13 오후 4:00:00
+19:45:16:376:leaveDate(TimeStamp) : 1492066800000
+19:45:16:376:localEquipmentId : 29
+19:45:16:377:image : c:\123123.jpg
+19:45:16:377:isSmallCar : n
+19:45:16:377:localParkingId : 
+19:45:16:378: ------ 파라미터 목록 끝 ------ 
+19:45:16:430:
+19:45:16:430: ------ 응답 목록 ------ 
+19:45:16:431:code : 0
+19:45:16:431:errmsgvariable : 
+19:45:16:431:errmsg : 
+19:45:16:431:key : ERR_NOERR
+19:45:16:432:parkingType : 
+19:45:16:432:realPrice : 
+19:45:16:432:price : 
+19:45:16:433:discountPrice : 
+19:45:16:433:enterDate(TimeStamp) : 
+19:45:16:434:enterDate(DateTime) : 1970-01-01 오전 9:00:00
+19:45:16:434:durationSecond : 
+19:45:16:434:prePayDiscountInfoId : 
+19:45:16:435:insertPrice : 
+19:45:16:435:recurrence : 
+19:45:16:435:localParkingId : 
+19:45:16:435:lackPrice : 
+19:45:16:435:prepayPrice : 
+19:45:16:573: ------ 응답 목록 끝 ------ 
+19:45:16:573:전체 동작 성공
+19:45:16:573:모든 파싱 종료
+19:45:16:574:
+19:45:16:574: === 13. 요금 정산 API 끝 === 
+19:45:29:437:
+19:45:29:438: === 13. 요금 정산 API 시작 === 
+19:45:29:439:접속 주소 : http://192.168.1.100:2080//api/parking/leave/price
+19:45:29:449:
+19:45:29:449: ------ 파라미터 목록 ------ 
+19:45:29:450:carNo : 12가9977
+19:45:29:450:leaveDate(DateTime) : 2017-04-13 오후 4:00:00
+19:45:29:451:leaveDate(TimeStamp) : 1492066800000
+19:45:29:452:localEquipmentId : 29
+19:45:29:452:image : c:\123123.jpg
+19:45:29:453:isSmallCar : n
+19:45:29:454:localParkingId : 
+19:45:29:454: ------ 파라미터 목록 끝 ------ 
+19:45:29:676:
+19:45:29:676: ------ 응답 목록 ------ 
+19:45:29:677:code : 0
+19:45:29:677:errmsgvariable : 
+19:45:29:678:errmsg : 
+19:45:29:678:key : ERR_NOERR
+19:45:29:679:parkingType : 
+19:45:29:679:realPrice : 
+19:45:29:680:price : 
+19:45:29:681:discountPrice : 
+19:45:29:681:enterDate(TimeStamp) : 
+19:45:29:682:enterDate(DateTime) : 1970-01-01 오전 9:00:00
+19:45:29:683:durationSecond : 
+19:45:29:684:prePayDiscountInfoId : 
+19:45:29:684:insertPrice : 
+19:45:29:684:recurrence : 
+19:45:29:685:localParkingId : 
+19:45:29:686:lackPrice : 
+19:45:29:686:prepayPrice : 
+19:45:29:686: ------ 응답 목록 끝 ------ 
+19:45:29:687:전체 동작 성공
+19:45:29:687:모든 파싱 종료
+19:45:29:688:
+19:45:29:688: === 13. 요금 정산 API 끝 === 
+19:46:26:714:
+19:46:26:715: === 13. 요금 정산 API 시작 === 
+19:46:26:716:접속 주소 : http://192.168.1.100:2080//api/parking/leave/price
+19:46:26:727:
+19:46:26:728: ------ 파라미터 목록 ------ 
+19:46:26:729:carNo : 12가8585
+19:46:26:730:leaveDate(DateTime) : 2017-04-13 오후 4:00:00
+19:46:26:731:leaveDate(TimeStamp) : 1492066800000
+19:46:26:731:localEquipmentId : 29
+19:46:26:732:image : c:\123123.jpg
+19:46:26:733:isSmallCar : n
+19:46:26:733:localParkingId : 
+19:46:26:734: ------ 파라미터 목록 끝 ------ 
+19:46:27:039:
+19:46:27:040: ------ 응답 목록 ------ 
+19:46:27:040:code : 256
+19:46:27:041:errmsgvariable : 
+19:46:27:042:errmsg : 요청에 실패했습니다.
+19:46:27:042:key : ERR_COMMON_GENERAL
+19:46:27:043:parkingType : 
+19:46:27:043:realPrice : 
+19:46:27:044:price : 
+19:46:27:044:discountPrice : 
+19:46:27:045:enterDate(TimeStamp) : 
+19:46:27:046:enterDate(DateTime) : 1970-01-01 오전 9:00:00
+19:46:27:046:durationSecond : 
+19:46:27:047:prePayDiscountInfoId : 
+19:46:27:047:insertPrice : 
+19:46:27:048:recurrence : 
+19:46:27:048:localParkingId : 
+19:46:27:049:lackPrice : 
+19:46:27:050:prepayPrice : 
+19:46:27:050: ------ 응답 목록 끝 ------ 
+19:46:27:051:전체 동작 성공
+19:46:27:052:모든 파싱 종료
+19:46:27:052:
+19:46:27:053: === 13. 요금 정산 API 끝 === 
+19:46:44:368:
+19:46:44:369: === 13. 요금 정산 API 시작 === 
+19:46:44:370:접속 주소 : http://192.168.1.100:2080//api/parking/leave/price
+19:46:44:381:
+19:46:44:382: ------ 파라미터 목록 ------ 
+19:46:44:382:carNo : 12가8585
+19:46:44:382:leaveDate(DateTime) : 2017-04-13 오후 4:00:00
+19:46:44:382:leaveDate(TimeStamp) : 1492066800000
+19:46:44:383:localEquipmentId : 1
+19:46:44:383:image : c:\123123.jpg
+19:46:44:383:isSmallCar : n
+19:46:44:383:localParkingId : 
+19:46:44:384: ------ 파라미터 목록 끝 ------ 
+19:46:47:756:
+19:46:47:757: ------ 응답 목록 ------ 
+19:46:47:757:code : 0
+19:46:47:758:errmsgvariable : 
+19:46:47:758:errmsg : 
+19:46:47:758:key : ERR_NOERR
+19:46:47:758:parkingType : normal
+19:46:47:759:realPrice : 1234000
+19:46:47:759:price : 1234000
+19:46:47:759:discountPrice : 0
+19:46:47:759:enterDate(TimeStamp) : 1491836400000
+19:46:47:760:enterDate(DateTime) : 2017-04-11 오전 12:00:00
+19:46:47:760:durationSecond : 230400
+19:46:47:761:prePayDiscountInfoId : 
+19:46:47:761:insertPrice : 0
+19:46:47:761:recurrence : 
+19:46:47:762:localParkingId : 
+19:46:47:762:lackPrice : 
+19:46:47:762:prepayPrice : 0
+19:46:47:762: ------ 응답 목록 끝 ------ 
+19:46:47:777:전체 동작 성공
+19:46:47:777:모든 파싱 종료
+19:46:47:777:
+19:46:47:778: === 13. 요금 정산 API 끝 === 
+19:47:39:903:
+19:47:39:904: === 13. 요금 정산 API 시작 === 
+19:47:39:905:접속 주소 : http://112.216.153.186:2080//api/parking/leave/price
+19:47:39:917:
+19:47:39:918: ------ 파라미터 목록 ------ 
+19:47:39:918:carNo : 12가0001
+19:47:39:919:leaveDate(DateTime) : 2017-04-13 오후 4:00:00
+19:47:39:920:leaveDate(TimeStamp) : 1492066800000
+19:47:39:920:localEquipmentId : 29
+19:47:39:921:image : c:\123123.jpg
+19:47:39:922:isSmallCar : n
+19:47:39:922:localParkingId : 
+19:47:39:923: ------ 파라미터 목록 끝 ------ 
+19:47:40:222:
+19:47:40:223: ------ 응답 목록 ------ 
+19:47:40:224:code : 1287
+19:47:40:224:errmsgvariable : 
+19:47:40:225:errmsg : 입차정보가 없는 차량입니다.
+19:47:40:226:key : ERR_LMS_NOT_ENTER_CAR
+19:47:40:226:parkingType : 
+19:47:40:227:realPrice : 
+19:47:40:227:price : 
+19:47:40:228:discountPrice : 
+19:47:40:229:enterDate(TimeStamp) : 
+19:47:40:230:enterDate(DateTime) : 1970-01-01 오전 9:00:00
+19:47:40:231:durationSecond : 
+19:47:40:231:prePayDiscountInfoId : 
+19:47:40:232:insertPrice : 
+19:47:40:232:recurrence : 
+19:47:40:233:localParkingId : 
+19:47:40:234:lackPrice : 
+19:47:40:234:prepayPrice : 
+19:47:40:235: ------ 응답 목록 끝 ------ 
+19:47:40:235:전체 동작 성공
+19:47:40:236:모든 파싱 종료
+19:47:40:236:
+19:47:40:237: === 13. 요금 정산 API 끝 === 
+19:48:03:046:
+19:48:03:047: === 13. 요금 정산 API 시작 === 
+19:48:03:048:접속 주소 : http://112.216.153.186:2080//api/parking/leave/price
+19:48:03:058:
+19:48:03:059: ------ 파라미터 목록 ------ 
+19:48:03:059:carNo : 99가0001
+19:48:03:060:leaveDate(DateTime) : 2017-04-13 오후 4:00:00
+19:48:03:060:leaveDate(TimeStamp) : 1492066800000
+19:48:03:060:localEquipmentId : 29
+19:48:03:061:image : c:\123123.jpg
+19:48:03:061:isSmallCar : n
+19:48:03:061:localParkingId : 
+19:48:03:062: ------ 파라미터 목록 끝 ------ 
+19:48:03:710:
+19:48:03:710: ------ 응답 목록 ------ 
+19:48:03:710:code : 0
+19:48:03:711:errmsgvariable : 
+19:48:03:711:errmsg : 
+19:48:03:711:key : ERR_NOERR
+19:48:03:711:parkingType : recurrence
+19:48:03:712:realPrice : 0
+19:48:03:712:price : 0
+19:48:03:712:discountPrice : 0
+19:48:03:712:enterDate(TimeStamp) : 1491922800000
+19:48:03:713:enterDate(DateTime) : 2017-04-12 오전 12:00:00
+19:48:03:713:durationSecond : 0
+19:48:03:713:prePayDiscountInfoId : 
+19:48:03:713:insertPrice : 0
+19:48:03:714:recurrence : 
+19:48:03:714:localParkingId : 
+19:48:03:714:lackPrice : 
+19:48:03:714:prepayPrice : 0
+19:48:03:714: ------ 응답 목록 끝 ------ 
+19:48:03:715:전체 동작 성공
+19:48:03:715:모든 파싱 종료
+19:48:03:715:
+19:48:03:716: === 13. 요금 정산 API 끝 === 
+19:49:50:504:
+19:49:50:506: === 13. 요금 정산 API 시작 === 
+19:49:50:507:접속 주소 : http://112.216.153.186:2080//api/parking/leave/price
+19:49:50:520:
+19:49:50:520: ------ 파라미터 목록 ------ 
+19:49:50:521:carNo : 99가0001
+19:49:50:522:leaveDate(DateTime) : 2017-04-13 오후 4:00:00
+19:49:50:522:leaveDate(TimeStamp) : 1492066800000
+19:49:50:523:localEquipmentId : 29
+19:49:50:523:image : c:\123123.jpg
+19:49:50:523:isSmallCar : n
+19:49:50:524:localParkingId : 
+19:49:50:525: ------ 파라미터 목록 끝 ------ 
+19:49:51:184:
+19:49:51:184: ------ 응답 목록 ------ 
+19:49:51:185:code : 0
+19:49:51:186:errmsgvariable : 
+19:49:51:186:errmsg : 
+19:49:51:186:key : ERR_NOERR
+19:49:51:186:parkingType : recurrence
+19:49:51:187:realPrice : 0
+19:49:51:187:price : 0
+19:49:51:188:discountPrice : 0
+19:49:51:189:enterDate(TimeStamp) : 1491922800000
+19:49:51:190:enterDate(DateTime) : 2017-04-12 오전 12:00:00
+19:49:51:190:durationSecond : 0
+19:49:51:190:prePayDiscountInfoId : 
+19:49:51:191:insertPrice : 0
+19:49:51:191:recurrence : 
+19:49:51:192:localParkingId : 
+19:49:51:192:lackPrice : 
+19:49:51:192:prepayPrice : 0
+19:49:51:193: ------ 응답 목록 끝 ------ 
+19:49:51:193:전체 동작 성공
+19:49:51:193:모든 파싱 종료
+19:49:51:194:
+19:49:51:194: === 13. 요금 정산 API 끝 === 
+19:51:30:029:
+19:51:30:030: === 13. 요금 정산 API 시작 === 
+19:51:30:031:접속 주소 : http://112.216.153.186:2080//api/parking/leave/price
+19:51:30:039:
+19:51:30:040: ------ 파라미터 목록 ------ 
+19:51:30:040:carNo : 99가0002
+19:51:30:040:leaveDate(DateTime) : 2017-04-13 오후 4:00:00
+19:51:30:041:leaveDate(TimeStamp) : 1492066800000
+19:51:30:041:localEquipmentId : 29
+19:51:30:041:image : c:\123123.jpg
+19:51:30:041:isSmallCar : n
+19:51:30:042:localParkingId : 
+19:51:30:042: ------ 파라미터 목록 끝 ------ 
+19:51:30:625:
+19:51:30:626: ------ 응답 목록 ------ 
+19:51:30:626:code : 0
+19:51:30:626:errmsgvariable : 
+19:51:30:627:errmsg : 
+19:51:30:627:key : ERR_NOERR
+19:51:30:627:parkingType : recurrence
+19:51:30:628:realPrice : 0
+19:51:30:628:price : 0
+19:51:30:628:discountPrice : 0
+19:51:30:628:enterDate(TimeStamp) : 1491922800000
+19:51:30:629:enterDate(DateTime) : 2017-04-12 오전 12:00:00
+19:51:30:629:durationSecond : 0
+19:51:30:629:prePayDiscountInfoId : 
+19:51:30:630:insertPrice : 0
+19:51:30:630:recurrence : 
+19:51:30:630:localParkingId : 
+19:51:30:630:lackPrice : 
+19:51:30:631:prepayPrice : 0
+19:51:30:631: ------ 응답 목록 끝 ------ 
+19:51:30:631:전체 동작 성공
+19:51:30:631:모든 파싱 종료
+19:51:30:632:
+19:51:30:632: === 13. 요금 정산 API 끝 === 
+19:52:48:907:
+19:52:48:907: === 13. 요금 정산 API 시작 === 
+19:52:48:908:접속 주소 : http://112.216.153.186:2080//api/parking/leave/price
+19:52:48:920:
+19:52:48:921: ------ 파라미터 목록 ------ 
+19:52:48:922:carNo : 99가0002
+19:52:48:923:leaveDate(DateTime) : 2017-04-13 오후 4:00:00
+19:52:48:923:leaveDate(TimeStamp) : 1492066800000
+19:52:48:924:localEquipmentId : 1
+19:52:48:924:image : c:\123123.jpg
+19:52:48:925:isSmallCar : n
+19:52:48:926:localParkingId : 
+19:52:48:926: ------ 파라미터 목록 끝 ------ 
+19:52:49:211:
+19:52:49:211: ------ 응답 목록 ------ 
+19:52:49:212:code : 256
+19:52:49:212:errmsgvariable : 
+19:52:49:213:errmsg : 요청에 실패했습니다.
+19:52:49:213:key : ERR_COMMON_GENERAL
+19:52:49:213:parkingType : 
+19:52:49:213:realPrice : 
+19:52:49:214:price : 
+19:52:49:214:discountPrice : 
+19:52:49:214:enterDate(TimeStamp) : 
+19:52:49:215:enterDate(DateTime) : 1970-01-01 오전 9:00:00
+19:52:49:215:durationSecond : 
+19:52:49:215:prePayDiscountInfoId : 
+19:52:49:216:insertPrice : 
+19:52:49:216:recurrence : 
+19:52:49:216:localParkingId : 
+19:52:49:217:lackPrice : 
+19:52:49:217:prepayPrice : 
+19:52:49:217: ------ 응답 목록 끝 ------ 
+19:52:49:218:전체 동작 성공
+19:52:49:218:모든 파싱 종료
+19:52:49:219:
+19:52:49:219: === 13. 요금 정산 API 끝 === 

@@ -1,0 +1,84 @@
+c:\users\aj_jin\documents\visual studio 2012\Projects\test_api\test_api\bin\Debug\test_api.exe.config
+c:\users\aj_jin\documents\visual studio 2012\Projects\test_api\test_api\obj\Debug\test_api.csprojResolveAssemblyReference.cache
+c:\users\aj_jin\documents\visual studio 2012\Projects\test_api\test_api\obj\Debug\test_api.Form1.resources
+c:\users\aj_jin\documents\visual studio 2012\Projects\test_api\test_api\obj\Debug\test_api.Properties.Resources.resources
+c:\users\aj_jin\documents\visual studio 2012\Projects\test_api\test_api\obj\Debug\test_api.csproj.GenerateResource.Cache
+c:\users\aj_jin\documents\visual studio 2012\Projects\test_api\test_api\bin\Debug\test_api.exe
+c:\users\aj_jin\documents\visual studio 2012\Projects\test_api\test_api\bin\Debug\test_api.pdb
+c:\users\aj_jin\documents\visual studio 2012\Projects\test_api\test_api\bin\Debug\AJDataBase.dll
+c:\users\aj_jin\documents\visual studio 2012\Projects\test_api\test_api\bin\Debug\AJDataClass.dll
+c:\users\aj_jin\documents\visual studio 2012\Projects\test_api\test_api\bin\Debug\Newtonsoft.Json.dll
+c:\users\aj_jin\documents\visual studio 2012\Projects\test_api\test_api\bin\Debug\RestSharp.dll
+c:\users\aj_jin\documents\visual studio 2012\Projects\test_api\test_api\bin\Debug\AJEnums.dll
+c:\users\aj_jin\documents\visual studio 2012\Projects\test_api\test_api\bin\Debug\AJDataBase.pdb
+c:\users\aj_jin\documents\visual studio 2012\Projects\test_api\test_api\bin\Debug\AJDataClass.pdb
+c:\users\aj_jin\documents\visual studio 2012\Projects\test_api\test_api\bin\Debug\Newtonsoft.Json.pdb
+c:\users\aj_jin\documents\visual studio 2012\Projects\test_api\test_api\bin\Debug\Newtonsoft.Json.xml
+c:\users\aj_jin\documents\visual studio 2012\Projects\test_api\test_api\bin\Debug\RestSharp.xml
+c:\users\aj_jin\documents\visual studio 2012\Projects\test_api\test_api\bin\Debug\AJEnums.pdb
+c:\users\aj_jin\documents\visual studio 2012\Projects\test_api\test_api\obj\Debug\test_api.exe
+c:\users\aj_jin\documents\visual studio 2012\Projects\test_api\test_api\obj\Debug\test_api.pdb
+C:\Users\AJ_JIN\Documents\Visual Studio 2012\Projects\test_api\test_api\bin\Debug\AJCommon.dll
+C:\Users\AJ_JIN\Documents\Visual Studio 2012\Projects\test_api\test_api\bin\Debug\AJLog.dll
+C:\Users\AJ_JIN\Documents\Visual Studio 2012\Projects\test_api\test_api\bin\Debug\AJCommon.pdb
+C:\Users\AJ_JIN\Documents\Visual Studio 2012\Projects\test_api\test_api\bin\Debug\AJLog.pdb
+C:\토렌트\1. 파일저장\Jin_Shared\업무 공유 파일\회사에서 집으로\test_api\test_api\bin\Debug\test_api.exe.config
+C:\토렌트\1. 파일저장\Jin_Shared\업무 공유 파일\회사에서 집으로\test_api\test_api\obj\Debug\test_api.exe
+C:\토렌트\1. 파일저장\Jin_Shared\업무 공유 파일\회사에서 집으로\test_api\test_api\obj\Debug\test_api.pdb
+C:\토렌트\1. 파일저장\Jin_Shared\업무 공유 파일\회사에서 집으로\test_api\test_api\obj\Debug\test_api.csprojResolveAssemblyReference.cache
+C:\토렌트\1. 파일저장\Jin_Shared\업무 공유 파일\회사에서 집으로\test_api\test_api\obj\Debug\test_api.Form1.resources
+C:\토렌트\1. 파일저장\Jin_Shared\업무 공유 파일\회사에서 집으로\test_api\test_api\obj\Debug\test_api.Properties.Resources.resources
+C:\토렌트\1. 파일저장\Jin_Shared\업무 공유 파일\회사에서 집으로\test_api\test_api\obj\Debug\test_api.csproj.GenerateResource.Cache
+C:\토렌트\1. 파일저장\Jin_Shared\업무 공유 파일\회사에서 집으로\test_api\test_api\bin\Debug\test_api.exe
+C:\토렌트\1. 파일저장\Jin_Shared\업무 공유 파일\회사에서 집으로\test_api\test_api\bin\Debug\test_api.pdb
+C:\토렌트\1. 파일저장\Jin_Shared\업무 공유 파일\회사에서 집으로\test_api\test_api\bin\Debug\AJCommon.dll
+C:\토렌트\1. 파일저장\Jin_Shared\업무 공유 파일\회사에서 집으로\test_api\test_api\bin\Debug\AJDataBase.dll
+C:\토렌트\1. 파일저장\Jin_Shared\업무 공유 파일\회사에서 집으로\test_api\test_api\bin\Debug\AJDataClass.dll
+C:\토렌트\1. 파일저장\Jin_Shared\업무 공유 파일\회사에서 집으로\test_api\test_api\bin\Debug\AJLog.dll
+C:\토렌트\1. 파일저장\Jin_Shared\업무 공유 파일\회사에서 집으로\test_api\test_api\bin\Debug\AJEnums.dll
+C:\토렌트\1. 파일저장\Jin_Shared\업무 공유 파일\회사에서 집으로\test_api\test_api\bin\Debug\AJCommon.pdb
+C:\토렌트\1. 파일저장\Jin_Shared\업무 공유 파일\회사에서 집으로\test_api\test_api\bin\Debug\AJDataBase.pdb
+C:\토렌트\1. 파일저장\Jin_Shared\업무 공유 파일\회사에서 집으로\test_api\test_api\bin\Debug\AJDataClass.pdb
+C:\토렌트\1. 파일저장\Jin_Shared\업무 공유 파일\회사에서 집으로\test_api\test_api\bin\Debug\Newtonsoft.Json.pdb
+C:\토렌트\1. 파일저장\Jin_Shared\업무 공유 파일\회사에서 집으로\test_api\test_api\bin\Debug\Newtonsoft.Json.xml
+C:\토렌트\1. 파일저장\Jin_Shared\업무 공유 파일\회사에서 집으로\test_api\test_api\bin\Debug\RestSharp.xml
+C:\토렌트\1. 파일저장\Jin_Shared\업무 공유 파일\회사에서 집으로\test_api\test_api\bin\Debug\AJLog.pdb
+C:\토렌트\1. 파일저장\Jin_Shared\업무 공유 파일\회사에서 집으로\test_api\test_api\bin\Debug\AJEnums.pdb
+C:\Users\AJ_JIN\Desktop\AJ_PL\test_api\test_api\obj\Debug\test_api.csprojResolveAssemblyReference.cache
+C:\Users\AJ_JIN\Desktop\AJ_PL\test_api\test_api\obj\Debug\test_api.Form1.resources
+C:\Users\AJ_JIN\Desktop\AJ_PL\test_api\test_api\obj\Debug\test_api.Properties.Resources.resources
+C:\Users\AJ_JIN\Desktop\AJ_PL\test_api\test_api\obj\Debug\test_api.csproj.GenerateResource.Cache
+C:\Users\AJ_JIN\Desktop\AJ_PL\test_api\test_api\bin\Debug\test_api.exe.config
+C:\Users\AJ_JIN\Desktop\AJ_PL\test_api\test_api\bin\Debug\test_api.exe
+C:\Users\AJ_JIN\Desktop\AJ_PL\test_api\test_api\bin\Debug\test_api.pdb
+C:\Users\AJ_JIN\Desktop\AJ_PL\test_api\test_api\bin\Debug\AJCommon.dll
+C:\Users\AJ_JIN\Desktop\AJ_PL\test_api\test_api\bin\Debug\AJDataBase.dll
+C:\Users\AJ_JIN\Desktop\AJ_PL\test_api\test_api\bin\Debug\AJDataClass.dll
+C:\Users\AJ_JIN\Desktop\AJ_PL\test_api\test_api\bin\Debug\AJLog.dll
+C:\Users\AJ_JIN\Desktop\AJ_PL\test_api\test_api\bin\Debug\AJEnums.dll
+C:\Users\AJ_JIN\Desktop\AJ_PL\test_api\test_api\bin\Debug\AJCommon.pdb
+C:\Users\AJ_JIN\Desktop\AJ_PL\test_api\test_api\bin\Debug\AJDataBase.pdb
+C:\Users\AJ_JIN\Desktop\AJ_PL\test_api\test_api\bin\Debug\AJDataClass.pdb
+C:\Users\AJ_JIN\Desktop\AJ_PL\test_api\test_api\bin\Debug\AJLog.pdb
+C:\Users\AJ_JIN\Desktop\AJ_PL\test_api\test_api\bin\Debug\AJEnums.pdb
+C:\Users\AJ_JIN\Desktop\AJ_PL\test_api\test_api\obj\Debug\test_api.exe
+C:\Users\AJ_JIN\Desktop\AJ_PL\test_api\test_api\obj\Debug\test_api.pdb
+C:\Users\AJ_JIN\Desktop\AJ_PL_TEMP_2\170502_유인정산기\AJ_PL_TEMP\test_api_0518\test_api\bin\Debug\test_api.exe.config
+C:\Users\AJ_JIN\Desktop\AJ_PL_TEMP_2\170502_유인정산기\AJ_PL_TEMP\test_api_0518\test_api\bin\Debug\test_api.exe
+C:\Users\AJ_JIN\Desktop\AJ_PL_TEMP_2\170502_유인정산기\AJ_PL_TEMP\test_api_0518\test_api\bin\Debug\test_api.pdb
+C:\Users\AJ_JIN\Desktop\AJ_PL_TEMP_2\170502_유인정산기\AJ_PL_TEMP\test_api_0518\test_api\bin\Debug\AJCommon.dll
+C:\Users\AJ_JIN\Desktop\AJ_PL_TEMP_2\170502_유인정산기\AJ_PL_TEMP\test_api_0518\test_api\bin\Debug\AJDataBase.dll
+C:\Users\AJ_JIN\Desktop\AJ_PL_TEMP_2\170502_유인정산기\AJ_PL_TEMP\test_api_0518\test_api\bin\Debug\AJDataClass.dll
+C:\Users\AJ_JIN\Desktop\AJ_PL_TEMP_2\170502_유인정산기\AJ_PL_TEMP\test_api_0518\test_api\bin\Debug\AJLog.dll
+C:\Users\AJ_JIN\Desktop\AJ_PL_TEMP_2\170502_유인정산기\AJ_PL_TEMP\test_api_0518\test_api\bin\Debug\AJEnums.dll
+C:\Users\AJ_JIN\Desktop\AJ_PL_TEMP_2\170502_유인정산기\AJ_PL_TEMP\test_api_0518\test_api\bin\Debug\AJCommon.pdb
+C:\Users\AJ_JIN\Desktop\AJ_PL_TEMP_2\170502_유인정산기\AJ_PL_TEMP\test_api_0518\test_api\bin\Debug\AJDataBase.pdb
+C:\Users\AJ_JIN\Desktop\AJ_PL_TEMP_2\170502_유인정산기\AJ_PL_TEMP\test_api_0518\test_api\bin\Debug\AJDataClass.pdb
+C:\Users\AJ_JIN\Desktop\AJ_PL_TEMP_2\170502_유인정산기\AJ_PL_TEMP\test_api_0518\test_api\bin\Debug\AJLog.pdb
+C:\Users\AJ_JIN\Desktop\AJ_PL_TEMP_2\170502_유인정산기\AJ_PL_TEMP\test_api_0518\test_api\bin\Debug\AJEnums.pdb
+C:\Users\AJ_JIN\Desktop\AJ_PL_TEMP_2\170502_유인정산기\AJ_PL_TEMP\test_api_0518\test_api\obj\Debug\test_api.csprojResolveAssemblyReference.cache
+C:\Users\AJ_JIN\Desktop\AJ_PL_TEMP_2\170502_유인정산기\AJ_PL_TEMP\test_api_0518\test_api\obj\Debug\test_api.Form1.resources
+C:\Users\AJ_JIN\Desktop\AJ_PL_TEMP_2\170502_유인정산기\AJ_PL_TEMP\test_api_0518\test_api\obj\Debug\test_api.Properties.Resources.resources
+C:\Users\AJ_JIN\Desktop\AJ_PL_TEMP_2\170502_유인정산기\AJ_PL_TEMP\test_api_0518\test_api\obj\Debug\test_api.csproj.GenerateResource.Cache
+C:\Users\AJ_JIN\Desktop\AJ_PL_TEMP_2\170502_유인정산기\AJ_PL_TEMP\test_api_0518\test_api\obj\Debug\test_api.exe
+C:\Users\AJ_JIN\Desktop\AJ_PL_TEMP_2\170502_유인정산기\AJ_PL_TEMP\test_api_0518\test_api\obj\Debug\test_api.pdb

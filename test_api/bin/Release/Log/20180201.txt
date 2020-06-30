@@ -1,0 +1,411 @@
+20:27:51:150:
+20:27:51:151: === 11. 입차 API 시작 === 
+20:27:51:151:접속 주소 : http://://api/parking/enter/insert
+20:27:51:189:동작 실패
+20:27:51:190:-e : System.UriFormatException: 잘못된 URI: 호스트 이름을 구문 분석할 수 없습니다.
+   위치: System.Uri.CreateThis(String uri, Boolean dontEscape, UriKind uriKind)
+   위치: System.Uri..ctor(String uriString)
+   위치: RestSharp.RestClient..ctor(String baseUrl)
+   위치: AJParkLib.AJDataBase.AJWebDatabase.temp_name_12(String carNo, String image, DateTime enterDate, Int32 localEquipmentId, String isSmallCar) 파일 d:\진남_일지\날짜별\18년 1월\AJPL - 복사본\AJDataBase\AJWebDatabase.cs:줄 3454
+20:27:51:355:-e.StackTrace :    위치: System.Uri.CreateThis(String uri, Boolean dontEscape, UriKind uriKind)
+   위치: System.Uri..ctor(String uriString)
+   위치: RestSharp.RestClient..ctor(String baseUrl)
+   위치: AJParkLib.AJDataBase.AJWebDatabase.temp_name_12(String carNo, String image, DateTime enterDate, Int32 localEquipmentId, String isSmallCar) 파일 d:\진남_일지\날짜별\18년 1월\AJPL - 복사본\AJDataBase\AJWebDatabase.cs:줄 3454
+20:27:51:356:모든 파싱 종료
+20:27:51:356:
+20:27:51:357: === 11. 입차 API 끝 ===
+20:28:13:452:
+20:28:13:453: === 11. 입차 API 시작 === 
+20:28:13:453:접속 주소 : http://192.10.60.101:2080//api/parking/enter/insert
+20:28:13:475:동작 실패
+20:28:13:476:-e : System.IO.FileNotFoundException: 'c:\123123.jpg' 파일을 찾을 수 없습니다.
+파일 이름: 'c:\123123.jpg'
+   위치: System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   위치: System.IO.FileInfo.get_Length()
+   위치: RestSharp.RestRequest.AddFile(String name, String path, String contentType)
+   위치: AJParkLib.AJDataBase.AJWebDatabase.temp_name_12(String carNo, String image, DateTime enterDate, Int32 localEquipmentId, String isSmallCar) 파일 d:\진남_일지\날짜별\18년 1월\AJPL - 복사본\AJDataBase\AJWebDatabase.cs:줄 3459
+20:28:13:476:-e.StackTrace :    위치: System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   위치: System.IO.FileInfo.get_Length()
+   위치: RestSharp.RestRequest.AddFile(String name, String path, String contentType)
+   위치: AJParkLib.AJDataBase.AJWebDatabase.temp_name_12(String carNo, String image, DateTime enterDate, Int32 localEquipmentId, String isSmallCar) 파일 d:\진남_일지\날짜별\18년 1월\AJPL - 복사본\AJDataBase\AJWebDatabase.cs:줄 3459
+20:28:13:675:모든 파싱 종료
+20:28:13:675:
+20:28:13:676: === 11. 입차 API 끝 ===
+20:28:33:346:
+20:28:33:947: === 11. 입차 API 시작 === 
+20:28:34:114:접속 주소 : http://192.10.60.101:2080//api/parking/enter/insert
+20:29:02:536:동작 실패
+20:29:02:536:-e : System.IO.FileNotFoundException: 'c:\123123.jpg' 파일을 찾을 수 없습니다.
+파일 이름: 'c:\123123.jpg'
+   위치: System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   위치: System.IO.FileInfo.get_Length()
+   위치: RestSharp.RestRequest.AddFile(String name, String path, String contentType)
+   위치: AJParkLib.AJDataBase.AJWebDatabase.temp_name_12(String carNo, String image, DateTime enterDate, Int32 localEquipmentId, String isSmallCar) 파일 d:\진남_일지\날짜별\18년 1월\AJPL - 복사본\AJDataBase\AJWebDatabase.cs:줄 3459
+20:29:02:537:-e.StackTrace :    위치: System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   위치: System.IO.FileInfo.get_Length()
+   위치: RestSharp.RestRequest.AddFile(String name, String path, String contentType)
+   위치: AJParkLib.AJDataBase.AJWebDatabase.temp_name_12(String carNo, String image, DateTime enterDate, Int32 localEquipmentId, String isSmallCar) 파일 d:\진남_일지\날짜별\18년 1월\AJPL - 복사본\AJDataBase\AJWebDatabase.cs:줄 3459
+20:29:02:565:모든 파싱 종료
+20:29:02:566:
+20:29:02:566: === 11. 입차 API 끝 ===
+20:29:04:554:
+20:29:04:554: === 11. 입차 API 시작 === 
+20:29:04:555:접속 주소 : http://192.10.60.101:2080//api/parking/enter/insert
+20:29:09:698:
+20:29:09:698: ------ 파라미터 목록 ------ 
+20:29:09:699:carNo : 99테9999
+20:29:09:699:image : c:\123123.jpg
+20:29:09:699:enterDate(DateTime) : 2017-12-04 오후 3:05:05
+20:29:09:699:enterDate(TimeStamp) : 1512367505000
+20:29:09:700:localEquipmentId : 1
+20:29:09:700:isSmallCar : n
+20:29:09:700: ------ 파라미터 목록 끝 ------ 
+20:29:10:480:
+20:29:10:481: ------ 응답 목록 ------ 
+20:29:10:481:code : 0
+20:29:10:481:errmsgvariable : 
+20:29:10:482:errmsg : 
+20:29:10:482:key : ERR_NOERR
+20:29:10:482: ------ 응답 목록 끝 ------ 
+20:29:10:482:전체 동작 성공
+20:29:10:483:모든 파싱 종료
+20:29:10:483:
+20:29:10:484: === 11. 입차 API 끝 ===
+20:31:02:000:
+20:31:02:001: === 11. 입차 API 시작 === 
+20:31:02:001:접속 주소 : http://192.10.60.101:2080//api/parking/enter/insert
+20:31:02:003:
+20:31:02:004: ------ 파라미터 목록 ------ 
+20:31:02:004:carNo : 99테9999
+20:31:02:004:image : c:\123123.jpg
+20:31:02:004:enterDate(DateTime) : 2017-12-04 오후 3:05:05
+20:31:02:004:enterDate(TimeStamp) : 1512367505000
+20:31:02:005:localEquipmentId : 1
+20:31:02:005:isSmallCar : n
+20:31:02:005: ------ 파라미터 목록 끝 ------ 
+20:31:02:416:
+20:31:02:416: ------ 응답 목록 ------ 
+20:31:02:417:code : 0
+20:31:02:417:errmsgvariable : 
+20:31:02:417:errmsg : 
+20:31:02:418:key : ERR_NOERR
+20:31:02:418: ------ 응답 목록 끝 ------ 
+20:31:02:418:전체 동작 성공
+20:31:02:419:모든 파싱 종료
+20:31:02:419:
+20:31:02:419: === 11. 입차 API 끝 ===
+20:33:36:193:
+20:33:36:194: === 11. 입차 API 시작 === 
+20:33:36:194:접속 주소 : http://192.10.60.101:2080//api/parking/enter/insert
+20:33:36:195:
+20:33:36:196: ------ 파라미터 목록 ------ 
+20:33:36:196:carNo : 99테9999
+20:33:36:196:image : c:\123123.jpg
+20:33:36:197:enterDate(DateTime) : 2017-12-04 오후 3:05:05
+20:33:36:197:enterDate(TimeStamp) : 1512367505000
+20:33:36:197:localEquipmentId : 1
+20:33:36:198:isSmallCar : n
+20:33:36:198: ------ 파라미터 목록 끝 ------ 
+20:33:36:639:
+20:33:36:640: ------ 응답 목록 ------ 
+20:33:36:640:code : 0
+20:33:36:641:errmsgvariable : 
+20:33:36:641:errmsg : 
+20:33:36:641:key : ERR_NOERR
+20:33:36:642: ------ 응답 목록 끝 ------ 
+20:33:36:642:전체 동작 성공
+20:33:36:643:모든 파싱 종료
+20:33:36:643:
+20:33:36:643: === 11. 입차 API 끝 ===
+20:34:45:770:
+20:34:45:771: === 11. 입차 API 시작 === 
+20:34:45:771:접속 주소 : http://192.10.60.101:2080//api/parking/enter/insert
+20:34:45:773:
+20:34:45:773: ------ 파라미터 목록 ------ 
+20:34:45:774:carNo : 99테9999
+20:34:45:774:image : c:\123123.jpg
+20:34:45:774:enterDate(DateTime) : 2017-12-04 오후 3:05:05
+20:34:45:775:enterDate(TimeStamp) : 1512367505000
+20:34:45:775:localEquipmentId : 1
+20:34:45:776:isSmallCar : n
+20:34:45:776: ------ 파라미터 목록 끝 ------ 
+20:34:46:121:
+20:34:46:122: ------ 응답 목록 ------ 
+20:34:46:122:code : 0
+20:34:46:122:errmsgvariable : 
+20:34:46:122:errmsg : 
+20:34:46:123:key : ERR_NOERR
+20:34:46:123: ------ 응답 목록 끝 ------ 
+20:34:46:123:전체 동작 성공
+20:34:46:124:모든 파싱 종료
+20:34:46:124:
+20:34:46:124: === 11. 입차 API 끝 ===
+20:37:10:538:
+20:37:10:539: === 11. 입차 API 시작 === 
+20:37:10:539:접속 주소 : http://192.10.60.101:2080//api/parking/enter/insert
+20:37:10:541:
+20:37:10:541: ------ 파라미터 목록 ------ 
+20:37:10:541:carNo : 99테9999
+20:37:10:542:image : c:\123123.jpg
+20:37:10:542:enterDate(DateTime) : 2017-12-04 오후 3:05:05
+20:37:10:543:enterDate(TimeStamp) : 1512367505000
+20:37:10:543:localEquipmentId : 1
+20:37:10:543:isSmallCar : n
+20:37:10:543: ------ 파라미터 목록 끝 ------ 
+20:37:11:019:
+20:37:11:020: ------ 응답 목록 ------ 
+20:37:11:020:code : 0
+20:37:11:020:errmsgvariable : 
+20:37:11:021:errmsg : 
+20:37:11:021:key : ERR_NOERR
+20:37:11:021: ------ 응답 목록 끝 ------ 
+20:37:11:022:전체 동작 성공
+20:37:11:022:모든 파싱 종료
+20:37:11:022:
+20:37:11:023: === 11. 입차 API 끝 ===
+20:38:32:012:
+20:38:32:012: === 11. 입차 API 시작 === 
+20:38:32:013:접속 주소 : http://192.10.60.101:2080//api/parking/enter/insert
+20:38:32:014:
+20:38:32:015: ------ 파라미터 목록 ------ 
+20:38:32:015:carNo : 99테9999
+20:38:32:015:image : c:\123123.jpg
+20:38:32:015:enterDate(DateTime) : 2017-12-04 오후 3:05:05
+20:38:32:016:enterDate(TimeStamp) : 1512367505000
+20:38:32:016:localEquipmentId : 1
+20:38:32:016:isSmallCar : n
+20:38:32:016: ------ 파라미터 목록 끝 ------ 
+20:38:32:473:
+20:38:32:473: ------ 응답 목록 ------ 
+20:38:32:473:code : 0
+20:38:32:474:errmsgvariable : 
+20:38:32:474:errmsg : 
+20:38:32:474:key : ERR_NOERR
+20:38:32:474: ------ 응답 목록 끝 ------ 
+20:38:32:475:전체 동작 성공
+20:38:32:475:모든 파싱 종료
+20:38:32:475:
+20:38:32:475: === 11. 입차 API 끝 ===
+20:39:05:610:
+20:39:05:611: === 11. 입차 API 시작 === 
+20:39:05:612:접속 주소 : http://192.10.60.101:2080//api/parking/enter/insert
+20:39:05:615:
+20:39:05:615: ------ 파라미터 목록 ------ 
+20:39:05:616:carNo : 99테9999
+20:39:05:616:image : c:\123123.jpg
+20:39:05:617:enterDate(DateTime) : 2017-12-04 오후 3:05:05
+20:39:05:617:enterDate(TimeStamp) : 1512367505000
+20:39:05:617:localEquipmentId : 1
+20:39:05:618:isSmallCar : n
+20:39:05:618: ------ 파라미터 목록 끝 ------ 
+20:39:06:028:
+20:39:06:028: ------ 응답 목록 ------ 
+20:39:06:028:code : 0
+20:39:06:029:errmsgvariable : 
+20:39:06:029:errmsg : 
+20:39:06:030:key : ERR_NOERR
+20:39:06:030: ------ 응답 목록 끝 ------ 
+20:39:06:030:전체 동작 성공
+20:39:06:031:모든 파싱 종료
+20:39:06:031:
+20:39:06:032: === 11. 입차 API 끝 ===
+20:43:18:369:
+20:43:18:370: === 11. 입차 API 시작 === 
+20:43:18:370:접속 주소 : http://192.10.60.101:2080//api/parking/enter/insert
+20:43:18:372:
+20:43:18:372: ------ 파라미터 목록 ------ 
+20:43:18:372:carNo : 99테9999
+20:43:18:372:image : c:\123123.jpg
+20:43:18:373:enterDate(DateTime) : 2017-12-04 오후 3:05:05
+20:43:18:373:enterDate(TimeStamp) : 1512367505000
+20:43:18:373:localEquipmentId : 1
+20:43:18:374:isSmallCar : n
+20:43:18:374: ------ 파라미터 목록 끝 ------ 
+20:43:18:903:
+20:43:18:903: ------ 응답 목록 ------ 
+20:43:18:904:code : 0
+20:43:18:904:errmsgvariable : 
+20:43:18:904:errmsg : 
+20:43:18:905:key : ERR_NOERR
+20:43:18:905: ------ 응답 목록 끝 ------ 
+20:43:18:905:전체 동작 성공
+20:43:18:906:모든 파싱 종료
+20:43:18:906:
+20:43:18:906: === 11. 입차 API 끝 ===
+20:45:38:219:
+20:45:38:220: === 11. 입차 API 시작 === 
+20:45:38:220:접속 주소 : http://192.10.60.101:2080//api/parking/enter/insert
+20:45:38:222:
+20:45:38:222: ------ 파라미터 목록 ------ 
+20:45:38:223:carNo : 99테9999
+20:45:38:223:image : c:\123123.jpg
+20:45:38:223:enterDate(DateTime) : 2017-12-04 오후 3:05:05
+20:45:38:224:enterDate(TimeStamp) : 1512367505000
+20:45:38:224:localEquipmentId : 1
+20:45:38:224:isSmallCar : n
+20:45:38:224: ------ 파라미터 목록 끝 ------ 
+20:45:38:717:
+20:45:38:717: ------ 응답 목록 ------ 
+20:45:38:717:code : 0
+20:45:38:718:errmsgvariable : 
+20:45:38:718:errmsg : 
+20:45:38:719:key : ERR_NOERR
+20:45:38:719: ------ 응답 목록 끝 ------ 
+20:45:38:720:전체 동작 성공
+20:45:38:720:모든 파싱 종료
+20:45:38:720:
+20:45:38:720: === 11. 입차 API 끝 ===
+20:46:49:763:
+20:46:49:763: === 11. 입차 API 시작 === 
+20:46:49:764:접속 주소 : http://192.10.60.101:2080//api/parking/enter/insert
+20:46:49:798:
+20:46:49:798: ------ 파라미터 목록 ------ 
+20:46:49:799:carNo : 99테9999
+20:46:49:799:image : c:\123123.jpg
+20:46:49:799:enterDate(DateTime) : 2017-12-04 오후 3:05:05
+20:46:49:799:enterDate(TimeStamp) : 1512367505000
+20:46:49:800:localEquipmentId : 1
+20:46:49:800:isSmallCar : n
+20:46:49:800: ------ 파라미터 목록 끝 ------ 
+20:46:50:121:
+20:46:50:121: ------ 응답 목록 ------ 
+20:46:50:121:code : 0
+20:46:50:122:errmsgvariable : 
+20:46:50:122:errmsg : 
+20:46:50:122:key : ERR_NOERR
+20:46:50:122: ------ 응답 목록 끝 ------ 
+20:46:50:123:전체 동작 성공
+20:46:50:123:모든 파싱 종료
+20:46:50:124:
+20:46:50:124: === 11. 입차 API 끝 ===
+20:51:13:538:
+20:51:13:538: === 11. 입차 API 시작 === 
+20:51:13:539:접속 주소 : http://192.10.60.101:2080//api/parking/enter/insert
+20:51:13:540:
+20:51:13:540: ------ 파라미터 목록 ------ 
+20:51:13:541:carNo : 99테9999
+20:51:13:541:image : c:\123123.jpg
+20:51:13:542:enterDate(DateTime) : 2017-12-04 오후 3:05:05
+20:51:13:542:enterDate(TimeStamp) : 1512367505000
+20:51:13:542:localEquipmentId : 1
+20:51:13:543:isSmallCar : n
+20:51:13:543: ------ 파라미터 목록 끝 ------ 
+20:51:13:903:
+20:51:13:903: ------ 응답 목록 ------ 
+20:51:13:903:code : 0
+20:51:13:904:errmsgvariable : 
+20:51:13:904:errmsg : 
+20:51:13:904:key : ERR_NOERR
+20:51:13:905: ------ 응답 목록 끝 ------ 
+20:51:13:905:전체 동작 성공
+20:51:13:905:모든 파싱 종료
+20:51:13:906:
+20:51:13:907: === 11. 입차 API 끝 ===
+20:52:12:971:
+20:52:12:971: === 11. 입차 API 시작 === 
+20:52:12:972:접속 주소 : http://192.10.60.101:2080//api/parking/enter/insert
+20:52:12:973:
+20:52:12:974: ------ 파라미터 목록 ------ 
+20:52:12:974:carNo : 99테9999
+20:52:12:974:image : c:\123123.jpg
+20:52:12:975:enterDate(DateTime) : 2017-12-04 오후 3:05:05
+20:52:12:975:enterDate(TimeStamp) : 1512367505000
+20:52:12:975:localEquipmentId : 1
+20:52:12:976:isSmallCar : n
+20:52:12:976: ------ 파라미터 목록 끝 ------ 
+20:52:13:536:
+20:52:13:536: ------ 응답 목록 ------ 
+20:52:13:536:code : 0
+20:52:13:537:errmsgvariable : 
+20:52:13:537:errmsg : 
+20:52:13:537:key : ERR_NOERR
+20:52:13:537: ------ 응답 목록 끝 ------ 
+20:52:13:538:전체 동작 성공
+20:52:13:538:모든 파싱 종료
+20:52:13:538:
+20:52:13:538: === 11. 입차 API 끝 ===
+20:54:25:229:
+20:54:25:229: === 11. 입차 API 시작 === 
+20:54:25:230:접속 주소 : http://192.10.60.101:2080//api/parking/enter/insert
+20:54:25:238:
+20:54:25:239: ------ 파라미터 목록 ------ 
+20:54:25:239:carNo : 12가1234
+20:54:25:239:image : c:\123123.jpg
+20:54:25:240:enterDate(DateTime) : 2017-12-04 오후 3:05:05
+20:54:25:240:enterDate(TimeStamp) : 1512367505000
+20:54:25:240:localEquipmentId : 1
+20:54:25:241:isSmallCar : n
+20:54:25:241: ------ 파라미터 목록 끝 ------ 
+20:54:25:811:
+20:54:25:812: ------ 응답 목록 ------ 
+20:54:25:812:code : 0
+20:54:25:812:errmsgvariable : 
+20:54:25:812:errmsg : 
+20:54:25:813:key : ERR_NOERR
+20:54:25:813: ------ 응답 목록 끝 ------ 
+20:54:25:813:전체 동작 성공
+20:54:25:813:모든 파싱 종료
+20:54:25:813:
+20:54:25:814: === 11. 입차 API 끝 ===
+20:56:06:332:
+20:56:06:332: === 11. 입차 API 시작 === 
+20:56:06:333:접속 주소 : http://://api/parking/enter/insert
+20:56:06:346:동작 실패
+20:56:06:347:-e : System.UriFormatException: 잘못된 URI: 호스트 이름을 구문 분석할 수 없습니다.
+   위치: System.Uri.CreateThis(String uri, Boolean dontEscape, UriKind uriKind)
+   위치: System.Uri..ctor(String uriString)
+   위치: RestSharp.RestClient..ctor(String baseUrl)
+   위치: AJParkLib.AJDataBase.AJWebDatabase.temp_name_12(String carNo, String image, DateTime enterDate, Int32 localEquipmentId, String isSmallCar) 파일 d:\진남_일지\날짜별\18년 1월\AJPL - 복사본\AJDataBase\AJWebDatabase.cs:줄 3454
+20:56:06:347:-e.StackTrace :    위치: System.Uri.CreateThis(String uri, Boolean dontEscape, UriKind uriKind)
+   위치: System.Uri..ctor(String uriString)
+   위치: RestSharp.RestClient..ctor(String baseUrl)
+   위치: AJParkLib.AJDataBase.AJWebDatabase.temp_name_12(String carNo, String image, DateTime enterDate, Int32 localEquipmentId, String isSmallCar) 파일 d:\진남_일지\날짜별\18년 1월\AJPL - 복사본\AJDataBase\AJWebDatabase.cs:줄 3454
+20:56:06:348:모든 파싱 종료
+20:56:06:348:
+20:56:06:349: === 11. 입차 API 끝 ===
+20:56:13:059:
+20:56:13:060: === 11. 입차 API 시작 === 
+20:56:13:060:접속 주소 : http://192.10.60.101:2080//api/parking/enter/insert
+20:56:13:065:
+20:56:13:066: ------ 파라미터 목록 ------ 
+20:56:13:066:carNo : 60가0343
+20:56:13:066:image : c:\123123.jpg
+20:56:13:066:enterDate(DateTime) : 2017-12-04 오후 3:05:05
+20:56:13:067:enterDate(TimeStamp) : 1512367505000
+20:56:13:067:localEquipmentId : 1
+20:56:13:067:isSmallCar : n
+20:56:13:068: ------ 파라미터 목록 끝 ------ 
+20:56:13:619:
+20:56:13:619: ------ 응답 목록 ------ 
+20:56:13:619:code : 0
+20:56:13:619:errmsgvariable : 
+20:56:13:620:errmsg : 
+20:56:13:620:key : ERR_NOERR
+20:56:13:620: ------ 응답 목록 끝 ------ 
+20:56:13:620:전체 동작 성공
+20:56:13:620:모든 파싱 종료
+20:56:13:621:
+20:56:13:621: === 11. 입차 API 끝 ===
+21:06:21:163:
+21:06:21:164: === 11. 입차 API 시작 === 
+21:06:21:164:접속 주소 : http://192.10.60.101:2080//api/parking/enter/insert
+21:06:21:166:
+21:06:21:167: ------ 파라미터 목록 ------ 
+21:06:21:167:carNo : 60가0343
+21:06:21:167:image : c:\123123.jpg
+21:06:21:168:enterDate(DateTime) : 2017-12-04 오후 3:05:05
+21:06:21:168:enterDate(TimeStamp) : 1512367505000
+21:06:21:168:localEquipmentId : 1
+21:06:21:169:isSmallCar : n
+21:06:21:169: ------ 파라미터 목록 끝 ------ 
+21:06:21:597:
+21:06:21:597: ------ 응답 목록 ------ 
+21:06:21:598:code : 0
+21:06:21:598:errmsgvariable : 
+21:06:21:598:errmsg : 
+21:06:21:598:key : ERR_NOERR
+21:06:21:599: ------ 응답 목록 끝 ------ 
+21:06:21:599:전체 동작 성공
+21:06:21:599:모든 파싱 종료
+21:06:21:599:
+21:06:21:599: === 11. 입차 API 끝 ===

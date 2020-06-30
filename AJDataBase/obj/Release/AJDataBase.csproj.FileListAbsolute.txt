@@ -1,0 +1,358 @@
+C:\Users\AJ_JIN\Desktop\AJ_PL\AJDataBase\bin\Release\AJDataBase.dll
+C:\Users\AJ_JIN\Desktop\AJ_PL\AJDataBase\bin\Release\AJDataBase.pdb
+C:\Users\AJ_JIN\Desktop\AJ_PL\AJDataBase\bin\Release\AJCommon.dll
+C:\Users\AJ_JIN\Desktop\AJ_PL\AJDataBase\bin\Release\AJDataClass.dll
+C:\Users\AJ_JIN\Desktop\AJ_PL\AJDataBase\bin\Release\AJEnums.dll
+C:\Users\AJ_JIN\Desktop\AJ_PL\AJDataBase\bin\Release\Newtonsoft.Json.dll
+C:\Users\AJ_JIN\Desktop\AJ_PL\AJDataBase\bin\Release\RestSharp.dll
+C:\Users\AJ_JIN\Desktop\AJ_PL\AJDataBase\bin\Release\AJLog.dll
+C:\Users\AJ_JIN\Desktop\AJ_PL\AJDataBase\bin\Release\AJCommon.pdb
+C:\Users\AJ_JIN\Desktop\AJ_PL\AJDataBase\bin\Release\AJDataClass.pdb
+C:\Users\AJ_JIN\Desktop\AJ_PL\AJDataBase\bin\Release\AJEnums.pdb
+C:\Users\AJ_JIN\Desktop\AJ_PL\AJDataBase\bin\Release\Newtonsoft.Json.pdb
+C:\Users\AJ_JIN\Desktop\AJ_PL\AJDataBase\bin\Release\Newtonsoft.Json.xml
+C:\Users\AJ_JIN\Desktop\AJ_PL\AJDataBase\bin\Release\RestSharp.xml
+C:\Users\AJ_JIN\Desktop\AJ_PL\AJDataBase\bin\Release\AJLog.pdb
+C:\Users\AJ_JIN\Desktop\AJ_PL\AJDataBase\obj\Release\AJDataBase.csprojResolveAssemblyReference.cache
+C:\Users\AJ_JIN\Desktop\AJ_PL\AJDataBase\obj\Release\AJDataBase.dll
+C:\Users\AJ_JIN\Desktop\AJ_PL\AJDataBase\obj\Release\AJDataBase.pdb
+C:\Users\AJ_JIN\Desktop\AJ_PL_TEMP\AJDataBase\bin\Release\AJDataBase.dll
+C:\Users\AJ_JIN\Desktop\AJ_PL_TEMP\AJDataBase\bin\Release\AJDataBase.pdb
+C:\Users\AJ_JIN\Desktop\AJ_PL_TEMP\AJDataBase\bin\Release\AJCommon.dll
+C:\Users\AJ_JIN\Desktop\AJ_PL_TEMP\AJDataBase\bin\Release\AJDataClass.dll
+C:\Users\AJ_JIN\Desktop\AJ_PL_TEMP\AJDataBase\bin\Release\AJEnums.dll
+C:\Users\AJ_JIN\Desktop\AJ_PL_TEMP\AJDataBase\bin\Release\Newtonsoft.Json.dll
+C:\Users\AJ_JIN\Desktop\AJ_PL_TEMP\AJDataBase\bin\Release\RestSharp.dll
+C:\Users\AJ_JIN\Desktop\AJ_PL_TEMP\AJDataBase\bin\Release\AJLog.dll
+C:\Users\AJ_JIN\Desktop\AJ_PL_TEMP\AJDataBase\bin\Release\AJCommon.pdb
+C:\Users\AJ_JIN\Desktop\AJ_PL_TEMP\AJDataBase\bin\Release\AJDataClass.pdb
+C:\Users\AJ_JIN\Desktop\AJ_PL_TEMP\AJDataBase\bin\Release\AJEnums.pdb
+C:\Users\AJ_JIN\Desktop\AJ_PL_TEMP\AJDataBase\bin\Release\Newtonsoft.Json.pdb
+C:\Users\AJ_JIN\Desktop\AJ_PL_TEMP\AJDataBase\bin\Release\Newtonsoft.Json.xml
+C:\Users\AJ_JIN\Desktop\AJ_PL_TEMP\AJDataBase\bin\Release\RestSharp.xml
+C:\Users\AJ_JIN\Desktop\AJ_PL_TEMP\AJDataBase\bin\Release\AJLog.pdb
+C:\Users\AJ_JIN\Desktop\AJ_PL_TEMP\AJDataBase\obj\Release\AJDataBase.csprojResolveAssemblyReference.cache
+C:\Users\AJ_JIN\Desktop\AJ_PL_TEMP\AJDataBase\obj\Release\AJDataBase.dll
+C:\Users\AJ_JIN\Desktop\AJ_PL_TEMP\AJDataBase\obj\Release\AJDataBase.pdb
+C:\Users\AJ_JIN\Desktop\AJ_PL_TEMP_2\170502_유인정산기\AJ_PL_TEMP\AJDataBase\bin\Release\AJDataBase.dll
+C:\Users\AJ_JIN\Desktop\AJ_PL_TEMP_2\170502_유인정산기\AJ_PL_TEMP\AJDataBase\bin\Release\AJDataBase.pdb
+C:\Users\AJ_JIN\Desktop\AJ_PL_TEMP_2\170502_유인정산기\AJ_PL_TEMP\AJDataBase\bin\Release\AJCommon.dll
+C:\Users\AJ_JIN\Desktop\AJ_PL_TEMP_2\170502_유인정산기\AJ_PL_TEMP\AJDataBase\bin\Release\AJDataClass.dll
+C:\Users\AJ_JIN\Desktop\AJ_PL_TEMP_2\170502_유인정산기\AJ_PL_TEMP\AJDataBase\bin\Release\AJEnums.dll
+C:\Users\AJ_JIN\Desktop\AJ_PL_TEMP_2\170502_유인정산기\AJ_PL_TEMP\AJDataBase\bin\Release\Newtonsoft.Json.dll
+C:\Users\AJ_JIN\Desktop\AJ_PL_TEMP_2\170502_유인정산기\AJ_PL_TEMP\AJDataBase\bin\Release\RestSharp.dll
+C:\Users\AJ_JIN\Desktop\AJ_PL_TEMP_2\170502_유인정산기\AJ_PL_TEMP\AJDataBase\bin\Release\AJLog.dll
+C:\Users\AJ_JIN\Desktop\AJ_PL_TEMP_2\170502_유인정산기\AJ_PL_TEMP\AJDataBase\bin\Release\AJCommon.pdb
+C:\Users\AJ_JIN\Desktop\AJ_PL_TEMP_2\170502_유인정산기\AJ_PL_TEMP\AJDataBase\bin\Release\AJDataClass.pdb
+C:\Users\AJ_JIN\Desktop\AJ_PL_TEMP_2\170502_유인정산기\AJ_PL_TEMP\AJDataBase\bin\Release\AJEnums.pdb
+C:\Users\AJ_JIN\Desktop\AJ_PL_TEMP_2\170502_유인정산기\AJ_PL_TEMP\AJDataBase\bin\Release\Newtonsoft.Json.pdb
+C:\Users\AJ_JIN\Desktop\AJ_PL_TEMP_2\170502_유인정산기\AJ_PL_TEMP\AJDataBase\bin\Release\Newtonsoft.Json.xml
+C:\Users\AJ_JIN\Desktop\AJ_PL_TEMP_2\170502_유인정산기\AJ_PL_TEMP\AJDataBase\bin\Release\RestSharp.xml
+C:\Users\AJ_JIN\Desktop\AJ_PL_TEMP_2\170502_유인정산기\AJ_PL_TEMP\AJDataBase\bin\Release\AJLog.pdb
+C:\Users\AJ_JIN\Desktop\AJ_PL_TEMP_2\170502_유인정산기\AJ_PL_TEMP\AJDataBase\obj\Release\AJDataBase.csprojResolveAssemblyReference.cache
+C:\Users\AJ_JIN\Desktop\AJ_PL_TEMP_2\170502_유인정산기\AJ_PL_TEMP\AJDataBase\obj\Release\AJDataBase.dll
+C:\Users\AJ_JIN\Desktop\AJ_PL_TEMP_2\170502_유인정산기\AJ_PL_TEMP\AJDataBase\obj\Release\AJDataBase.pdb
+C:\Users\AJ_JIN\Desktop\00유인정산기_0605\AJDataBase\bin\Release\waveFile\09잔동방출중.wav
+C:\Users\AJ_JIN\Desktop\00유인정산기_0605\AJDataBase\bin\Release\waveFile\10미방출증.wav
+C:\Users\AJ_JIN\Desktop\00유인정산기_0605\AJDataBase\bin\Release\waveFile\01할인권투입.wav
+C:\Users\AJ_JIN\Desktop\00유인정산기_0605\AJDataBase\bin\Release\waveFile\02정기차량.wav
+C:\Users\AJ_JIN\Desktop\00유인정산기_0605\AJDataBase\bin\Release\waveFile\03회차차량.wav
+C:\Users\AJ_JIN\Desktop\00유인정산기_0605\AJDataBase\bin\Release\waveFile\04에이제이패스.wav
+C:\Users\AJ_JIN\Desktop\00유인정산기_0605\AJDataBase\bin\Release\waveFile\05법인차량.wav
+C:\Users\AJ_JIN\Desktop\00유인정산기_0605\AJDataBase\bin\Release\waveFile\06결제완료.wav
+C:\Users\AJ_JIN\Desktop\00유인정산기_0605\AJDataBase\bin\Release\waveFile\07영수튼버튼.wav
+C:\Users\AJ_JIN\Desktop\00유인정산기_0605\AJDataBase\bin\Release\waveFile\08입차내역무.wav
+C:\Users\AJ_JIN\Desktop\00유인정산기_0605\AJDataBase\bin\Release\waveFile\11카드를 투입.wav
+C:\Users\AJ_JIN\Desktop\00유인정산기_0605\AJDataBase\bin\Release\waveFile\12카드를 읽고.wav
+C:\Users\AJ_JIN\Desktop\00유인정산기_0605\AJDataBase\bin\Release\waveFile\13카드를 뽑아.wav
+C:\Users\AJ_JIN\Desktop\00유인정산기_0605\AJDataBase\bin\Release\waveFile\14카드의 방향.wav
+C:\Users\AJ_JIN\Desktop\00유인정산기_0605\AJDataBase\bin\Release\waveFile\15한도 초과.wav
+C:\Users\AJ_JIN\Desktop\00유인정산기_0605\AJDataBase\bin\Release\waveFile\16다른 카드.wav
+C:\Users\AJ_JIN\Desktop\00유인정산기_0605\AJDataBase\bin\Release\waveFile\17사용이.wav
+C:\Users\AJ_JIN\Desktop\00유인정산기_0605\AJDataBase\bin\Release\waveFile\18금액을확인.wav
+C:\Users\AJ_JIN\Desktop\00유인정산기_0605\AJDataBase\bin\Release\AJDataBase.dll
+C:\Users\AJ_JIN\Desktop\00유인정산기_0605\AJDataBase\bin\Release\AJDataBase.pdb
+C:\Users\AJ_JIN\Desktop\00유인정산기_0605\AJDataBase\bin\Release\AJCommon.dll
+C:\Users\AJ_JIN\Desktop\00유인정산기_0605\AJDataBase\bin\Release\AJDataClass.dll
+C:\Users\AJ_JIN\Desktop\00유인정산기_0605\AJDataBase\bin\Release\AJEnums.dll
+C:\Users\AJ_JIN\Desktop\00유인정산기_0605\AJDataBase\bin\Release\AJLog.dll
+C:\Users\AJ_JIN\Desktop\00유인정산기_0605\AJDataBase\bin\Release\AJPrinter.dll
+C:\Users\AJ_JIN\Desktop\00유인정산기_0605\AJDataBase\bin\Release\AJSocket.dll
+C:\Users\AJ_JIN\Desktop\00유인정산기_0605\AJDataBase\bin\Release\AJSoundPlayer.dll
+C:\Users\AJ_JIN\Desktop\00유인정산기_0605\AJDataBase\bin\Release\Newtonsoft.Json.dll
+C:\Users\AJ_JIN\Desktop\00유인정산기_0605\AJDataBase\bin\Release\RestSharp.dll
+C:\Users\AJ_JIN\Desktop\00유인정산기_0605\AJDataBase\bin\Release\AJCommon.pdb
+C:\Users\AJ_JIN\Desktop\00유인정산기_0605\AJDataBase\bin\Release\AJDataClass.pdb
+C:\Users\AJ_JIN\Desktop\00유인정산기_0605\AJDataBase\bin\Release\AJEnums.pdb
+C:\Users\AJ_JIN\Desktop\00유인정산기_0605\AJDataBase\bin\Release\AJLog.pdb
+C:\Users\AJ_JIN\Desktop\00유인정산기_0605\AJDataBase\bin\Release\AJPrinter.pdb
+C:\Users\AJ_JIN\Desktop\00유인정산기_0605\AJDataBase\bin\Release\AJSocket.pdb
+C:\Users\AJ_JIN\Desktop\00유인정산기_0605\AJDataBase\bin\Release\AJSoundPlayer.pdb
+C:\Users\AJ_JIN\Desktop\00유인정산기_0605\AJDataBase\bin\Release\Newtonsoft.Json.pdb
+C:\Users\AJ_JIN\Desktop\00유인정산기_0605\AJDataBase\bin\Release\Newtonsoft.Json.xml
+C:\Users\AJ_JIN\Desktop\00유인정산기_0605\AJDataBase\bin\Release\RestSharp.xml
+C:\Users\AJ_JIN\Desktop\00유인정산기_0605\AJDataBase\obj\Release\AJDataBase.csprojResolveAssemblyReference.cache
+C:\Users\AJ_JIN\Desktop\00유인정산기_0605\AJDataBase\obj\Release\AJDataBase.dll
+C:\Users\AJ_JIN\Desktop\00유인정산기_0605\AJDataBase\obj\Release\AJDataBase.pdb
+C:\Users\AJ_JIN\Desktop\scan\0701\진남 정산기\AJDataBase\bin\Release\waveFile\09잔동방출중.wav
+C:\Users\AJ_JIN\Desktop\scan\0701\진남 정산기\AJDataBase\bin\Release\waveFile\10미방출증.wav
+C:\Users\AJ_JIN\Desktop\scan\0701\진남 정산기\AJDataBase\bin\Release\waveFile\01할인권투입.wav
+C:\Users\AJ_JIN\Desktop\scan\0701\진남 정산기\AJDataBase\bin\Release\waveFile\02정기차량.wav
+C:\Users\AJ_JIN\Desktop\scan\0701\진남 정산기\AJDataBase\bin\Release\waveFile\03회차차량.wav
+C:\Users\AJ_JIN\Desktop\scan\0701\진남 정산기\AJDataBase\bin\Release\waveFile\04에이제이패스.wav
+C:\Users\AJ_JIN\Desktop\scan\0701\진남 정산기\AJDataBase\bin\Release\waveFile\05법인차량.wav
+C:\Users\AJ_JIN\Desktop\scan\0701\진남 정산기\AJDataBase\bin\Release\waveFile\06결제완료.wav
+C:\Users\AJ_JIN\Desktop\scan\0701\진남 정산기\AJDataBase\bin\Release\waveFile\07영수튼버튼.wav
+C:\Users\AJ_JIN\Desktop\scan\0701\진남 정산기\AJDataBase\bin\Release\waveFile\08입차내역무.wav
+C:\Users\AJ_JIN\Desktop\scan\0701\진남 정산기\AJDataBase\bin\Release\waveFile\11카드를 투입.wav
+C:\Users\AJ_JIN\Desktop\scan\0701\진남 정산기\AJDataBase\bin\Release\waveFile\12카드를 읽고.wav
+C:\Users\AJ_JIN\Desktop\scan\0701\진남 정산기\AJDataBase\bin\Release\waveFile\13카드를 뽑아.wav
+C:\Users\AJ_JIN\Desktop\scan\0701\진남 정산기\AJDataBase\bin\Release\waveFile\14카드의 방향.wav
+C:\Users\AJ_JIN\Desktop\scan\0701\진남 정산기\AJDataBase\bin\Release\waveFile\15한도 초과.wav
+C:\Users\AJ_JIN\Desktop\scan\0701\진남 정산기\AJDataBase\bin\Release\waveFile\16다른 카드.wav
+C:\Users\AJ_JIN\Desktop\scan\0701\진남 정산기\AJDataBase\bin\Release\waveFile\17사용이.wav
+C:\Users\AJ_JIN\Desktop\scan\0701\진남 정산기\AJDataBase\bin\Release\waveFile\18금액을확인.wav
+C:\Users\AJ_JIN\Desktop\scan\0701\진남 정산기\AJDataBase\bin\Release\AJDataBase.dll
+C:\Users\AJ_JIN\Desktop\scan\0701\진남 정산기\AJDataBase\bin\Release\AJDataBase.pdb
+C:\Users\AJ_JIN\Desktop\scan\0701\진남 정산기\AJDataBase\bin\Release\AJCommon.dll
+C:\Users\AJ_JIN\Desktop\scan\0701\진남 정산기\AJDataBase\bin\Release\AJDataClass.dll
+C:\Users\AJ_JIN\Desktop\scan\0701\진남 정산기\AJDataBase\bin\Release\AJEnums.dll
+C:\Users\AJ_JIN\Desktop\scan\0701\진남 정산기\AJDataBase\bin\Release\AJLog.dll
+C:\Users\AJ_JIN\Desktop\scan\0701\진남 정산기\AJDataBase\bin\Release\AJPrinter.dll
+C:\Users\AJ_JIN\Desktop\scan\0701\진남 정산기\AJDataBase\bin\Release\AJSocket.dll
+C:\Users\AJ_JIN\Desktop\scan\0701\진남 정산기\AJDataBase\bin\Release\AJSoundPlayer.dll
+C:\Users\AJ_JIN\Desktop\scan\0701\진남 정산기\AJDataBase\bin\Release\Newtonsoft.Json.dll
+C:\Users\AJ_JIN\Desktop\scan\0701\진남 정산기\AJDataBase\bin\Release\RestSharp.dll
+C:\Users\AJ_JIN\Desktop\scan\0701\진남 정산기\AJDataBase\bin\Release\AJCommon.pdb
+C:\Users\AJ_JIN\Desktop\scan\0701\진남 정산기\AJDataBase\bin\Release\AJDataClass.pdb
+C:\Users\AJ_JIN\Desktop\scan\0701\진남 정산기\AJDataBase\bin\Release\AJEnums.pdb
+C:\Users\AJ_JIN\Desktop\scan\0701\진남 정산기\AJDataBase\bin\Release\AJLog.pdb
+C:\Users\AJ_JIN\Desktop\scan\0701\진남 정산기\AJDataBase\bin\Release\AJPrinter.pdb
+C:\Users\AJ_JIN\Desktop\scan\0701\진남 정산기\AJDataBase\bin\Release\AJSocket.pdb
+C:\Users\AJ_JIN\Desktop\scan\0701\진남 정산기\AJDataBase\bin\Release\AJSoundPlayer.pdb
+C:\Users\AJ_JIN\Desktop\scan\0701\진남 정산기\AJDataBase\bin\Release\Newtonsoft.Json.pdb
+C:\Users\AJ_JIN\Desktop\scan\0701\진남 정산기\AJDataBase\bin\Release\Newtonsoft.Json.xml
+C:\Users\AJ_JIN\Desktop\scan\0701\진남 정산기\AJDataBase\bin\Release\RestSharp.xml
+C:\Users\AJ_JIN\Desktop\scan\0701\진남 정산기\AJDataBase\obj\Release\AJDataBase.csprojResolveAssemblyReference.cache
+C:\Users\AJ_JIN\Desktop\scan\0701\진남 정산기\AJDataBase\obj\Release\AJDataBase.dll
+C:\Users\AJ_JIN\Desktop\scan\0701\진남 정산기\AJDataBase\obj\Release\AJDataBase.pdb
+D:\진남_일지\날짜별\17년 7월\진남 정산기_LED포함\AJDataBase\bin\Release\waveFile\09잔동방출중.wav
+D:\진남_일지\날짜별\17년 7월\진남 정산기_LED포함\AJDataBase\bin\Release\waveFile\10미방출증.wav
+D:\진남_일지\날짜별\17년 7월\진남 정산기_LED포함\AJDataBase\bin\Release\waveFile\01할인권투입.wav
+D:\진남_일지\날짜별\17년 7월\진남 정산기_LED포함\AJDataBase\bin\Release\waveFile\02정기차량.wav
+D:\진남_일지\날짜별\17년 7월\진남 정산기_LED포함\AJDataBase\bin\Release\waveFile\03회차차량.wav
+D:\진남_일지\날짜별\17년 7월\진남 정산기_LED포함\AJDataBase\bin\Release\waveFile\04에이제이패스.wav
+D:\진남_일지\날짜별\17년 7월\진남 정산기_LED포함\AJDataBase\bin\Release\waveFile\05법인차량.wav
+D:\진남_일지\날짜별\17년 7월\진남 정산기_LED포함\AJDataBase\bin\Release\waveFile\06결제완료.wav
+D:\진남_일지\날짜별\17년 7월\진남 정산기_LED포함\AJDataBase\bin\Release\waveFile\07영수튼버튼.wav
+D:\진남_일지\날짜별\17년 7월\진남 정산기_LED포함\AJDataBase\bin\Release\waveFile\08입차내역무.wav
+D:\진남_일지\날짜별\17년 7월\진남 정산기_LED포함\AJDataBase\bin\Release\waveFile\11카드를 투입.wav
+D:\진남_일지\날짜별\17년 7월\진남 정산기_LED포함\AJDataBase\bin\Release\waveFile\12카드를 읽고.wav
+D:\진남_일지\날짜별\17년 7월\진남 정산기_LED포함\AJDataBase\bin\Release\waveFile\13카드를 뽑아.wav
+D:\진남_일지\날짜별\17년 7월\진남 정산기_LED포함\AJDataBase\bin\Release\waveFile\14카드의 방향.wav
+D:\진남_일지\날짜별\17년 7월\진남 정산기_LED포함\AJDataBase\bin\Release\waveFile\15한도 초과.wav
+D:\진남_일지\날짜별\17년 7월\진남 정산기_LED포함\AJDataBase\bin\Release\waveFile\16다른 카드.wav
+D:\진남_일지\날짜별\17년 7월\진남 정산기_LED포함\AJDataBase\bin\Release\waveFile\17사용이.wav
+D:\진남_일지\날짜별\17년 7월\진남 정산기_LED포함\AJDataBase\bin\Release\waveFile\18금액을확인.wav
+D:\진남_일지\날짜별\17년 7월\진남 정산기_LED포함\AJDataBase\bin\Release\AJDataBase.dll
+D:\진남_일지\날짜별\17년 7월\진남 정산기_LED포함\AJDataBase\bin\Release\AJDataBase.pdb
+D:\진남_일지\날짜별\17년 7월\진남 정산기_LED포함\AJDataBase\bin\Release\AJCommon.dll
+D:\진남_일지\날짜별\17년 7월\진남 정산기_LED포함\AJDataBase\bin\Release\AJDataClass.dll
+D:\진남_일지\날짜별\17년 7월\진남 정산기_LED포함\AJDataBase\bin\Release\AJEnums.dll
+D:\진남_일지\날짜별\17년 7월\진남 정산기_LED포함\AJDataBase\bin\Release\AJLog.dll
+D:\진남_일지\날짜별\17년 7월\진남 정산기_LED포함\AJDataBase\bin\Release\AJPrinter.dll
+D:\진남_일지\날짜별\17년 7월\진남 정산기_LED포함\AJDataBase\bin\Release\AJSocket.dll
+D:\진남_일지\날짜별\17년 7월\진남 정산기_LED포함\AJDataBase\bin\Release\AJSoundPlayer.dll
+D:\진남_일지\날짜별\17년 7월\진남 정산기_LED포함\AJDataBase\bin\Release\Newtonsoft.Json.dll
+D:\진남_일지\날짜별\17년 7월\진남 정산기_LED포함\AJDataBase\bin\Release\RestSharp.dll
+D:\진남_일지\날짜별\17년 7월\진남 정산기_LED포함\AJDataBase\bin\Release\AJCommon.pdb
+D:\진남_일지\날짜별\17년 7월\진남 정산기_LED포함\AJDataBase\bin\Release\AJDataClass.pdb
+D:\진남_일지\날짜별\17년 7월\진남 정산기_LED포함\AJDataBase\bin\Release\AJEnums.pdb
+D:\진남_일지\날짜별\17년 7월\진남 정산기_LED포함\AJDataBase\bin\Release\AJLog.pdb
+D:\진남_일지\날짜별\17년 7월\진남 정산기_LED포함\AJDataBase\bin\Release\AJPrinter.pdb
+D:\진남_일지\날짜별\17년 7월\진남 정산기_LED포함\AJDataBase\bin\Release\AJSocket.pdb
+D:\진남_일지\날짜별\17년 7월\진남 정산기_LED포함\AJDataBase\bin\Release\AJSoundPlayer.pdb
+D:\진남_일지\날짜별\17년 7월\진남 정산기_LED포함\AJDataBase\bin\Release\Newtonsoft.Json.pdb
+D:\진남_일지\날짜별\17년 7월\진남 정산기_LED포함\AJDataBase\bin\Release\Newtonsoft.Json.xml
+D:\진남_일지\날짜별\17년 7월\진남 정산기_LED포함\AJDataBase\bin\Release\RestSharp.xml
+D:\진남_일지\날짜별\17년 7월\진남 정산기_LED포함\AJDataBase\obj\Release\AJDataBase.csprojResolveAssemblyReference.cache
+D:\진남_일지\날짜별\17년 7월\진남 정산기_LED포함\AJDataBase\obj\Release\AJDataBase.dll
+D:\진남_일지\날짜별\17년 7월\진남 정산기_LED포함\AJDataBase\obj\Release\AJDataBase.pdb
+D:\진남_일지\날짜별\17년 7월\0707_유인_SI통신추가(19시)\진남 정산기_오토허브_실사용\AJDataBase\bin\Release\waveFile\09잔동방출중.wav
+D:\진남_일지\날짜별\17년 7월\0707_유인_SI통신추가(19시)\진남 정산기_오토허브_실사용\AJDataBase\bin\Release\waveFile\10미방출증.wav
+D:\진남_일지\날짜별\17년 7월\0707_유인_SI통신추가(19시)\진남 정산기_오토허브_실사용\AJDataBase\bin\Release\waveFile\01할인권투입.wav
+D:\진남_일지\날짜별\17년 7월\0707_유인_SI통신추가(19시)\진남 정산기_오토허브_실사용\AJDataBase\bin\Release\waveFile\02정기차량.wav
+D:\진남_일지\날짜별\17년 7월\0707_유인_SI통신추가(19시)\진남 정산기_오토허브_실사용\AJDataBase\bin\Release\waveFile\03회차차량.wav
+D:\진남_일지\날짜별\17년 7월\0707_유인_SI통신추가(19시)\진남 정산기_오토허브_실사용\AJDataBase\bin\Release\waveFile\04에이제이패스.wav
+D:\진남_일지\날짜별\17년 7월\0707_유인_SI통신추가(19시)\진남 정산기_오토허브_실사용\AJDataBase\bin\Release\waveFile\05법인차량.wav
+D:\진남_일지\날짜별\17년 7월\0707_유인_SI통신추가(19시)\진남 정산기_오토허브_실사용\AJDataBase\bin\Release\waveFile\06결제완료.wav
+D:\진남_일지\날짜별\17년 7월\0707_유인_SI통신추가(19시)\진남 정산기_오토허브_실사용\AJDataBase\bin\Release\waveFile\07영수튼버튼.wav
+D:\진남_일지\날짜별\17년 7월\0707_유인_SI통신추가(19시)\진남 정산기_오토허브_실사용\AJDataBase\bin\Release\waveFile\08입차내역무.wav
+D:\진남_일지\날짜별\17년 7월\0707_유인_SI통신추가(19시)\진남 정산기_오토허브_실사용\AJDataBase\bin\Release\waveFile\11카드를 투입.wav
+D:\진남_일지\날짜별\17년 7월\0707_유인_SI통신추가(19시)\진남 정산기_오토허브_실사용\AJDataBase\bin\Release\waveFile\12카드를 읽고.wav
+D:\진남_일지\날짜별\17년 7월\0707_유인_SI통신추가(19시)\진남 정산기_오토허브_실사용\AJDataBase\bin\Release\waveFile\13카드를 뽑아.wav
+D:\진남_일지\날짜별\17년 7월\0707_유인_SI통신추가(19시)\진남 정산기_오토허브_실사용\AJDataBase\bin\Release\waveFile\14카드의 방향.wav
+D:\진남_일지\날짜별\17년 7월\0707_유인_SI통신추가(19시)\진남 정산기_오토허브_실사용\AJDataBase\bin\Release\waveFile\15한도 초과.wav
+D:\진남_일지\날짜별\17년 7월\0707_유인_SI통신추가(19시)\진남 정산기_오토허브_실사용\AJDataBase\bin\Release\waveFile\16다른 카드.wav
+D:\진남_일지\날짜별\17년 7월\0707_유인_SI통신추가(19시)\진남 정산기_오토허브_실사용\AJDataBase\bin\Release\waveFile\17사용이.wav
+D:\진남_일지\날짜별\17년 7월\0707_유인_SI통신추가(19시)\진남 정산기_오토허브_실사용\AJDataBase\bin\Release\waveFile\18금액을확인.wav
+D:\진남_일지\날짜별\17년 7월\0707_유인_SI통신추가(19시)\진남 정산기_오토허브_실사용\AJDataBase\bin\Release\AJDataBase.dll
+D:\진남_일지\날짜별\17년 7월\0707_유인_SI통신추가(19시)\진남 정산기_오토허브_실사용\AJDataBase\bin\Release\AJDataBase.pdb
+D:\진남_일지\날짜별\17년 7월\0707_유인_SI통신추가(19시)\진남 정산기_오토허브_실사용\AJDataBase\bin\Release\AJCommon.dll
+D:\진남_일지\날짜별\17년 7월\0707_유인_SI통신추가(19시)\진남 정산기_오토허브_실사용\AJDataBase\bin\Release\AJDataClass.dll
+D:\진남_일지\날짜별\17년 7월\0707_유인_SI통신추가(19시)\진남 정산기_오토허브_실사용\AJDataBase\bin\Release\AJEnums.dll
+D:\진남_일지\날짜별\17년 7월\0707_유인_SI통신추가(19시)\진남 정산기_오토허브_실사용\AJDataBase\bin\Release\AJLog.dll
+D:\진남_일지\날짜별\17년 7월\0707_유인_SI통신추가(19시)\진남 정산기_오토허브_실사용\AJDataBase\bin\Release\AJPrinter.dll
+D:\진남_일지\날짜별\17년 7월\0707_유인_SI통신추가(19시)\진남 정산기_오토허브_실사용\AJDataBase\bin\Release\AJSocket.dll
+D:\진남_일지\날짜별\17년 7월\0707_유인_SI통신추가(19시)\진남 정산기_오토허브_실사용\AJDataBase\bin\Release\AJSoundPlayer.dll
+D:\진남_일지\날짜별\17년 7월\0707_유인_SI통신추가(19시)\진남 정산기_오토허브_실사용\AJDataBase\bin\Release\Newtonsoft.Json.dll
+D:\진남_일지\날짜별\17년 7월\0707_유인_SI통신추가(19시)\진남 정산기_오토허브_실사용\AJDataBase\bin\Release\RestSharp.dll
+D:\진남_일지\날짜별\17년 7월\0707_유인_SI통신추가(19시)\진남 정산기_오토허브_실사용\AJDataBase\bin\Release\AJCommon.pdb
+D:\진남_일지\날짜별\17년 7월\0707_유인_SI통신추가(19시)\진남 정산기_오토허브_실사용\AJDataBase\bin\Release\AJDataClass.pdb
+D:\진남_일지\날짜별\17년 7월\0707_유인_SI통신추가(19시)\진남 정산기_오토허브_실사용\AJDataBase\bin\Release\AJEnums.pdb
+D:\진남_일지\날짜별\17년 7월\0707_유인_SI통신추가(19시)\진남 정산기_오토허브_실사용\AJDataBase\bin\Release\AJLog.pdb
+D:\진남_일지\날짜별\17년 7월\0707_유인_SI통신추가(19시)\진남 정산기_오토허브_실사용\AJDataBase\bin\Release\AJPrinter.pdb
+D:\진남_일지\날짜별\17년 7월\0707_유인_SI통신추가(19시)\진남 정산기_오토허브_실사용\AJDataBase\bin\Release\AJSocket.pdb
+D:\진남_일지\날짜별\17년 7월\0707_유인_SI통신추가(19시)\진남 정산기_오토허브_실사용\AJDataBase\bin\Release\AJSoundPlayer.pdb
+D:\진남_일지\날짜별\17년 7월\0707_유인_SI통신추가(19시)\진남 정산기_오토허브_실사용\AJDataBase\bin\Release\Newtonsoft.Json.pdb
+D:\진남_일지\날짜별\17년 7월\0707_유인_SI통신추가(19시)\진남 정산기_오토허브_실사용\AJDataBase\bin\Release\Newtonsoft.Json.xml
+D:\진남_일지\날짜별\17년 7월\0707_유인_SI통신추가(19시)\진남 정산기_오토허브_실사용\AJDataBase\bin\Release\RestSharp.xml
+D:\진남_일지\날짜별\17년 7월\0707_유인_SI통신추가(19시)\진남 정산기_오토허브_실사용\AJDataBase\obj\Release\AJDataBase.csprojResolveAssemblyReference.cache
+D:\진남_일지\날짜별\17년 7월\0707_유인_SI통신추가(19시)\진남 정산기_오토허브_실사용\AJDataBase\obj\Release\AJDataBase.dll
+D:\진남_일지\날짜별\17년 7월\0707_유인_SI통신추가(19시)\진남 정산기_오토허브_실사용\AJDataBase\obj\Release\AJDataBase.pdb
+D:\진남_일지\날짜별\17년 7월\0713_진남 정산기_오토허브_실사용_차량상태추가\AJDataBase\bin\Release\waveFile\09잔동방출중.wav
+D:\진남_일지\날짜별\17년 7월\0713_진남 정산기_오토허브_실사용_차량상태추가\AJDataBase\bin\Release\waveFile\10미방출증.wav
+D:\진남_일지\날짜별\17년 7월\0713_진남 정산기_오토허브_실사용_차량상태추가\AJDataBase\bin\Release\waveFile\01할인권투입.wav
+D:\진남_일지\날짜별\17년 7월\0713_진남 정산기_오토허브_실사용_차량상태추가\AJDataBase\bin\Release\waveFile\02정기차량.wav
+D:\진남_일지\날짜별\17년 7월\0713_진남 정산기_오토허브_실사용_차량상태추가\AJDataBase\bin\Release\waveFile\03회차차량.wav
+D:\진남_일지\날짜별\17년 7월\0713_진남 정산기_오토허브_실사용_차량상태추가\AJDataBase\bin\Release\waveFile\04에이제이패스.wav
+D:\진남_일지\날짜별\17년 7월\0713_진남 정산기_오토허브_실사용_차량상태추가\AJDataBase\bin\Release\waveFile\05법인차량.wav
+D:\진남_일지\날짜별\17년 7월\0713_진남 정산기_오토허브_실사용_차량상태추가\AJDataBase\bin\Release\waveFile\06결제완료.wav
+D:\진남_일지\날짜별\17년 7월\0713_진남 정산기_오토허브_실사용_차량상태추가\AJDataBase\bin\Release\waveFile\07영수튼버튼.wav
+D:\진남_일지\날짜별\17년 7월\0713_진남 정산기_오토허브_실사용_차량상태추가\AJDataBase\bin\Release\waveFile\08입차내역무.wav
+D:\진남_일지\날짜별\17년 7월\0713_진남 정산기_오토허브_실사용_차량상태추가\AJDataBase\bin\Release\waveFile\11카드를 투입.wav
+D:\진남_일지\날짜별\17년 7월\0713_진남 정산기_오토허브_실사용_차량상태추가\AJDataBase\bin\Release\waveFile\12카드를 읽고.wav
+D:\진남_일지\날짜별\17년 7월\0713_진남 정산기_오토허브_실사용_차량상태추가\AJDataBase\bin\Release\waveFile\13카드를 뽑아.wav
+D:\진남_일지\날짜별\17년 7월\0713_진남 정산기_오토허브_실사용_차량상태추가\AJDataBase\bin\Release\waveFile\14카드의 방향.wav
+D:\진남_일지\날짜별\17년 7월\0713_진남 정산기_오토허브_실사용_차량상태추가\AJDataBase\bin\Release\waveFile\15한도 초과.wav
+D:\진남_일지\날짜별\17년 7월\0713_진남 정산기_오토허브_실사용_차량상태추가\AJDataBase\bin\Release\waveFile\16다른 카드.wav
+D:\진남_일지\날짜별\17년 7월\0713_진남 정산기_오토허브_실사용_차량상태추가\AJDataBase\bin\Release\waveFile\17사용이.wav
+D:\진남_일지\날짜별\17년 7월\0713_진남 정산기_오토허브_실사용_차량상태추가\AJDataBase\bin\Release\waveFile\18금액을확인.wav
+D:\진남_일지\날짜별\17년 7월\0713_진남 정산기_오토허브_실사용_차량상태추가\AJDataBase\bin\Release\AJDataBase.dll
+D:\진남_일지\날짜별\17년 7월\0713_진남 정산기_오토허브_실사용_차량상태추가\AJDataBase\bin\Release\AJDataBase.pdb
+D:\진남_일지\날짜별\17년 7월\0713_진남 정산기_오토허브_실사용_차량상태추가\AJDataBase\bin\Release\AJCommon.dll
+D:\진남_일지\날짜별\17년 7월\0713_진남 정산기_오토허브_실사용_차량상태추가\AJDataBase\bin\Release\AJDataClass.dll
+D:\진남_일지\날짜별\17년 7월\0713_진남 정산기_오토허브_실사용_차량상태추가\AJDataBase\bin\Release\AJEnums.dll
+D:\진남_일지\날짜별\17년 7월\0713_진남 정산기_오토허브_실사용_차량상태추가\AJDataBase\bin\Release\AJLog.dll
+D:\진남_일지\날짜별\17년 7월\0713_진남 정산기_오토허브_실사용_차량상태추가\AJDataBase\bin\Release\AJPrinter.dll
+D:\진남_일지\날짜별\17년 7월\0713_진남 정산기_오토허브_실사용_차량상태추가\AJDataBase\bin\Release\AJSocket.dll
+D:\진남_일지\날짜별\17년 7월\0713_진남 정산기_오토허브_실사용_차량상태추가\AJDataBase\bin\Release\AJSoundPlayer.dll
+D:\진남_일지\날짜별\17년 7월\0713_진남 정산기_오토허브_실사용_차량상태추가\AJDataBase\bin\Release\Newtonsoft.Json.dll
+D:\진남_일지\날짜별\17년 7월\0713_진남 정산기_오토허브_실사용_차량상태추가\AJDataBase\bin\Release\RestSharp.dll
+D:\진남_일지\날짜별\17년 7월\0713_진남 정산기_오토허브_실사용_차량상태추가\AJDataBase\bin\Release\AJCommon.pdb
+D:\진남_일지\날짜별\17년 7월\0713_진남 정산기_오토허브_실사용_차량상태추가\AJDataBase\bin\Release\AJDataClass.pdb
+D:\진남_일지\날짜별\17년 7월\0713_진남 정산기_오토허브_실사용_차량상태추가\AJDataBase\bin\Release\AJEnums.pdb
+D:\진남_일지\날짜별\17년 7월\0713_진남 정산기_오토허브_실사용_차량상태추가\AJDataBase\bin\Release\AJLog.pdb
+D:\진남_일지\날짜별\17년 7월\0713_진남 정산기_오토허브_실사용_차량상태추가\AJDataBase\bin\Release\AJPrinter.pdb
+D:\진남_일지\날짜별\17년 7월\0713_진남 정산기_오토허브_실사용_차량상태추가\AJDataBase\bin\Release\AJSocket.pdb
+D:\진남_일지\날짜별\17년 7월\0713_진남 정산기_오토허브_실사용_차량상태추가\AJDataBase\bin\Release\AJSoundPlayer.pdb
+D:\진남_일지\날짜별\17년 7월\0713_진남 정산기_오토허브_실사용_차량상태추가\AJDataBase\bin\Release\Newtonsoft.Json.pdb
+D:\진남_일지\날짜별\17년 7월\0713_진남 정산기_오토허브_실사용_차량상태추가\AJDataBase\bin\Release\Newtonsoft.Json.xml
+D:\진남_일지\날짜별\17년 7월\0713_진남 정산기_오토허브_실사용_차량상태추가\AJDataBase\bin\Release\RestSharp.xml
+D:\진남_일지\날짜별\17년 7월\0713_진남 정산기_오토허브_실사용_차량상태추가\AJDataBase\obj\Release\AJDataBase.csprojResolveAssemblyReference.cache
+D:\진남_일지\날짜별\17년 7월\0713_진남 정산기_오토허브_실사용_차량상태추가\AJDataBase\obj\Release\AJDataBase.dll
+D:\진남_일지\날짜별\17년 7월\0713_진남 정산기_오토허브_실사용_차량상태추가\AJDataBase\obj\Release\AJDataBase.pdb
+D:\[1]AJ파크\[1]Module\AJPL\AJDataBase\bin\Release\waveFile\09잔동방출중.wav
+D:\[1]AJ파크\[1]Module\AJPL\AJDataBase\bin\Release\waveFile\10미방출증.wav
+D:\[1]AJ파크\[1]Module\AJPL\AJDataBase\bin\Release\waveFile\01할인권투입.wav
+D:\[1]AJ파크\[1]Module\AJPL\AJDataBase\bin\Release\waveFile\02정기차량.wav
+D:\[1]AJ파크\[1]Module\AJPL\AJDataBase\bin\Release\waveFile\03회차차량.wav
+D:\[1]AJ파크\[1]Module\AJPL\AJDataBase\bin\Release\waveFile\04에이제이패스.wav
+D:\[1]AJ파크\[1]Module\AJPL\AJDataBase\bin\Release\waveFile\05법인차량.wav
+D:\[1]AJ파크\[1]Module\AJPL\AJDataBase\bin\Release\waveFile\06결제완료.wav
+D:\[1]AJ파크\[1]Module\AJPL\AJDataBase\bin\Release\waveFile\07영수튼버튼.wav
+D:\[1]AJ파크\[1]Module\AJPL\AJDataBase\bin\Release\waveFile\08입차내역무.wav
+D:\[1]AJ파크\[1]Module\AJPL\AJDataBase\bin\Release\waveFile\11카드를 투입.wav
+D:\[1]AJ파크\[1]Module\AJPL\AJDataBase\bin\Release\waveFile\12카드를 읽고.wav
+D:\[1]AJ파크\[1]Module\AJPL\AJDataBase\bin\Release\waveFile\13카드를 뽑아.wav
+D:\[1]AJ파크\[1]Module\AJPL\AJDataBase\bin\Release\waveFile\14카드의 방향.wav
+D:\[1]AJ파크\[1]Module\AJPL\AJDataBase\bin\Release\waveFile\15한도 초과.wav
+D:\[1]AJ파크\[1]Module\AJPL\AJDataBase\bin\Release\waveFile\16다른 카드.wav
+D:\[1]AJ파크\[1]Module\AJPL\AJDataBase\bin\Release\waveFile\17사용이.wav
+D:\[1]AJ파크\[1]Module\AJPL\AJDataBase\bin\Release\waveFile\18금액을확인.wav
+D:\[1]AJ파크\[1]Module\AJPL\AJDataBase\bin\Release\AJDataBase.dll
+D:\[1]AJ파크\[1]Module\AJPL\AJDataBase\bin\Release\AJDataBase.pdb
+D:\[1]AJ파크\[1]Module\AJPL\AJDataBase\bin\Release\AJCommon.dll
+D:\[1]AJ파크\[1]Module\AJPL\AJDataBase\bin\Release\AJDataClass.dll
+D:\[1]AJ파크\[1]Module\AJPL\AJDataBase\bin\Release\AJEnums.dll
+D:\[1]AJ파크\[1]Module\AJPL\AJDataBase\bin\Release\AJLog.dll
+D:\[1]AJ파크\[1]Module\AJPL\AJDataBase\bin\Release\AJSocket.dll
+D:\[1]AJ파크\[1]Module\AJPL\AJDataBase\bin\Release\AJSoundPlayer.dll
+D:\[1]AJ파크\[1]Module\AJPL\AJDataBase\bin\Release\Newtonsoft.Json.dll
+D:\[1]AJ파크\[1]Module\AJPL\AJDataBase\bin\Release\RestSharp.dll
+D:\[1]AJ파크\[1]Module\AJPL\AJDataBase\bin\Release\AJCommon.pdb
+D:\[1]AJ파크\[1]Module\AJPL\AJDataBase\bin\Release\AJDataClass.pdb
+D:\[1]AJ파크\[1]Module\AJPL\AJDataBase\bin\Release\AJEnums.pdb
+D:\[1]AJ파크\[1]Module\AJPL\AJDataBase\bin\Release\AJLog.pdb
+D:\[1]AJ파크\[1]Module\AJPL\AJDataBase\bin\Release\AJSocket.pdb
+D:\[1]AJ파크\[1]Module\AJPL\AJDataBase\bin\Release\AJSoundPlayer.pdb
+D:\[1]AJ파크\[1]Module\AJPL\AJDataBase\bin\Release\Newtonsoft.Json.pdb
+D:\[1]AJ파크\[1]Module\AJPL\AJDataBase\bin\Release\Newtonsoft.Json.xml
+D:\[1]AJ파크\[1]Module\AJPL\AJDataBase\bin\Release\RestSharp.xml
+D:\[1]AJ파크\[1]Module\AJPL\AJDataBase\obj\Release\AJDataBase.csprojResolveAssemblyReference.cache
+D:\[1]AJ파크\[1]Module\AJPL\AJDataBase\obj\Release\AJDataBase.dll
+D:\[1]AJ파크\[1]Module\AJPL\AJDataBase\obj\Release\AJDataBase.pdb
+D:\진남_일지\날짜별\18년 1월\AJPL\AJDataBase\bin\Release\AJDataBase.dll
+D:\진남_일지\날짜별\18년 1월\AJPL\AJDataBase\bin\Release\AJDataBase.pdb
+D:\진남_일지\날짜별\18년 1월\AJPL\AJDataBase\bin\Release\AJCommon.dll
+D:\진남_일지\날짜별\18년 1월\AJPL\AJDataBase\bin\Release\AJDataClass.dll
+D:\진남_일지\날짜별\18년 1월\AJPL\AJDataBase\bin\Release\AJEnums.dll
+D:\진남_일지\날짜별\18년 1월\AJPL\AJDataBase\bin\Release\AWS_DataClass.dll
+D:\진남_일지\날짜별\18년 1월\AJPL\AJDataBase\bin\Release\Newtonsoft.Json.dll
+D:\진남_일지\날짜별\18년 1월\AJPL\AJDataBase\bin\Release\RestSharp.dll
+D:\진남_일지\날짜별\18년 1월\AJPL\AJDataBase\bin\Release\AJLog.dll
+D:\진남_일지\날짜별\18년 1월\AJPL\AJDataBase\bin\Release\AWS_DataClass.pdb
+D:\진남_일지\날짜별\18년 1월\AJPL\AJDataBase\bin\Release\AJCommon.pdb
+D:\진남_일지\날짜별\18년 1월\AJPL\AJDataBase\bin\Release\AJDataClass.pdb
+D:\진남_일지\날짜별\18년 1월\AJPL\AJDataBase\bin\Release\AJEnums.pdb
+D:\진남_일지\날짜별\18년 1월\AJPL\AJDataBase\bin\Release\Newtonsoft.Json.pdb
+D:\진남_일지\날짜별\18년 1월\AJPL\AJDataBase\bin\Release\Newtonsoft.Json.xml
+D:\진남_일지\날짜별\18년 1월\AJPL\AJDataBase\bin\Release\RestSharp.xml
+D:\진남_일지\날짜별\18년 1월\AJPL\AJDataBase\bin\Release\AJLog.pdb
+D:\진남_일지\날짜별\18년 1월\AJPL\AJDataBase\obj\Release\AJDataBase.csprojResolveAssemblyReference.cache
+D:\진남_일지\날짜별\18년 1월\AJPL\AJDataBase\obj\Release\AJDataBase.dll
+D:\진남_일지\날짜별\18년 1월\AJPL\AJDataBase\obj\Release\AJDataBase.pdb
+D:\진남_일지\날짜별\18년 1월\AJPL - 복사본\AJDataBase\obj\Release\AJDataBase.csprojResolveAssemblyReference.cache
+D:\진남_일지\날짜별\18년 1월\AJPL - 복사본\AJDataBase\obj\Release\AJDataBase.dll
+D:\진남_일지\날짜별\18년 1월\AJPL - 복사본\AJDataBase\obj\Release\AJDataBase.pdb
+D:\진남_일지\날짜별\18년 1월\AJPL - 복사본\AJDataBase\bin\Release\AJDataBase.dll
+D:\진남_일지\날짜별\18년 1월\AJPL - 복사본\AJDataBase\bin\Release\AJDataBase.pdb
+D:\진남_일지\날짜별\18년 1월\AJPL - 복사본\AJDataBase\bin\Release\AJCommon.dll
+D:\진남_일지\날짜별\18년 1월\AJPL - 복사본\AJDataBase\bin\Release\AJDataClass.dll
+D:\진남_일지\날짜별\18년 1월\AJPL - 복사본\AJDataBase\bin\Release\AJEnums.dll
+D:\진남_일지\날짜별\18년 1월\AJPL - 복사본\AJDataBase\bin\Release\Newtonsoft.Json.dll
+D:\진남_일지\날짜별\18년 1월\AJPL - 복사본\AJDataBase\bin\Release\RestSharp.dll
+D:\진남_일지\날짜별\18년 1월\AJPL - 복사본\AJDataBase\bin\Release\AJLog.dll
+D:\진남_일지\날짜별\18년 1월\AJPL - 복사본\AJDataBase\bin\Release\AJCommon.pdb
+D:\진남_일지\날짜별\18년 1월\AJPL - 복사본\AJDataBase\bin\Release\AJDataClass.pdb
+D:\진남_일지\날짜별\18년 1월\AJPL - 복사본\AJDataBase\bin\Release\AJEnums.pdb
+D:\진남_일지\날짜별\18년 1월\AJPL - 복사본\AJDataBase\bin\Release\Newtonsoft.Json.pdb
+D:\진남_일지\날짜별\18년 1월\AJPL - 복사본\AJDataBase\bin\Release\Newtonsoft.Json.xml
+D:\진남_일지\날짜별\18년 1월\AJPL - 복사본\AJDataBase\bin\Release\RestSharp.xml
+D:\진남_일지\날짜별\18년 1월\AJPL - 복사본\AJDataBase\bin\Release\AJLog.pdb
+D:\진남_일지\LMS_TEST\AJDataBase\obj\Release\AJDataBase.csprojResolveAssemblyReference.cache
+D:\진남_일지\LMS_TEST\AJDataBase\obj\Release\AJDataBase.dll
+D:\진남_일지\LMS_TEST\AJDataBase\obj\Release\AJDataBase.pdb
+D:\진남_일지\LMS_TEST\AJDataBase\bin\Release\AJDataBase.dll
+D:\진남_일지\LMS_TEST\AJDataBase\bin\Release\AJDataBase.pdb
+D:\진남_일지\LMS_TEST\AJDataBase\bin\Release\AJCommon.dll
+D:\진남_일지\LMS_TEST\AJDataBase\bin\Release\AJDataClass.dll
+D:\진남_일지\LMS_TEST\AJDataBase\bin\Release\AJEnums.dll
+D:\진남_일지\LMS_TEST\AJDataBase\bin\Release\Newtonsoft.Json.dll
+D:\진남_일지\LMS_TEST\AJDataBase\bin\Release\RestSharp.dll
+D:\진남_일지\LMS_TEST\AJDataBase\bin\Release\AJCommon.pdb
+D:\진남_일지\LMS_TEST\AJDataBase\bin\Release\AJDataClass.pdb
+D:\진남_일지\LMS_TEST\AJDataBase\bin\Release\AJEnums.pdb
+D:\진남_일지\LMS_TEST\AJDataBase\bin\Release\Newtonsoft.Json.pdb
+D:\진남_일지\LMS_TEST\AJDataBase\bin\Release\Newtonsoft.Json.xml
+D:\진남_일지\LMS_TEST\AJDataBase\bin\Release\RestSharp.xml

@@ -1,0 +1,378 @@
+13:29:27:479:
+13:29:27:480: === 10. 출차 미인식 차량 목록 시작 === 
+13:29:27:480:접속 주소 : http://192.10.60.101:2080//api/parking/unkown/leave/price
+13:29:27:489:
+13:29:27:489: ------ 파라미터 목록 ------ 
+13:29:27:490:carNo : 1005
+13:29:27:490: ------ 파라미터 목록 끝 ------ 
+13:29:27:695:
+13:29:27:696: ------ 응답 목록 ------ 
+13:29:27:696:code : 0
+13:29:27:696:errmsgvariable : 
+13:29:27:697:errmsg : 
+13:29:27:697:key : ERR_NOERR
+13:29:27:698:
+13:29:27:699: ------ 리스트 ------ 
+13:29:27:699:리스트의 개수 : 1
+13:29:27:723:동작 실패
+13:29:27:724:-e : System.ArgumentNullException: 값은 null일 수 없습니다.
+매개 변수 이름: stringToUnescape
+   위치: System.Uri.UnescapeDataString(String stringToUnescape)
+   위치: AJParkLib.AJDataBase.AJWebDatabase.temp_name_11(String carNo) 파일 c:\Users\AJ_JIN\Desktop\AJ_PL\AJDataBase\AJWebDatabase.cs:줄 2547
+13:29:27:882:-e.StackTrace :    위치: System.Uri.UnescapeDataString(String stringToUnescape)
+   위치: AJParkLib.AJDataBase.AJWebDatabase.temp_name_11(String carNo) 파일 c:\Users\AJ_JIN\Desktop\AJ_PL\AJDataBase\AJWebDatabase.cs:줄 2547
+13:29:27:882:모든 파싱 종료
+13:29:27:883:
+13:29:27:883: === 10. 출차 미인식 차량 목록 끝 === 
+13:29:37:958:
+13:29:37:959: === 13. 요금 정산 API 시작 === 
+13:29:37:960:접속 주소 : http://192.10.60.101:2080//api/parking/leave/price
+13:29:37:966:
+13:29:37:966: ------ 파라미터 목록 ------ 
+13:29:37:967:carNo : 22가1005
+13:29:37:968:leaveDate(DateTime) : 2017-03-30 오후 1:29:37
+13:29:37:968:leaveDate(TimeStamp) : 1490848177955
+13:29:37:969:localEquipmentId : 1
+13:29:37:969:image : c:\123123.jpg
+13:29:37:969:isSmallCar : n
+13:29:37:970:localParkingId : 
+13:29:37:970: ------ 파라미터 목록 끝 ------ 
+13:29:38:161:
+13:29:38:162: ------ 응답 목록 ------ 
+13:29:38:162:code : 0
+13:29:38:163:errmsgvariable : 
+13:29:38:163:errmsg : 
+13:29:38:164:key : ERR_NOERR
+13:29:38:164:parkingType : normal
+13:29:38:165:realPrice : 159000
+13:29:38:165:price : 159000
+13:29:38:166:discountPrice : 0
+13:29:38:166:enterDate(TimeStamp) : 1490749200000
+13:29:38:167:enterDate(DateTime) : 2017-03-29 오전 10:00:00
+13:29:38:168:durationSecond : 98977
+13:29:38:168:prePayDiscountInfoId : 
+13:29:38:169:insertPrice : 0
+13:29:38:170:recurrence : 
+13:29:38:170:localParkingId : 
+13:29:38:170:lackPrice : 
+13:29:38:171:prepayPrice : 0
+13:29:38:171: ------ 응답 목록 끝 ------ 
+13:29:38:172:전체 동작 성공
+13:29:38:172:모든 파싱 종료
+13:29:38:172:
+13:29:38:173: === 13. 요금 정산 API 끝 === 
+13:30:32:875:
+13:30:32:875: === 10. 출차 미인식 차량 목록 시작 === 
+13:30:32:876:접속 주소 : http://192.10.60.101:2080//api/parking/unkown/leave/price
+13:30:32:877:
+13:30:32:878: ------ 파라미터 목록 ------ 
+13:30:32:878:carNo : 1005
+13:30:32:878: ------ 파라미터 목록 끝 ------ 
+13:30:32:905:
+13:30:32:906: ------ 응답 목록 ------ 
+13:30:32:906:code : 0
+13:30:32:907:errmsgvariable : 
+13:30:32:907:errmsg : 
+13:30:32:907:key : ERR_NOERR
+13:30:32:908:
+13:30:32:909: ------ 리스트 ------ 
+13:30:32:909:리스트의 개수 : 1
+13:30:32:923:동작 실패
+13:30:32:924:-e : System.ArgumentNullException: 값은 null일 수 없습니다.
+매개 변수 이름: stringToUnescape
+   위치: System.Uri.UnescapeDataString(String stringToUnescape)
+   위치: AJParkLib.AJDataBase.AJWebDatabase.temp_name_11(String carNo) 파일 c:\Users\AJ_JIN\Desktop\AJ_PL\AJDataBase\AJWebDatabase.cs:줄 2547
+13:30:33:089:-e.StackTrace :    위치: System.Uri.UnescapeDataString(String stringToUnescape)
+   위치: AJParkLib.AJDataBase.AJWebDatabase.temp_name_11(String carNo) 파일 c:\Users\AJ_JIN\Desktop\AJ_PL\AJDataBase\AJWebDatabase.cs:줄 2547
+13:30:33:090:모든 파싱 종료
+13:30:33:091:
+13:30:33:091: === 10. 출차 미인식 차량 목록 끝 === 
+13:31:03:051:
+13:31:03:052: === 10. 출차 미인식 차량 목록 시작 === 
+13:31:03:056:접속 주소 : http://192.10.60.101:2080//api/parking/unkown/leave/price
+13:31:11:828:
+13:31:12:025: ------ 파라미터 목록 ------ 
+13:31:12:220:carNo : 1005
+13:31:12:420: ------ 파라미터 목록 끝 ------ 
+13:31:29:451:
+13:31:29:452: ------ 응답 목록 ------ 
+13:31:29:453:code : 0
+13:31:29:453:errmsgvariable : 
+13:31:29:453:errmsg : 
+13:31:29:454:key : ERR_NOERR
+13:31:29:454:
+13:31:29:454: ------ 리스트 ------ 
+13:31:29:455:리스트의 개수 : 1
+13:31:29:477:동작 실패
+13:31:29:478:-e : System.ArgumentNullException: 값은 null일 수 없습니다.
+매개 변수 이름: stringToUnescape
+   위치: System.Uri.UnescapeDataString(String stringToUnescape)
+   위치: AJParkLib.AJDataBase.AJWebDatabase.temp_name_11(String carNo) 파일 c:\Users\AJ_JIN\Desktop\AJ_PL\AJDataBase\AJWebDatabase.cs:줄 2547
+13:31:29:653:-e.StackTrace :    위치: System.Uri.UnescapeDataString(String stringToUnescape)
+   위치: AJParkLib.AJDataBase.AJWebDatabase.temp_name_11(String carNo) 파일 c:\Users\AJ_JIN\Desktop\AJ_PL\AJDataBase\AJWebDatabase.cs:줄 2547
+13:31:29:653:모든 파싱 종료
+13:31:29:653:
+13:31:29:654: === 10. 출차 미인식 차량 목록 끝 === 
+13:31:34:252:
+13:31:34:253: === 10. 출차 미인식 차량 목록 시작 === 
+13:31:34:253:접속 주소 : http://192.10.60.101:2080//api/parking/unkown/leave/price
+13:31:34:254:
+13:31:34:255: ------ 파라미터 목록 ------ 
+13:31:34:255:carNo : 1005
+13:31:34:255: ------ 파라미터 목록 끝 ------ 
+13:31:34:316:
+13:31:34:317: ------ 응답 목록 ------ 
+13:31:34:318:code : 0
+13:31:34:318:errmsgvariable : 
+13:31:34:318:errmsg : 
+13:31:34:319:key : ERR_NOERR
+13:31:34:319:
+13:31:34:320: ------ 리스트 ------ 
+13:31:34:320:리스트의 개수 : 1
+13:31:34:333:동작 실패
+13:31:34:333:-e : System.ArgumentNullException: 값은 null일 수 없습니다.
+매개 변수 이름: stringToUnescape
+   위치: System.Uri.UnescapeDataString(String stringToUnescape)
+   위치: AJParkLib.AJDataBase.AJWebDatabase.temp_name_11(String carNo) 파일 c:\Users\AJ_JIN\Desktop\AJ_PL\AJDataBase\AJWebDatabase.cs:줄 2547
+13:31:34:482:-e.StackTrace :    위치: System.Uri.UnescapeDataString(String stringToUnescape)
+   위치: AJParkLib.AJDataBase.AJWebDatabase.temp_name_11(String carNo) 파일 c:\Users\AJ_JIN\Desktop\AJ_PL\AJDataBase\AJWebDatabase.cs:줄 2547
+13:31:34:482:모든 파싱 종료
+13:31:34:483:
+13:31:34:483: === 10. 출차 미인식 차량 목록 끝 === 
+13:31:56:185:
+13:31:56:186: === 10. 출차 미인식 차량 목록 시작 === 
+13:31:56:187:접속 주소 : http://192.10.60.101:2080//api/parking/unkown/leave/price
+13:31:56:188:
+13:31:56:188: ------ 파라미터 목록 ------ 
+13:31:56:189:carNo : 1005
+13:31:56:189: ------ 파라미터 목록 끝 ------ 
+13:32:03:236:
+13:32:03:579: ------ 응답 목록 ------ 
+13:32:03:908:code : 0
+13:32:04:228:errmsgvariable : 
+13:32:04:588:errmsg : 
+13:32:04:899:key : ERR_NOERR
+13:32:12:651:
+13:32:12:870: ------ 리스트 ------ 
+13:32:13:116:리스트의 개수 : 1
+13:33:04:889:동작 실패
+13:33:04:890:-e : System.ArgumentNullException: 값은 null일 수 없습니다.
+매개 변수 이름: stringToUnescape
+   위치: System.Uri.UnescapeDataString(String stringToUnescape)
+   위치: AJParkLib.AJDataBase.AJWebDatabase.temp_name_11(String carNo) 파일 c:\Users\AJ_JIN\Desktop\AJ_PL\AJDataBase\AJWebDatabase.cs:줄 2547
+13:33:04:890:-e.StackTrace :    위치: System.Uri.UnescapeDataString(String stringToUnescape)
+   위치: AJParkLib.AJDataBase.AJWebDatabase.temp_name_11(String carNo) 파일 c:\Users\AJ_JIN\Desktop\AJ_PL\AJDataBase\AJWebDatabase.cs:줄 2547
+13:33:04:891:모든 파싱 종료
+13:33:04:891:
+13:33:04:892: === 10. 출차 미인식 차량 목록 끝 === 
+13:33:06:490:
+13:33:06:491: === 10. 출차 미인식 차량 목록 시작 === 
+13:33:06:491:접속 주소 : http://192.10.60.101:2080//api/parking/unkown/leave/price
+13:33:06:493:
+13:33:06:493: ------ 파라미터 목록 ------ 
+13:33:06:494:carNo : 1005
+13:33:06:494: ------ 파라미터 목록 끝 ------ 
+13:33:09:251:
+13:33:09:251: ------ 응답 목록 ------ 
+13:33:09:252:code : 0
+13:33:09:252:errmsgvariable : 
+13:33:09:252:errmsg : 
+13:33:09:253:key : ERR_NOERR
+13:33:09:253:
+13:33:09:253: ------ 리스트 ------ 
+13:33:09:254:리스트의 개수 : 1
+13:33:34:041:동작 실패
+13:33:34:043:-e : System.ArgumentNullException: 값은 null일 수 없습니다.
+매개 변수 이름: stringToUnescape
+   위치: System.Uri.UnescapeDataString(String stringToUnescape)
+   위치: AJParkLib.AJDataBase.AJWebDatabase.temp_name_11(String carNo) 파일 c:\Users\AJ_JIN\Desktop\AJ_PL\AJDataBase\AJWebDatabase.cs:줄 2547
+13:33:34:043:-e.StackTrace :    위치: System.Uri.UnescapeDataString(String stringToUnescape)
+   위치: AJParkLib.AJDataBase.AJWebDatabase.temp_name_11(String carNo) 파일 c:\Users\AJ_JIN\Desktop\AJ_PL\AJDataBase\AJWebDatabase.cs:줄 2547
+13:33:34:056:모든 파싱 종료
+13:33:34:057:
+13:33:34:057: === 10. 출차 미인식 차량 목록 끝 === 
+13:34:13:834:
+13:34:13:835: === 10. 출차 미인식 차량 목록 시작 === 
+13:34:13:836:접속 주소 : http://192.10.60.101:2080//api/parking/unkown/leave/price
+13:34:13:840:
+13:34:13:841: ------ 파라미터 목록 ------ 
+13:34:13:841:carNo : 1005
+13:34:13:841: ------ 파라미터 목록 끝 ------ 
+13:34:13:893:
+13:34:13:894: ------ 응답 목록 ------ 
+13:34:13:894:code : 0
+13:34:13:895:errmsgvariable : 
+13:34:13:895:errmsg : 
+13:34:13:895:key : ERR_NOERR
+13:34:13:896:
+13:34:13:896: ------ 리스트 ------ 
+13:34:13:897:리스트의 개수 : 1
+13:34:15:183:동작 실패
+13:34:15:184:-e : System.ArgumentNullException: 값은 null일 수 없습니다.
+매개 변수 이름: stringToUnescape
+   위치: System.Uri.UnescapeDataString(String stringToUnescape)
+   위치: AJParkLib.AJDataBase.AJWebDatabase.temp_name_11(String carNo) 파일 c:\Users\AJ_JIN\Desktop\AJ_PL\AJDataBase\AJWebDatabase.cs:줄 2547
+13:34:15:184:-e.StackTrace :    위치: System.Uri.UnescapeDataString(String stringToUnescape)
+   위치: AJParkLib.AJDataBase.AJWebDatabase.temp_name_11(String carNo) 파일 c:\Users\AJ_JIN\Desktop\AJ_PL\AJDataBase\AJWebDatabase.cs:줄 2547
+13:34:15:209:모든 파싱 종료
+13:34:15:210:
+13:34:15:210: === 10. 출차 미인식 차량 목록 끝 === 
+13:34:19:178:
+13:34:19:178: === 10. 출차 미인식 차량 목록 시작 === 
+13:34:19:178:접속 주소 : http://192.10.60.101:2080//api/parking/unkown/leave/price
+13:34:19:179:
+13:34:19:180: ------ 파라미터 목록 ------ 
+13:34:19:180:carNo : 1005
+13:34:19:180: ------ 파라미터 목록 끝 ------ 
+13:34:19:248:
+13:34:19:248: ------ 응답 목록 ------ 
+13:34:19:248:code : 0
+13:34:19:249:errmsgvariable : 
+13:34:19:249:errmsg : 
+13:34:19:250:key : ERR_NOERR
+13:34:19:250:
+13:34:19:250: ------ 리스트 ------ 
+13:34:19:251:리스트의 개수 : 1
+13:36:27:793:
+13:36:27:794: === 11. 입차 API 시작 === 
+13:36:27:795:접속 주소 : http://192.10.60.101:2080//api/parking/enter/insert
+13:36:27:807:
+13:36:27:808: ------ 파라미터 목록 ------ 
+13:36:27:808:carNo : 12가1006
+13:36:27:809:image : c:\123123.jpg
+13:36:27:810:enterDate(DateTime) : 2017-03-30 오후 1:36:27
+13:36:27:811:enterDate(TimeStamp) : 1490848587707
+13:36:27:811:localEquipmentId : 1
+13:36:27:812:isSmallCar : n
+13:36:27:812: ------ 파라미터 목록 끝 ------ 
+13:36:28:592:
+13:36:28:593: ------ 응답 목록 ------ 
+13:36:28:594:code : 0
+13:36:28:594:errmsgvariable : 
+13:36:28:594:errmsg : 
+13:36:28:595:key : ERR_NOERR
+13:36:28:596: ------ 응답 목록 끝 ------ 
+13:36:28:596:전체 동작 성공
+13:36:28:598:모든 파싱 종료
+13:36:28:599:
+13:36:28:599: === 11. 입차 API 끝 ===
+13:37:30:624:
+13:37:30:625: === 13. 요금 정산 API 시작 === 
+13:37:30:625:접속 주소 : http://192.10.60.101:2080//api/parking/leave/price
+13:37:30:636:
+13:37:30:637: ------ 파라미터 목록 ------ 
+13:37:30:637:carNo : 12가1006
+13:37:30:638:leaveDate(DateTime) : 2017-03-30 오후 1:37:30
+13:37:30:638:leaveDate(TimeStamp) : 1490848650547
+13:37:30:639:localEquipmentId : 1
+13:37:30:639:image : c:\123123.jpg
+13:37:30:639:isSmallCar : n
+13:37:30:640:localParkingId : 
+13:37:30:640: ------ 파라미터 목록 끝 ------ 
+13:37:31:266:
+13:37:31:267: ------ 응답 목록 ------ 
+13:37:31:267:code : 0
+13:37:31:268:errmsgvariable : 
+13:37:31:268:errmsg : 
+13:37:31:268:key : ERR_NOERR
+13:37:31:268:parkingType : recurrence
+13:37:31:269:realPrice : 0
+13:37:31:269:price : 0
+13:37:31:269:discountPrice : 0
+13:37:31:269:enterDate(TimeStamp) : 1490848588000
+13:37:31:270:enterDate(DateTime) : 2017-03-30 오후 1:36:28
+13:37:31:270:durationSecond : 62
+13:37:31:270:prePayDiscountInfoId : 
+13:37:31:270:insertPrice : 0
+13:37:31:271:recurrence : 
+13:37:31:271:localParkingId : 
+13:37:31:271:lackPrice : 
+13:37:31:271:prepayPrice : 0
+13:37:31:272: ------ 응답 목록 끝 ------ 
+13:37:31:272:전체 동작 성공
+13:37:31:272:모든 파싱 종료
+13:37:31:272:
+13:37:31:273: === 13. 요금 정산 API 끝 === 
+13:40:38:380:
+13:40:38:381: === 13. 요금 정산 API 시작 === 
+13:40:38:381:접속 주소 : http://192.10.60.101:2080//api/parking/leave/price
+13:40:38:383:
+13:40:38:383: ------ 파라미터 목록 ------ 
+13:40:38:384:carNo : 12가1006
+13:40:38:384:leaveDate(DateTime) : 2017-03-30 오후 1:40:38
+13:40:38:384:leaveDate(TimeStamp) : 1490848838379
+13:40:38:385:localEquipmentId : 1
+13:40:38:385:image : c:\123123.jpg
+13:40:38:385:isSmallCar : n
+13:40:38:386:localParkingId : 
+13:40:38:386: ------ 파라미터 목록 끝 ------ 
+13:40:38:555:
+13:40:38:556: ------ 응답 목록 ------ 
+13:40:38:556:code : 0
+13:40:38:557:errmsgvariable : 
+13:40:38:557:errmsg : 
+13:40:38:558:key : ERR_NOERR
+13:40:38:558:parkingType : recurrence
+13:40:38:559:realPrice : 0
+13:40:38:559:price : 0
+13:40:38:560:discountPrice : 0
+13:40:38:560:enterDate(TimeStamp) : 1490848588000
+13:40:38:561:enterDate(DateTime) : 2017-03-30 오후 1:36:28
+13:40:38:561:durationSecond : 250
+13:40:38:562:prePayDiscountInfoId : 
+13:40:38:563:insertPrice : 0
+13:40:38:563:recurrence : 
+13:40:38:563:localParkingId : 
+13:40:38:563:lackPrice : 
+13:40:38:564:prepayPrice : 0
+13:40:38:564: ------ 응답 목록 끝 ------ 
+13:40:38:564:전체 동작 성공
+13:40:38:565:모든 파싱 종료
+13:40:38:565:
+13:40:38:566: === 13. 요금 정산 API 끝 === 
+13:44:54:368:
+13:44:54:369: === 11. 입차 API 시작 === 
+13:44:54:369:접속 주소 : http://192.10.60.101:2080//api/parking/enter/insert
+13:44:54:382:
+13:44:54:383: ------ 파라미터 목록 ------ 
+13:44:54:383:carNo : 12가1007
+13:44:54:383:image : c:\123123.jpg
+13:44:54:383:enterDate(DateTime) : 2017-03-30 오후 1:44:54
+13:44:54:384:enterDate(TimeStamp) : 1490849094308
+13:44:54:384:localEquipmentId : 1
+13:44:54:384:isSmallCar : n
+13:44:54:384: ------ 파라미터 목록 끝 ------ 
+13:44:54:831:
+13:44:54:832: ------ 응답 목록 ------ 
+13:44:54:832:code : 0
+13:44:54:833:errmsgvariable : 
+13:44:54:833:errmsg : 
+13:44:54:834:key : ERR_NOERR
+13:44:54:834: ------ 응답 목록 끝 ------ 
+13:44:54:835:전체 동작 성공
+13:44:54:835:모든 파싱 종료
+13:44:54:836:
+13:44:54:836: === 11. 입차 API 끝 ===
+13:47:17:251:
+13:47:17:251: === 11. 입차 API 시작 === 
+13:47:17:252:접속 주소 : http://192.10.60.101:2080//api/parking/enter/insert
+13:47:17:262:
+13:47:17:263: ------ 파라미터 목록 ------ 
+13:47:17:264:carNo : 12가1007
+13:47:17:264:image : c:\123123.jpg
+13:47:17:265:enterDate(DateTime) : 2017-03-29 오전 5:05:05
+13:47:17:265:enterDate(TimeStamp) : 1490731505000
+13:47:17:266:localEquipmentId : 1
+13:47:17:266:isSmallCar : n
+13:47:17:266: ------ 파라미터 목록 끝 ------ 
+13:47:17:654:
+13:47:17:655: ------ 응답 목록 ------ 
+13:47:17:656:code : 0
+13:47:17:656:errmsgvariable : 
+13:47:17:656:errmsg : 
+13:47:17:657:key : ERR_NOERR
+13:47:17:657: ------ 응답 목록 끝 ------ 
+13:47:17:658:전체 동작 성공
+13:47:17:658:모든 파싱 종료
+13:47:17:659:
+13:47:17:660: === 11. 입차 API 끝 ===

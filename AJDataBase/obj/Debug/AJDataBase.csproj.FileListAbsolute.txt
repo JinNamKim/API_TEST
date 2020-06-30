@@ -1,0 +1,172 @@
+C:\Users\AJ_JIN\Desktop\AJ_PL\AJDataBase\obj\Debug\AJDataBase.csprojResolveAssemblyReference.cache
+C:\Users\AJ_JIN\Desktop\AJ_PL\AJDataBase\obj\Debug\AJDataBase.dll
+C:\Users\AJ_JIN\Desktop\AJ_PL\AJDataBase\bin\Debug\AJDataBase.dll
+C:\Users\AJ_JIN\Desktop\AJ_PL\AJDataBase\bin\Debug\AJDataBase.pdb
+C:\Users\AJ_JIN\Desktop\AJ_PL\AJDataBase\bin\Debug\AJCommon.dll
+C:\Users\AJ_JIN\Desktop\AJ_PL\AJDataBase\bin\Debug\AJDataClass.dll
+C:\Users\AJ_JIN\Desktop\AJ_PL\AJDataBase\bin\Debug\AJEnums.dll
+C:\Users\AJ_JIN\Desktop\AJ_PL\AJDataBase\bin\Debug\Newtonsoft.Json.dll
+C:\Users\AJ_JIN\Desktop\AJ_PL\AJDataBase\bin\Debug\RestSharp.dll
+C:\Users\AJ_JIN\Desktop\AJ_PL\AJDataBase\bin\Debug\AJLog.dll
+C:\Users\AJ_JIN\Desktop\AJ_PL\AJDataBase\bin\Debug\AJCommon.pdb
+C:\Users\AJ_JIN\Desktop\AJ_PL\AJDataBase\bin\Debug\AJDataClass.pdb
+C:\Users\AJ_JIN\Desktop\AJ_PL\AJDataBase\bin\Debug\AJEnums.pdb
+C:\Users\AJ_JIN\Desktop\AJ_PL\AJDataBase\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\AJ_JIN\Desktop\AJ_PL\AJDataBase\bin\Debug\Newtonsoft.Json.xml
+C:\Users\AJ_JIN\Desktop\AJ_PL\AJDataBase\bin\Debug\RestSharp.xml
+C:\Users\AJ_JIN\Desktop\AJ_PL\AJDataBase\bin\Debug\AJLog.pdb
+C:\Users\AJ_JIN\Desktop\AJ_PL\AJDataBase\obj\Debug\AJDataBase.pdb
+C:\Users\AJ_JIN\Desktop\AJ_PL_TEMP\AJDataBase\bin\Debug\AJDataBase.dll
+C:\Users\AJ_JIN\Desktop\AJ_PL_TEMP\AJDataBase\bin\Debug\AJDataBase.pdb
+C:\Users\AJ_JIN\Desktop\AJ_PL_TEMP\AJDataBase\bin\Debug\AJCommon.dll
+C:\Users\AJ_JIN\Desktop\AJ_PL_TEMP\AJDataBase\bin\Debug\AJDataClass.dll
+C:\Users\AJ_JIN\Desktop\AJ_PL_TEMP\AJDataBase\bin\Debug\AJEnums.dll
+C:\Users\AJ_JIN\Desktop\AJ_PL_TEMP\AJDataBase\bin\Debug\Newtonsoft.Json.dll
+C:\Users\AJ_JIN\Desktop\AJ_PL_TEMP\AJDataBase\bin\Debug\RestSharp.dll
+C:\Users\AJ_JIN\Desktop\AJ_PL_TEMP\AJDataBase\bin\Debug\AJLog.dll
+C:\Users\AJ_JIN\Desktop\AJ_PL_TEMP\AJDataBase\bin\Debug\AJCommon.pdb
+C:\Users\AJ_JIN\Desktop\AJ_PL_TEMP\AJDataBase\bin\Debug\AJDataClass.pdb
+C:\Users\AJ_JIN\Desktop\AJ_PL_TEMP\AJDataBase\bin\Debug\AJEnums.pdb
+C:\Users\AJ_JIN\Desktop\AJ_PL_TEMP\AJDataBase\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\AJ_JIN\Desktop\AJ_PL_TEMP\AJDataBase\bin\Debug\Newtonsoft.Json.xml
+C:\Users\AJ_JIN\Desktop\AJ_PL_TEMP\AJDataBase\bin\Debug\RestSharp.xml
+C:\Users\AJ_JIN\Desktop\AJ_PL_TEMP\AJDataBase\bin\Debug\AJLog.pdb
+C:\Users\AJ_JIN\Desktop\AJ_PL_TEMP\AJDataBase\obj\Debug\AJDataBase.csprojResolveAssemblyReference.cache
+C:\Users\AJ_JIN\Desktop\AJ_PL_TEMP\AJDataBase\obj\Debug\AJDataBase.dll
+C:\Users\AJ_JIN\Desktop\AJ_PL_TEMP\AJDataBase\obj\Debug\AJDataBase.pdb
+C:\Users\AJ_JIN\Desktop\AJ_PL_TEMP_2\170502_유인정산기\AJ_PL_TEMP\AJDataBase\bin\Debug\AJDataBase.dll
+C:\Users\AJ_JIN\Desktop\AJ_PL_TEMP_2\170502_유인정산기\AJ_PL_TEMP\AJDataBase\bin\Debug\AJDataBase.pdb
+C:\Users\AJ_JIN\Desktop\AJ_PL_TEMP_2\170502_유인정산기\AJ_PL_TEMP\AJDataBase\bin\Debug\AJCommon.dll
+C:\Users\AJ_JIN\Desktop\AJ_PL_TEMP_2\170502_유인정산기\AJ_PL_TEMP\AJDataBase\bin\Debug\AJDataClass.dll
+C:\Users\AJ_JIN\Desktop\AJ_PL_TEMP_2\170502_유인정산기\AJ_PL_TEMP\AJDataBase\bin\Debug\AJEnums.dll
+C:\Users\AJ_JIN\Desktop\AJ_PL_TEMP_2\170502_유인정산기\AJ_PL_TEMP\AJDataBase\bin\Debug\Newtonsoft.Json.dll
+C:\Users\AJ_JIN\Desktop\AJ_PL_TEMP_2\170502_유인정산기\AJ_PL_TEMP\AJDataBase\bin\Debug\RestSharp.dll
+C:\Users\AJ_JIN\Desktop\AJ_PL_TEMP_2\170502_유인정산기\AJ_PL_TEMP\AJDataBase\bin\Debug\AJLog.dll
+C:\Users\AJ_JIN\Desktop\AJ_PL_TEMP_2\170502_유인정산기\AJ_PL_TEMP\AJDataBase\bin\Debug\AJCommon.pdb
+C:\Users\AJ_JIN\Desktop\AJ_PL_TEMP_2\170502_유인정산기\AJ_PL_TEMP\AJDataBase\bin\Debug\AJDataClass.pdb
+C:\Users\AJ_JIN\Desktop\AJ_PL_TEMP_2\170502_유인정산기\AJ_PL_TEMP\AJDataBase\bin\Debug\AJEnums.pdb
+C:\Users\AJ_JIN\Desktop\AJ_PL_TEMP_2\170502_유인정산기\AJ_PL_TEMP\AJDataBase\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\AJ_JIN\Desktop\AJ_PL_TEMP_2\170502_유인정산기\AJ_PL_TEMP\AJDataBase\bin\Debug\Newtonsoft.Json.xml
+C:\Users\AJ_JIN\Desktop\AJ_PL_TEMP_2\170502_유인정산기\AJ_PL_TEMP\AJDataBase\bin\Debug\RestSharp.xml
+C:\Users\AJ_JIN\Desktop\AJ_PL_TEMP_2\170502_유인정산기\AJ_PL_TEMP\AJDataBase\bin\Debug\AJLog.pdb
+C:\Users\AJ_JIN\Desktop\AJ_PL_TEMP_2\170502_유인정산기\AJ_PL_TEMP\AJDataBase\obj\Debug\AJDataBase.csprojResolveAssemblyReference.cache
+C:\Users\AJ_JIN\Desktop\AJ_PL_TEMP_2\170502_유인정산기\AJ_PL_TEMP\AJDataBase\obj\Debug\AJDataBase.dll
+C:\Users\AJ_JIN\Desktop\AJ_PL_TEMP_2\170502_유인정산기\AJ_PL_TEMP\AJDataBase\obj\Debug\AJDataBase.pdb
+C:\Users\AJ_JIN\Desktop\00유인정산기_0605\AJDataBase\obj\Debug\AJDataBase.csprojResolveAssemblyReference.cache
+C:\Users\AJ_JIN\Desktop\00유인정산기_0605\AJDataBase\obj\Debug\AJDataBase.dll
+C:\Users\AJ_JIN\Desktop\00유인정산기_0605\AJDataBase\obj\Debug\AJDataBase.pdb
+C:\Users\AJ_JIN\Desktop\00유인정산기_0605\AJDataBase\bin\Debug\waveFile\09잔동방출중.wav
+C:\Users\AJ_JIN\Desktop\00유인정산기_0605\AJDataBase\bin\Debug\waveFile\10미방출증.wav
+C:\Users\AJ_JIN\Desktop\00유인정산기_0605\AJDataBase\bin\Debug\waveFile\01할인권투입.wav
+C:\Users\AJ_JIN\Desktop\00유인정산기_0605\AJDataBase\bin\Debug\waveFile\02정기차량.wav
+C:\Users\AJ_JIN\Desktop\00유인정산기_0605\AJDataBase\bin\Debug\waveFile\03회차차량.wav
+C:\Users\AJ_JIN\Desktop\00유인정산기_0605\AJDataBase\bin\Debug\waveFile\04에이제이패스.wav
+C:\Users\AJ_JIN\Desktop\00유인정산기_0605\AJDataBase\bin\Debug\waveFile\05법인차량.wav
+C:\Users\AJ_JIN\Desktop\00유인정산기_0605\AJDataBase\bin\Debug\waveFile\06결제완료.wav
+C:\Users\AJ_JIN\Desktop\00유인정산기_0605\AJDataBase\bin\Debug\waveFile\07영수튼버튼.wav
+C:\Users\AJ_JIN\Desktop\00유인정산기_0605\AJDataBase\bin\Debug\waveFile\08입차내역무.wav
+C:\Users\AJ_JIN\Desktop\00유인정산기_0605\AJDataBase\bin\Debug\waveFile\11카드를 투입.wav
+C:\Users\AJ_JIN\Desktop\00유인정산기_0605\AJDataBase\bin\Debug\waveFile\12카드를 읽고.wav
+C:\Users\AJ_JIN\Desktop\00유인정산기_0605\AJDataBase\bin\Debug\waveFile\13카드를 뽑아.wav
+C:\Users\AJ_JIN\Desktop\00유인정산기_0605\AJDataBase\bin\Debug\waveFile\14카드의 방향.wav
+C:\Users\AJ_JIN\Desktop\00유인정산기_0605\AJDataBase\bin\Debug\waveFile\15한도 초과.wav
+C:\Users\AJ_JIN\Desktop\00유인정산기_0605\AJDataBase\bin\Debug\waveFile\16다른 카드.wav
+C:\Users\AJ_JIN\Desktop\00유인정산기_0605\AJDataBase\bin\Debug\waveFile\17사용이.wav
+C:\Users\AJ_JIN\Desktop\00유인정산기_0605\AJDataBase\bin\Debug\waveFile\18금액을확인.wav
+C:\Users\AJ_JIN\Desktop\00유인정산기_0605\AJDataBase\bin\Debug\AJDataBase.dll
+C:\Users\AJ_JIN\Desktop\00유인정산기_0605\AJDataBase\bin\Debug\AJDataBase.pdb
+C:\Users\AJ_JIN\Desktop\00유인정산기_0605\AJDataBase\bin\Debug\AJCommon.dll
+C:\Users\AJ_JIN\Desktop\00유인정산기_0605\AJDataBase\bin\Debug\AJDataClass.dll
+C:\Users\AJ_JIN\Desktop\00유인정산기_0605\AJDataBase\bin\Debug\AJEnums.dll
+C:\Users\AJ_JIN\Desktop\00유인정산기_0605\AJDataBase\bin\Debug\AJLog.dll
+C:\Users\AJ_JIN\Desktop\00유인정산기_0605\AJDataBase\bin\Debug\AJPrinter.dll
+C:\Users\AJ_JIN\Desktop\00유인정산기_0605\AJDataBase\bin\Debug\AJSocket.dll
+C:\Users\AJ_JIN\Desktop\00유인정산기_0605\AJDataBase\bin\Debug\AJSoundPlayer.dll
+C:\Users\AJ_JIN\Desktop\00유인정산기_0605\AJDataBase\bin\Debug\Newtonsoft.Json.dll
+C:\Users\AJ_JIN\Desktop\00유인정산기_0605\AJDataBase\bin\Debug\RestSharp.dll
+C:\Users\AJ_JIN\Desktop\00유인정산기_0605\AJDataBase\bin\Debug\AJCommon.pdb
+C:\Users\AJ_JIN\Desktop\00유인정산기_0605\AJDataBase\bin\Debug\AJDataClass.pdb
+C:\Users\AJ_JIN\Desktop\00유인정산기_0605\AJDataBase\bin\Debug\AJEnums.pdb
+C:\Users\AJ_JIN\Desktop\00유인정산기_0605\AJDataBase\bin\Debug\AJLog.pdb
+C:\Users\AJ_JIN\Desktop\00유인정산기_0605\AJDataBase\bin\Debug\AJPrinter.pdb
+C:\Users\AJ_JIN\Desktop\00유인정산기_0605\AJDataBase\bin\Debug\AJSocket.pdb
+C:\Users\AJ_JIN\Desktop\00유인정산기_0605\AJDataBase\bin\Debug\AJSoundPlayer.pdb
+C:\Users\AJ_JIN\Desktop\00유인정산기_0605\AJDataBase\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\AJ_JIN\Desktop\00유인정산기_0605\AJDataBase\bin\Debug\Newtonsoft.Json.xml
+C:\Users\AJ_JIN\Desktop\00유인정산기_0605\AJDataBase\bin\Debug\RestSharp.xml
+D:\[1]AJ파크\[1]Module\AJPL\AJDataBase\bin\Debug\waveFile\09잔동방출중.wav
+D:\[1]AJ파크\[1]Module\AJPL\AJDataBase\bin\Debug\waveFile\10미방출증.wav
+D:\[1]AJ파크\[1]Module\AJPL\AJDataBase\bin\Debug\waveFile\01할인권투입.wav
+D:\[1]AJ파크\[1]Module\AJPL\AJDataBase\bin\Debug\waveFile\02정기차량.wav
+D:\[1]AJ파크\[1]Module\AJPL\AJDataBase\bin\Debug\waveFile\03회차차량.wav
+D:\[1]AJ파크\[1]Module\AJPL\AJDataBase\bin\Debug\waveFile\04에이제이패스.wav
+D:\[1]AJ파크\[1]Module\AJPL\AJDataBase\bin\Debug\waveFile\05법인차량.wav
+D:\[1]AJ파크\[1]Module\AJPL\AJDataBase\bin\Debug\waveFile\06결제완료.wav
+D:\[1]AJ파크\[1]Module\AJPL\AJDataBase\bin\Debug\waveFile\07영수튼버튼.wav
+D:\[1]AJ파크\[1]Module\AJPL\AJDataBase\bin\Debug\waveFile\08입차내역무.wav
+D:\[1]AJ파크\[1]Module\AJPL\AJDataBase\bin\Debug\waveFile\11카드를 투입.wav
+D:\[1]AJ파크\[1]Module\AJPL\AJDataBase\bin\Debug\waveFile\12카드를 읽고.wav
+D:\[1]AJ파크\[1]Module\AJPL\AJDataBase\bin\Debug\waveFile\13카드를 뽑아.wav
+D:\[1]AJ파크\[1]Module\AJPL\AJDataBase\bin\Debug\waveFile\14카드의 방향.wav
+D:\[1]AJ파크\[1]Module\AJPL\AJDataBase\bin\Debug\waveFile\15한도 초과.wav
+D:\[1]AJ파크\[1]Module\AJPL\AJDataBase\bin\Debug\waveFile\16다른 카드.wav
+D:\[1]AJ파크\[1]Module\AJPL\AJDataBase\bin\Debug\waveFile\17사용이.wav
+D:\[1]AJ파크\[1]Module\AJPL\AJDataBase\bin\Debug\waveFile\18금액을확인.wav
+D:\[1]AJ파크\[1]Module\AJPL\AJDataBase\bin\Debug\AJDataBase.dll
+D:\[1]AJ파크\[1]Module\AJPL\AJDataBase\bin\Debug\AJDataBase.pdb
+D:\[1]AJ파크\[1]Module\AJPL\AJDataBase\bin\Debug\AJCommon.dll
+D:\[1]AJ파크\[1]Module\AJPL\AJDataBase\bin\Debug\AJDataClass.dll
+D:\[1]AJ파크\[1]Module\AJPL\AJDataBase\bin\Debug\AJEnums.dll
+D:\[1]AJ파크\[1]Module\AJPL\AJDataBase\bin\Debug\AJLog.dll
+D:\[1]AJ파크\[1]Module\AJPL\AJDataBase\bin\Debug\AJSocket.dll
+D:\[1]AJ파크\[1]Module\AJPL\AJDataBase\bin\Debug\AJSoundPlayer.dll
+D:\[1]AJ파크\[1]Module\AJPL\AJDataBase\bin\Debug\Newtonsoft.Json.dll
+D:\[1]AJ파크\[1]Module\AJPL\AJDataBase\bin\Debug\RestSharp.dll
+D:\[1]AJ파크\[1]Module\AJPL\AJDataBase\bin\Debug\AJCommon.pdb
+D:\[1]AJ파크\[1]Module\AJPL\AJDataBase\bin\Debug\AJDataClass.pdb
+D:\[1]AJ파크\[1]Module\AJPL\AJDataBase\bin\Debug\AJEnums.pdb
+D:\[1]AJ파크\[1]Module\AJPL\AJDataBase\bin\Debug\AJLog.pdb
+D:\[1]AJ파크\[1]Module\AJPL\AJDataBase\bin\Debug\AJSocket.pdb
+D:\[1]AJ파크\[1]Module\AJPL\AJDataBase\bin\Debug\AJSoundPlayer.pdb
+D:\[1]AJ파크\[1]Module\AJPL\AJDataBase\bin\Debug\Newtonsoft.Json.pdb
+D:\[1]AJ파크\[1]Module\AJPL\AJDataBase\bin\Debug\Newtonsoft.Json.xml
+D:\[1]AJ파크\[1]Module\AJPL\AJDataBase\bin\Debug\RestSharp.xml
+D:\[1]AJ파크\[1]Module\AJPL\AJDataBase\obj\Debug\AJDataBase.csprojResolveAssemblyReference.cache
+D:\[1]AJ파크\[1]Module\AJPL\AJDataBase\obj\Debug\AJDataBase.dll
+D:\[1]AJ파크\[1]Module\AJPL\AJDataBase\obj\Debug\AJDataBase.pdb
+D:\진남_일지\날짜별\18년 1월\AJPL\AJDataBase\bin\Debug\AJDataBase.dll
+D:\진남_일지\날짜별\18년 1월\AJPL\AJDataBase\bin\Debug\AJDataBase.pdb
+D:\진남_일지\날짜별\18년 1월\AJPL\AJDataBase\bin\Debug\AJCommon.dll
+D:\진남_일지\날짜별\18년 1월\AJPL\AJDataBase\bin\Debug\AJDataClass.dll
+D:\진남_일지\날짜별\18년 1월\AJPL\AJDataBase\bin\Debug\AJEnums.dll
+D:\진남_일지\날짜별\18년 1월\AJPL\AJDataBase\bin\Debug\Newtonsoft.Json.dll
+D:\진남_일지\날짜별\18년 1월\AJPL\AJDataBase\bin\Debug\RestSharp.dll
+D:\진남_일지\날짜별\18년 1월\AJPL\AJDataBase\bin\Debug\AJLog.dll
+D:\진남_일지\날짜별\18년 1월\AJPL\AJDataBase\bin\Debug\AJCommon.pdb
+D:\진남_일지\날짜별\18년 1월\AJPL\AJDataBase\bin\Debug\AJDataClass.pdb
+D:\진남_일지\날짜별\18년 1월\AJPL\AJDataBase\bin\Debug\AJEnums.pdb
+D:\진남_일지\날짜별\18년 1월\AJPL\AJDataBase\bin\Debug\Newtonsoft.Json.pdb
+D:\진남_일지\날짜별\18년 1월\AJPL\AJDataBase\bin\Debug\Newtonsoft.Json.xml
+D:\진남_일지\날짜별\18년 1월\AJPL\AJDataBase\bin\Debug\RestSharp.xml
+D:\진남_일지\날짜별\18년 1월\AJPL\AJDataBase\bin\Debug\AJLog.pdb
+D:\진남_일지\날짜별\18년 1월\AJPL\AJDataBase\obj\Debug\AJDataBase.csprojResolveAssemblyReference.cache
+D:\진남_일지\날짜별\18년 1월\AJPL\AJDataBase\obj\Debug\AJDataBase.dll
+D:\진남_일지\날짜별\18년 1월\AJPL\AJDataBase\obj\Debug\AJDataBase.pdb
+D:\진남_일지\날짜별\18년 1월\AJPL - 복사본\AJDataBase\obj\Debug\AJDataBase.csprojResolveAssemblyReference.cache
+D:\진남_일지\날짜별\18년 1월\AJPL - 복사본\AJDataBase\bin\Debug\AJDataBase.dll
+D:\진남_일지\날짜별\18년 1월\AJPL - 복사본\AJDataBase\bin\Debug\AJDataBase.pdb
+D:\진남_일지\날짜별\18년 1월\AJPL - 복사본\AJDataBase\bin\Debug\AJCommon.dll
+D:\진남_일지\날짜별\18년 1월\AJPL - 복사본\AJDataBase\bin\Debug\AJDataClass.dll
+D:\진남_일지\날짜별\18년 1월\AJPL - 복사본\AJDataBase\bin\Debug\AJEnums.dll
+D:\진남_일지\날짜별\18년 1월\AJPL - 복사본\AJDataBase\bin\Debug\Newtonsoft.Json.dll
+D:\진남_일지\날짜별\18년 1월\AJPL - 복사본\AJDataBase\bin\Debug\RestSharp.dll
+D:\진남_일지\날짜별\18년 1월\AJPL - 복사본\AJDataBase\bin\Debug\AJLog.dll
+D:\진남_일지\날짜별\18년 1월\AJPL - 복사본\AJDataBase\bin\Debug\AJCommon.pdb
+D:\진남_일지\날짜별\18년 1월\AJPL - 복사본\AJDataBase\bin\Debug\AJDataClass.pdb
+D:\진남_일지\날짜별\18년 1월\AJPL - 복사본\AJDataBase\bin\Debug\AJEnums.pdb
+D:\진남_일지\날짜별\18년 1월\AJPL - 복사본\AJDataBase\bin\Debug\Newtonsoft.Json.pdb
+D:\진남_일지\날짜별\18년 1월\AJPL - 복사본\AJDataBase\bin\Debug\Newtonsoft.Json.xml
+D:\진남_일지\날짜별\18년 1월\AJPL - 복사본\AJDataBase\bin\Debug\RestSharp.xml
+D:\진남_일지\날짜별\18년 1월\AJPL - 복사본\AJDataBase\bin\Debug\AJLog.pdb
+D:\진남_일지\날짜별\18년 1월\AJPL - 복사본\AJDataBase\obj\Debug\AJDataBase.dll
+D:\진남_일지\날짜별\18년 1월\AJPL - 복사본\AJDataBase\obj\Debug\AJDataBase.pdb

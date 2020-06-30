@@ -1,0 +1,78 @@
+C:\Users\AJ_JIN\Desktop\AJ_PL\AJDataClass\bin\Debug\AJDataClass.dll
+C:\Users\AJ_JIN\Desktop\AJ_PL\AJDataClass\bin\Debug\AJDataClass.pdb
+C:\Users\AJ_JIN\Desktop\AJ_PL\AJDataClass\bin\Debug\AJEnums.dll
+C:\Users\AJ_JIN\Desktop\AJ_PL\AJDataClass\bin\Debug\Newtonsoft.Json.dll
+C:\Users\AJ_JIN\Desktop\AJ_PL\AJDataClass\bin\Debug\RestSharp.dll
+C:\Users\AJ_JIN\Desktop\AJ_PL\AJDataClass\bin\Debug\AJEnums.pdb
+C:\Users\AJ_JIN\Desktop\AJ_PL\AJDataClass\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\AJ_JIN\Desktop\AJ_PL\AJDataClass\bin\Debug\Newtonsoft.Json.xml
+C:\Users\AJ_JIN\Desktop\AJ_PL\AJDataClass\bin\Debug\RestSharp.xml
+C:\Users\AJ_JIN\Desktop\AJ_PL\AJDataClass\obj\Debug\AJDataClass.csprojResolveAssemblyReference.cache
+C:\Users\AJ_JIN\Desktop\AJ_PL\AJDataClass\obj\Debug\AJDataClass.dll
+C:\Users\AJ_JIN\Desktop\AJ_PL\AJDataClass\obj\Debug\AJDataClass.pdb
+C:\Users\AJ_JIN\Desktop\AJ_PL_TEMP\AJDataClass\bin\Debug\AJDataClass.dll
+C:\Users\AJ_JIN\Desktop\AJ_PL_TEMP\AJDataClass\bin\Debug\AJDataClass.pdb
+C:\Users\AJ_JIN\Desktop\AJ_PL_TEMP\AJDataClass\bin\Debug\AJEnums.dll
+C:\Users\AJ_JIN\Desktop\AJ_PL_TEMP\AJDataClass\bin\Debug\Newtonsoft.Json.dll
+C:\Users\AJ_JIN\Desktop\AJ_PL_TEMP\AJDataClass\bin\Debug\RestSharp.dll
+C:\Users\AJ_JIN\Desktop\AJ_PL_TEMP\AJDataClass\bin\Debug\AJEnums.pdb
+C:\Users\AJ_JIN\Desktop\AJ_PL_TEMP\AJDataClass\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\AJ_JIN\Desktop\AJ_PL_TEMP\AJDataClass\bin\Debug\Newtonsoft.Json.xml
+C:\Users\AJ_JIN\Desktop\AJ_PL_TEMP\AJDataClass\bin\Debug\RestSharp.pdb
+C:\Users\AJ_JIN\Desktop\AJ_PL_TEMP\AJDataClass\bin\Debug\RestSharp.xml
+C:\Users\AJ_JIN\Desktop\AJ_PL_TEMP\AJDataClass\obj\Debug\AJDataClass.csprojResolveAssemblyReference.cache
+C:\Users\AJ_JIN\Desktop\AJ_PL_TEMP\AJDataClass\obj\Debug\AJDataClass.dll
+C:\Users\AJ_JIN\Desktop\AJ_PL_TEMP\AJDataClass\obj\Debug\AJDataClass.pdb
+C:\Users\AJ_JIN\Desktop\AJ_PL_TEMP_2\170502_유인정산기\AJ_PL_TEMP\AJDataClass\bin\Debug\AJDataClass.dll
+C:\Users\AJ_JIN\Desktop\AJ_PL_TEMP_2\170502_유인정산기\AJ_PL_TEMP\AJDataClass\bin\Debug\AJDataClass.pdb
+C:\Users\AJ_JIN\Desktop\AJ_PL_TEMP_2\170502_유인정산기\AJ_PL_TEMP\AJDataClass\bin\Debug\AJEnums.dll
+C:\Users\AJ_JIN\Desktop\AJ_PL_TEMP_2\170502_유인정산기\AJ_PL_TEMP\AJDataClass\bin\Debug\Newtonsoft.Json.dll
+C:\Users\AJ_JIN\Desktop\AJ_PL_TEMP_2\170502_유인정산기\AJ_PL_TEMP\AJDataClass\bin\Debug\RestSharp.dll
+C:\Users\AJ_JIN\Desktop\AJ_PL_TEMP_2\170502_유인정산기\AJ_PL_TEMP\AJDataClass\bin\Debug\AJEnums.pdb
+C:\Users\AJ_JIN\Desktop\AJ_PL_TEMP_2\170502_유인정산기\AJ_PL_TEMP\AJDataClass\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\AJ_JIN\Desktop\AJ_PL_TEMP_2\170502_유인정산기\AJ_PL_TEMP\AJDataClass\bin\Debug\Newtonsoft.Json.xml
+C:\Users\AJ_JIN\Desktop\AJ_PL_TEMP_2\170502_유인정산기\AJ_PL_TEMP\AJDataClass\bin\Debug\RestSharp.pdb
+C:\Users\AJ_JIN\Desktop\AJ_PL_TEMP_2\170502_유인정산기\AJ_PL_TEMP\AJDataClass\bin\Debug\RestSharp.xml
+C:\Users\AJ_JIN\Desktop\AJ_PL_TEMP_2\170502_유인정산기\AJ_PL_TEMP\AJDataClass\obj\Debug\AJDataClass.csprojResolveAssemblyReference.cache
+C:\Users\AJ_JIN\Desktop\AJ_PL_TEMP_2\170502_유인정산기\AJ_PL_TEMP\AJDataClass\obj\Debug\AJDataClass.dll
+C:\Users\AJ_JIN\Desktop\AJ_PL_TEMP_2\170502_유인정산기\AJ_PL_TEMP\AJDataClass\obj\Debug\AJDataClass.pdb
+C:\Users\AJ_JIN\Desktop\00유인정산기_0605\AJDataClass\obj\Debug\AJDataClass.csprojResolveAssemblyReference.cache
+C:\Users\AJ_JIN\Desktop\00유인정산기_0605\AJDataClass\obj\Debug\AJDataClass.dll
+C:\Users\AJ_JIN\Desktop\00유인정산기_0605\AJDataClass\obj\Debug\AJDataClass.pdb
+C:\Users\AJ_JIN\Desktop\00유인정산기_0605\AJDataClass\bin\Debug\AJDataClass.dll
+C:\Users\AJ_JIN\Desktop\00유인정산기_0605\AJDataClass\bin\Debug\AJDataClass.pdb
+C:\Users\AJ_JIN\Desktop\00유인정산기_0605\AJDataClass\bin\Debug\AJEnums.dll
+C:\Users\AJ_JIN\Desktop\00유인정산기_0605\AJDataClass\bin\Debug\Newtonsoft.Json.dll
+C:\Users\AJ_JIN\Desktop\00유인정산기_0605\AJDataClass\bin\Debug\RestSharp.dll
+C:\Users\AJ_JIN\Desktop\00유인정산기_0605\AJDataClass\bin\Debug\AJEnums.pdb
+C:\Users\AJ_JIN\Desktop\00유인정산기_0605\AJDataClass\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\AJ_JIN\Desktop\00유인정산기_0605\AJDataClass\bin\Debug\Newtonsoft.Json.xml
+C:\Users\AJ_JIN\Desktop\00유인정산기_0605\AJDataClass\bin\Debug\RestSharp.pdb
+C:\Users\AJ_JIN\Desktop\00유인정산기_0605\AJDataClass\bin\Debug\RestSharp.xml
+D:\[1]AJ파크\[1]Module\AJPL\AJDataClass\bin\Debug\AJDataClass.dll
+D:\[1]AJ파크\[1]Module\AJPL\AJDataClass\bin\Debug\AJDataClass.pdb
+D:\[1]AJ파크\[1]Module\AJPL\AJDataClass\bin\Debug\AJEnums.dll
+D:\[1]AJ파크\[1]Module\AJPL\AJDataClass\bin\Debug\Newtonsoft.Json.dll
+D:\[1]AJ파크\[1]Module\AJPL\AJDataClass\bin\Debug\RestSharp.dll
+D:\[1]AJ파크\[1]Module\AJPL\AJDataClass\bin\Debug\AJEnums.pdb
+D:\[1]AJ파크\[1]Module\AJPL\AJDataClass\bin\Debug\Newtonsoft.Json.pdb
+D:\[1]AJ파크\[1]Module\AJPL\AJDataClass\bin\Debug\Newtonsoft.Json.xml
+D:\[1]AJ파크\[1]Module\AJPL\AJDataClass\bin\Debug\RestSharp.pdb
+D:\[1]AJ파크\[1]Module\AJPL\AJDataClass\bin\Debug\RestSharp.xml
+D:\[1]AJ파크\[1]Module\AJPL\AJDataClass\obj\Debug\AJDataClass.csprojResolveAssemblyReference.cache
+D:\[1]AJ파크\[1]Module\AJPL\AJDataClass\obj\Debug\AJDataClass.dll
+D:\[1]AJ파크\[1]Module\AJPL\AJDataClass\obj\Debug\AJDataClass.pdb
+D:\진남_일지\날짜별\18년 1월\AJPL\AJDataClass\bin\Debug\AJDataClass.dll
+D:\진남_일지\날짜별\18년 1월\AJPL\AJDataClass\bin\Debug\AJDataClass.pdb
+D:\진남_일지\날짜별\18년 1월\AJPL\AJDataClass\bin\Debug\AJEnums.dll
+D:\진남_일지\날짜별\18년 1월\AJPL\AJDataClass\bin\Debug\AJEnums.pdb
+D:\진남_일지\날짜별\18년 1월\AJPL\AJDataClass\obj\Debug\AJDataClass.csprojResolveAssemblyReference.cache
+D:\진남_일지\날짜별\18년 1월\AJPL\AJDataClass\obj\Debug\AJDataClass.dll
+D:\진남_일지\날짜별\18년 1월\AJPL\AJDataClass\obj\Debug\AJDataClass.pdb
+D:\진남_일지\날짜별\18년 1월\AJPL - 복사본\AJDataClass\bin\Debug\AJDataClass.dll
+D:\진남_일지\날짜별\18년 1월\AJPL - 복사본\AJDataClass\bin\Debug\AJDataClass.pdb
+D:\진남_일지\날짜별\18년 1월\AJPL - 복사본\AJDataClass\bin\Debug\AJEnums.dll
+D:\진남_일지\날짜별\18년 1월\AJPL - 복사본\AJDataClass\bin\Debug\AJEnums.pdb
+D:\진남_일지\날짜별\18년 1월\AJPL - 복사본\AJDataClass\obj\Debug\AJDataClass.csprojResolveAssemblyReference.cache
+D:\진남_일지\날짜별\18년 1월\AJPL - 복사본\AJDataClass\obj\Debug\AJDataClass.dll
+D:\진남_일지\날짜별\18년 1월\AJPL - 복사본\AJDataClass\obj\Debug\AJDataClass.pdb

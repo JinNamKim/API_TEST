@@ -1,0 +1,111 @@
+C:\Users\AJ_JIN\Desktop\AJ_PL\AJDataClass\bin\Release\AJDataClass.dll
+C:\Users\AJ_JIN\Desktop\AJ_PL\AJDataClass\bin\Release\AJDataClass.pdb
+C:\Users\AJ_JIN\Desktop\AJ_PL\AJDataClass\bin\Release\AJEnums.dll
+C:\Users\AJ_JIN\Desktop\AJ_PL\AJDataClass\bin\Release\Newtonsoft.Json.dll
+C:\Users\AJ_JIN\Desktop\AJ_PL\AJDataClass\bin\Release\RestSharp.dll
+C:\Users\AJ_JIN\Desktop\AJ_PL\AJDataClass\bin\Release\AJEnums.pdb
+C:\Users\AJ_JIN\Desktop\AJ_PL\AJDataClass\bin\Release\Newtonsoft.Json.pdb
+C:\Users\AJ_JIN\Desktop\AJ_PL\AJDataClass\bin\Release\Newtonsoft.Json.xml
+C:\Users\AJ_JIN\Desktop\AJ_PL\AJDataClass\bin\Release\RestSharp.xml
+C:\Users\AJ_JIN\Desktop\AJ_PL\AJDataClass\obj\Release\AJDataClass.csprojResolveAssemblyReference.cache
+C:\Users\AJ_JIN\Desktop\AJ_PL\AJDataClass\obj\Release\AJDataClass.dll
+C:\Users\AJ_JIN\Desktop\AJ_PL\AJDataClass\obj\Release\AJDataClass.pdb
+C:\Users\AJ_JIN\Desktop\AJ_PL_TEMP\AJDataClass\bin\Release\AJDataClass.dll
+C:\Users\AJ_JIN\Desktop\AJ_PL_TEMP\AJDataClass\bin\Release\AJDataClass.pdb
+C:\Users\AJ_JIN\Desktop\AJ_PL_TEMP\AJDataClass\bin\Release\AJEnums.dll
+C:\Users\AJ_JIN\Desktop\AJ_PL_TEMP\AJDataClass\bin\Release\Newtonsoft.Json.dll
+C:\Users\AJ_JIN\Desktop\AJ_PL_TEMP\AJDataClass\bin\Release\RestSharp.dll
+C:\Users\AJ_JIN\Desktop\AJ_PL_TEMP\AJDataClass\bin\Release\AJEnums.pdb
+C:\Users\AJ_JIN\Desktop\AJ_PL_TEMP\AJDataClass\bin\Release\Newtonsoft.Json.pdb
+C:\Users\AJ_JIN\Desktop\AJ_PL_TEMP\AJDataClass\bin\Release\Newtonsoft.Json.xml
+C:\Users\AJ_JIN\Desktop\AJ_PL_TEMP\AJDataClass\bin\Release\RestSharp.pdb
+C:\Users\AJ_JIN\Desktop\AJ_PL_TEMP\AJDataClass\bin\Release\RestSharp.xml
+C:\Users\AJ_JIN\Desktop\AJ_PL_TEMP\AJDataClass\obj\Release\AJDataClass.csprojResolveAssemblyReference.cache
+C:\Users\AJ_JIN\Desktop\AJ_PL_TEMP\AJDataClass\obj\Release\AJDataClass.dll
+C:\Users\AJ_JIN\Desktop\AJ_PL_TEMP\AJDataClass\obj\Release\AJDataClass.pdb
+C:\Users\AJ_JIN\Desktop\AJ_PL_TEMP_2\170502_유인정산기\AJ_PL_TEMP\AJDataClass\bin\Release\AJDataClass.dll
+C:\Users\AJ_JIN\Desktop\AJ_PL_TEMP_2\170502_유인정산기\AJ_PL_TEMP\AJDataClass\bin\Release\AJDataClass.pdb
+C:\Users\AJ_JIN\Desktop\AJ_PL_TEMP_2\170502_유인정산기\AJ_PL_TEMP\AJDataClass\bin\Release\AJEnums.dll
+C:\Users\AJ_JIN\Desktop\AJ_PL_TEMP_2\170502_유인정산기\AJ_PL_TEMP\AJDataClass\bin\Release\Newtonsoft.Json.dll
+C:\Users\AJ_JIN\Desktop\AJ_PL_TEMP_2\170502_유인정산기\AJ_PL_TEMP\AJDataClass\bin\Release\RestSharp.dll
+C:\Users\AJ_JIN\Desktop\AJ_PL_TEMP_2\170502_유인정산기\AJ_PL_TEMP\AJDataClass\bin\Release\AJEnums.pdb
+C:\Users\AJ_JIN\Desktop\AJ_PL_TEMP_2\170502_유인정산기\AJ_PL_TEMP\AJDataClass\bin\Release\Newtonsoft.Json.pdb
+C:\Users\AJ_JIN\Desktop\AJ_PL_TEMP_2\170502_유인정산기\AJ_PL_TEMP\AJDataClass\bin\Release\Newtonsoft.Json.xml
+C:\Users\AJ_JIN\Desktop\AJ_PL_TEMP_2\170502_유인정산기\AJ_PL_TEMP\AJDataClass\bin\Release\RestSharp.pdb
+C:\Users\AJ_JIN\Desktop\AJ_PL_TEMP_2\170502_유인정산기\AJ_PL_TEMP\AJDataClass\bin\Release\RestSharp.xml
+C:\Users\AJ_JIN\Desktop\AJ_PL_TEMP_2\170502_유인정산기\AJ_PL_TEMP\AJDataClass\obj\Release\AJDataClass.csprojResolveAssemblyReference.cache
+C:\Users\AJ_JIN\Desktop\AJ_PL_TEMP_2\170502_유인정산기\AJ_PL_TEMP\AJDataClass\obj\Release\AJDataClass.dll
+C:\Users\AJ_JIN\Desktop\AJ_PL_TEMP_2\170502_유인정산기\AJ_PL_TEMP\AJDataClass\obj\Release\AJDataClass.pdb
+C:\Users\AJ_JIN\Desktop\00유인정산기_0605\AJDataClass\bin\Release\AJDataClass.dll
+C:\Users\AJ_JIN\Desktop\00유인정산기_0605\AJDataClass\bin\Release\AJDataClass.pdb
+C:\Users\AJ_JIN\Desktop\00유인정산기_0605\AJDataClass\bin\Release\AJEnums.dll
+C:\Users\AJ_JIN\Desktop\00유인정산기_0605\AJDataClass\bin\Release\Newtonsoft.Json.dll
+C:\Users\AJ_JIN\Desktop\00유인정산기_0605\AJDataClass\bin\Release\RestSharp.dll
+C:\Users\AJ_JIN\Desktop\00유인정산기_0605\AJDataClass\bin\Release\AJEnums.pdb
+C:\Users\AJ_JIN\Desktop\00유인정산기_0605\AJDataClass\bin\Release\Newtonsoft.Json.pdb
+C:\Users\AJ_JIN\Desktop\00유인정산기_0605\AJDataClass\bin\Release\Newtonsoft.Json.xml
+C:\Users\AJ_JIN\Desktop\00유인정산기_0605\AJDataClass\bin\Release\RestSharp.pdb
+C:\Users\AJ_JIN\Desktop\00유인정산기_0605\AJDataClass\bin\Release\RestSharp.xml
+C:\Users\AJ_JIN\Desktop\00유인정산기_0605\AJDataClass\obj\Release\AJDataClass.csprojResolveAssemblyReference.cache
+C:\Users\AJ_JIN\Desktop\00유인정산기_0605\AJDataClass\obj\Release\AJDataClass.dll
+C:\Users\AJ_JIN\Desktop\00유인정산기_0605\AJDataClass\obj\Release\AJDataClass.pdb
+D:\진남_일지\날짜별\17년 7월\0707_유인_SI통신추가(19시)\진남 정산기_오토허브_실사용\AJDataClass\bin\Release\AJDataClass.dll
+D:\진남_일지\날짜별\17년 7월\0707_유인_SI통신추가(19시)\진남 정산기_오토허브_실사용\AJDataClass\bin\Release\AJDataClass.pdb
+D:\진남_일지\날짜별\17년 7월\0707_유인_SI통신추가(19시)\진남 정산기_오토허브_실사용\AJDataClass\bin\Release\AJEnums.dll
+D:\진남_일지\날짜별\17년 7월\0707_유인_SI통신추가(19시)\진남 정산기_오토허브_실사용\AJDataClass\bin\Release\Newtonsoft.Json.dll
+D:\진남_일지\날짜별\17년 7월\0707_유인_SI통신추가(19시)\진남 정산기_오토허브_실사용\AJDataClass\bin\Release\RestSharp.dll
+D:\진남_일지\날짜별\17년 7월\0707_유인_SI통신추가(19시)\진남 정산기_오토허브_실사용\AJDataClass\bin\Release\AJEnums.pdb
+D:\진남_일지\날짜별\17년 7월\0707_유인_SI통신추가(19시)\진남 정산기_오토허브_실사용\AJDataClass\bin\Release\Newtonsoft.Json.pdb
+D:\진남_일지\날짜별\17년 7월\0707_유인_SI통신추가(19시)\진남 정산기_오토허브_실사용\AJDataClass\bin\Release\Newtonsoft.Json.xml
+D:\진남_일지\날짜별\17년 7월\0707_유인_SI통신추가(19시)\진남 정산기_오토허브_실사용\AJDataClass\bin\Release\RestSharp.pdb
+D:\진남_일지\날짜별\17년 7월\0707_유인_SI통신추가(19시)\진남 정산기_오토허브_실사용\AJDataClass\bin\Release\RestSharp.xml
+D:\진남_일지\날짜별\17년 7월\0707_유인_SI통신추가(19시)\진남 정산기_오토허브_실사용\AJDataClass\obj\Release\AJDataClass.csprojResolveAssemblyReference.cache
+D:\진남_일지\날짜별\17년 7월\0707_유인_SI통신추가(19시)\진남 정산기_오토허브_실사용\AJDataClass\obj\Release\AJDataClass.dll
+D:\진남_일지\날짜별\17년 7월\0707_유인_SI통신추가(19시)\진남 정산기_오토허브_실사용\AJDataClass\obj\Release\AJDataClass.pdb
+D:\진남_일지\날짜별\17년 7월\0713_진남 정산기_오토허브_실사용_차량상태추가\AJDataClass\bin\Release\AJDataClass.dll
+D:\진남_일지\날짜별\17년 7월\0713_진남 정산기_오토허브_실사용_차량상태추가\AJDataClass\bin\Release\AJDataClass.pdb
+D:\진남_일지\날짜별\17년 7월\0713_진남 정산기_오토허브_실사용_차량상태추가\AJDataClass\bin\Release\AJEnums.dll
+D:\진남_일지\날짜별\17년 7월\0713_진남 정산기_오토허브_실사용_차량상태추가\AJDataClass\bin\Release\Newtonsoft.Json.dll
+D:\진남_일지\날짜별\17년 7월\0713_진남 정산기_오토허브_실사용_차량상태추가\AJDataClass\bin\Release\RestSharp.dll
+D:\진남_일지\날짜별\17년 7월\0713_진남 정산기_오토허브_실사용_차량상태추가\AJDataClass\bin\Release\AJEnums.pdb
+D:\진남_일지\날짜별\17년 7월\0713_진남 정산기_오토허브_실사용_차량상태추가\AJDataClass\bin\Release\Newtonsoft.Json.pdb
+D:\진남_일지\날짜별\17년 7월\0713_진남 정산기_오토허브_실사용_차량상태추가\AJDataClass\bin\Release\Newtonsoft.Json.xml
+D:\진남_일지\날짜별\17년 7월\0713_진남 정산기_오토허브_실사용_차량상태추가\AJDataClass\bin\Release\RestSharp.pdb
+D:\진남_일지\날짜별\17년 7월\0713_진남 정산기_오토허브_실사용_차량상태추가\AJDataClass\bin\Release\RestSharp.xml
+D:\진남_일지\날짜별\17년 7월\0713_진남 정산기_오토허브_실사용_차량상태추가\AJDataClass\obj\Release\AJDataClass.csprojResolveAssemblyReference.cache
+D:\진남_일지\날짜별\17년 7월\0713_진남 정산기_오토허브_실사용_차량상태추가\AJDataClass\obj\Release\AJDataClass.dll
+D:\진남_일지\날짜별\17년 7월\0713_진남 정산기_오토허브_실사용_차량상태추가\AJDataClass\obj\Release\AJDataClass.pdb
+D:\[1]AJ파크\[1]Module\AJPL\AJDataClass\bin\Release\AJDataClass.dll
+D:\[1]AJ파크\[1]Module\AJPL\AJDataClass\bin\Release\AJDataClass.pdb
+D:\[1]AJ파크\[1]Module\AJPL\AJDataClass\bin\Release\AJEnums.dll
+D:\[1]AJ파크\[1]Module\AJPL\AJDataClass\bin\Release\Newtonsoft.Json.dll
+D:\[1]AJ파크\[1]Module\AJPL\AJDataClass\bin\Release\RestSharp.dll
+D:\[1]AJ파크\[1]Module\AJPL\AJDataClass\bin\Release\AJEnums.pdb
+D:\[1]AJ파크\[1]Module\AJPL\AJDataClass\bin\Release\Newtonsoft.Json.pdb
+D:\[1]AJ파크\[1]Module\AJPL\AJDataClass\bin\Release\Newtonsoft.Json.xml
+D:\[1]AJ파크\[1]Module\AJPL\AJDataClass\bin\Release\RestSharp.pdb
+D:\[1]AJ파크\[1]Module\AJPL\AJDataClass\bin\Release\RestSharp.xml
+D:\[1]AJ파크\[1]Module\AJPL\AJDataClass\obj\Release\AJDataClass.csprojResolveAssemblyReference.cache
+D:\[1]AJ파크\[1]Module\AJPL\AJDataClass\obj\Release\AJDataClass.dll
+D:\[1]AJ파크\[1]Module\AJPL\AJDataClass\obj\Release\AJDataClass.pdb
+D:\진남_일지\날짜별\18년 1월\AJPL\AJDataClass\bin\Release\AJDataClass.dll
+D:\진남_일지\날짜별\18년 1월\AJPL\AJDataClass\bin\Release\AJDataClass.pdb
+D:\진남_일지\날짜별\18년 1월\AJPL\AJDataClass\bin\Release\AJEnums.dll
+D:\진남_일지\날짜별\18년 1월\AJPL\AJDataClass\bin\Release\AJEnums.pdb
+D:\진남_일지\날짜별\18년 1월\AJPL\AJDataClass\obj\Release\AJDataClass.csprojResolveAssemblyReference.cache
+D:\진남_일지\날짜별\18년 1월\AJPL\AJDataClass\obj\Release\AJDataClass.dll
+D:\진남_일지\날짜별\18년 1월\AJPL\AJDataClass\obj\Release\AJDataClass.pdb
+D:\진남_일지\날짜별\18년 1월\AJPL - 복사본\AJDataClass\bin\Release\AJDataClass.dll
+D:\진남_일지\날짜별\18년 1월\AJPL - 복사본\AJDataClass\bin\Release\AJDataClass.pdb
+D:\진남_일지\날짜별\18년 1월\AJPL - 복사본\AJDataClass\bin\Release\AJEnums.dll
+D:\진남_일지\날짜별\18년 1월\AJPL - 복사본\AJDataClass\bin\Release\AJEnums.pdb
+D:\진남_일지\날짜별\18년 1월\AJPL - 복사본\AJDataClass\obj\Release\AJDataClass.csprojResolveAssemblyReference.cache
+D:\진남_일지\날짜별\18년 1월\AJPL - 복사본\AJDataClass\obj\Release\AJDataClass.dll
+D:\진남_일지\날짜별\18년 1월\AJPL - 복사본\AJDataClass\obj\Release\AJDataClass.pdb
+D:\진남_일지\LMS_TEST\AJDataClass\obj\Release\AJDataClass.csprojResolveAssemblyReference.cache
+D:\진남_일지\LMS_TEST\AJDataClass\obj\Release\AJDataClass.dll
+D:\진남_일지\LMS_TEST\AJDataClass\obj\Release\AJDataClass.pdb
+D:\진남_일지\LMS_TEST\AJDataClass\bin\Release\AJDataClass.dll
+D:\진남_일지\LMS_TEST\AJDataClass\bin\Release\AJDataClass.pdb
+D:\진남_일지\LMS_TEST\AJDataClass\bin\Release\AJEnums.dll
+D:\진남_일지\LMS_TEST\AJDataClass\bin\Release\AJEnums.pdb
