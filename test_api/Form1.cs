@@ -27,8 +27,10 @@ namespace test_api
 
         private void button1_Click(object sender, EventArgs e)
         {
-            AJ_RESPONSE_initializedInfo aaa = new AJ_RESPONSE_initializedInfo();
-            aaa = AJWebDatabase.AJ_Get_Initial_Info(3);
+            //AJ_RESPONSE_initializedInfo aaa = new AJ_RESPONSE_initializedInfo();
+            AJ_RESPONSE_initializedInfo bbb = new AJ_RESPONSE_initializedInfo();
+            //TEST
+            bbb = AJWebDatabase.AJ_Get_Initial_Info(3);
         }
 
         private void button17_Click(object sender, EventArgs e)
